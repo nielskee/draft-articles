@@ -150,8 +150,8 @@ think of them as the first step towards the culture of trust,
 empowerment and autonomy your company needs to thrive in the digital
 era.
 
-- Hire developers at the start of the career, and mentor and support
-  them.
+- Hire developers at the start of their careers, and mentor and
+  support them.
 
 - Build a culture of learning in your organisation.
 
