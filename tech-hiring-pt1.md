@@ -124,8 +124,7 @@ organisation and culture, and think about what you need to do to make
 it a supportive learning environment for teams with mixed levels of
 experience.
 
-The best support mechanisms I've used to help learning and sharing is
-through [Communities Of
+The best support for learning and sharing is through [Communities Of
 Practice](https://en.wikipedia.org/wiki/Community_of_practice). This
 is a self-organising model that lets groups of people working in the
 same field to share experience, support their colleagues, learn new
@@ -144,7 +143,7 @@ in teams. Don't kill the vibe by trying to manage it, but give people
 the time, space and support to learn.
 
 For many organisations, these approaches represent a significant
-cultural shift, but it's a good shift. If these idea are new to you,
+cultural shift, but it's a good shift. If these ideas are new to you,
 think of them as the first step towards the culture of trust,
 empowerment and autonomy your company needs to thrive in the digital
 era.
@@ -173,10 +172,12 @@ technical interviewing. A cost. An overhead. A burden. Disruptive.
 
 But if the thing that's preventing you from meeting your
 organisational goals is not having the right people, then this really
-is the problem you need to focus on, and you need to be prepared to
-spend time selecting the right people to come and work in your
-team.<sup>[2](#fn2)</sup>.
+is the problem you need to focus on<sup>[2](#fn2)</sup>. It takes time
+to select the right people to come and work in your team, but if you
+get the right approach, and get your developers interviewing
+candidates, it can scale up pretty well.
 
+One final thought on this before we revisit in the next installment.
 We tend to think of this funnel in a positive light : "we're going
 forward with the candidates we're most confident in". What we think
 about a lot *less* is this fact : __the vast majority of decisions we
