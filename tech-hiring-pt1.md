@@ -166,15 +166,31 @@ process.
 
 TODO: funnel diagram
 
-It's quite industrialised, and a little impersonal...but I
-understand. Hiring is a time-consuming business, and it takes
-developers away from their day jobs to help with technical
-interviewing<sup>[2](#fn2)</sup>.
+It's quite industrialised, and a little impersonal...but I understand
+what drives it. You might see hiring as a time-consuming business, and
+that it takes developers away from their "day jobs" to help with
+technical interviewing. A cost. An overhead. A burden. Disruptive.
 
-We tend to think of this in a positive light : "we're going forward
-with the candidates we're most confident in". What we think about a
-lot *less* is this : __the vast majority of decisions we make about
-candidates are made when we know the least about them.__
+But if the thing that's preventing you from meeting your
+organisational goals is not having the right people, then this really
+is the problem you need to focus on, and you need to be prepared to
+spend time selecting the right people to come and work in your
+team.<sup>[2](#fn2)</sup>.
+
+We tend to think of this funnel in a positive light : "we're going
+forward with the candidates we're most confident in". What we think
+about a lot *less* is this fact : __the vast majority of decisions we
+make about candidates are made when we know the least about them.__
+
+When we get to Episode 2, we'll cover screening techniques, and how we
+can keep the process as lean as we can, but also avoid missing out on
+potentially great candidates.
+
+- Hiring the right people is going to take time, but there's nothing
+  more important for your organisation than the people you choose
+
+- Screen to keep the process moving, but take a holistic, balanced
+  view of the candidate.
 
 ## Get The Spec Right
 
