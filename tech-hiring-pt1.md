@@ -124,24 +124,25 @@ organisation and culture, and think about what you need to do to make
 it a supportive learning environment for teams with mixed levels of
 experience.
 
-- Build a learning culture in your organisation : encourage informal
-  learning, pairing and mentoring.
+The best support mechanisms I've used to help learning and sharing is
+the [Communities Of
+Practice](https://en.wikipedia.org/wiki/Community_of_practice)
+model. This is a self-organising model that lets groups of people
+working in the same field to share experience, support their
+colleagues, learn new things, and to form a view on what approaches
+work for their field and technology<sup>[3](#fn3)</sup>. Again, trust
+them, don't manage them.
 
-- Support it more concretely than with mere words : build learning
-  time into the working week.
-
-- Actively encourage people to help out less experienced developers,
-  and let everyone know that it's part of the company's culture.
+You need to make it clear that you support a culture of learning in
+your organisation, and that you encourage informal learning, pairing
+and mentoring. Make sure you also support it with more than just words
+by building learning time into the working week.
 
 None of these things need to be part of a formal performance process,
 and none of them need any kind of coordination by a central learning
 team. They should happen spontaneously, continuously and organically
 in teams. Don't kill the vibe by trying to manage it, just give people
 the time, space and support to learn.
-
-One of the best support mechanisms I've used to help learning and
-sharing is the Communities Of Practice model. Again : trust them,
-don't manage them.
 
 For many organisations, these things are a significant cultural shift,
 but it's a good shift. If this idea is new to you, think of it as the
@@ -151,7 +152,7 @@ company needs to thrive in the digital era.
 - Hire developers at the start of the career, and mentor and support
   them.
 
-- Build a culture of learning.
+- Build a culture of learning in your organisation.
 
 - Support this culture through dedicated learning time, and
   Communities of Practice.
