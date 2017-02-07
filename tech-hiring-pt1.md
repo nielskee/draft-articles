@@ -162,7 +162,9 @@ era.
 ## Your Funnel's Broken
 
 Most organisations implement something like this model in their hiring
-process.
+process, in an effort to reduce the pool of candidates by different
+stages of screening and selection. Typically, each of these steps is a
+binary outcome for each candidate : proceed, or don't.
 
 ![Funnel](funnel.png)
 
