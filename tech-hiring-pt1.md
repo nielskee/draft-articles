@@ -54,8 +54,8 @@ more about this in later posts.
 I've worked in software development for 30 years. I've seen some
 progress over that time, but the pace is still painfully slow. On
 gender diversity, we have a long way to go. We all have a
-responsibility to fix the situation in tech for fuhndamental reasons
-of equality, quite apart from the benefits that diverse teams bring.
+responsibility to fix the situation in tech for fundamental reasons of
+equality, quite apart from the benefits that diverse teams bring.
 
 But benefits there most certainly are. Diverse teams are *good*
 teams. Any developer will tell you about the value of a different
@@ -83,21 +83,22 @@ positive benefits for diverse hiring. We'll favour approaches that
 focus on collaborative traits, and give a more holistic view of how
 someone would fare in a team setting.
 
-- Make diversity in tech hiring an explicit goal, not an afterthought.
+- Make diversity in your tech hiring an explicit goal, not an
+  afterthought.
 
 - Use interviewing approaches that favour collaborative
   problem-solving, rather than just giving a stage for confident and
   assertive candidates to be confident and assertive.
 
-- Don't use "ninja developer" and "rockstar developer" cliches : it's
-  language that encourages bias. Also, developers will laugh at you
-  behind your back.
+- Don't use "ninja developer" and "rockstar developer" cliches : this
+  is a gung-ho vocabulary that exacerbates bias. Also, developers will
+  laugh at you behind your back.
 
 - Mitigate the effects of unconscious bias by having diversity in your
   pool of technical interviewers.
 
 - Coach everyone in your team on technical interviewing, and give them
-  practice. It's difficult to get right. 
+  practice. It's difficult to get right.
 
 ## Hire Across The Experience Range
 
