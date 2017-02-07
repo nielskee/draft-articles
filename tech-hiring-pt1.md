@@ -158,30 +158,21 @@ company needs to thrive in the digital era.
 - Trust people to learn in their teams and communities.
 
 ## Your Funnel's Broken
-Most organisations implement something like this model in their
-hiring process.
+
+Most organisations implement something like this model in their hiring
+process.
 
 TODO: funnel diagram
 
-It's quite industrialised, but I understand. Hiring is a
-time-consuming business, and it takes developers away from their day
-jobs to help with technical interviewing.
+It's quite industrialised, and a little impersonal...but I
+understand. Hiring is a time-consuming business, and it takes
+developers away from their day jobs to help with technical
+interviewing<sup>[2](#fn2)</sup>.
 
-That said, if having the right people in your team is the biggest
-bottleneck that's holding you back, then this really should be your
-priority to fix.
-
-TODO: Effectiveness vs cost
-
-TODO: TOC and bottleneck reference.
-
-In agile thought, we have this concept of the "cone of uncertainty" :
-the basic premise is that projects that have Big Up-Front Planning.
-
-Well, that funnel diagram is the Cone Of Uncertainty rotated 90
-degrees clockwise. You do this in hiring, the same as you do in
-software projects : you make the vast majority of your decisions about
-candidates when you know the least about them.
+We tend to think of this in a positive light : "we're going forward
+with the candidates we're most confident in". What we think about a
+lot *less* is this : _the vast majority of decisions we make about
+candidates are made when we know the least about them._
 
 ## Get The Spec Right
 
@@ -258,3 +249,9 @@ for both you and the candidate.
 <a name="fn1">1</a>: This is a great book, and I highly recommend it
 both to developers starting out, and to experienced developers who are
 mentoring new starts.
+
+<a name="fn2">2</a>: Although the Theory Of Constraint would suggest
+that if having the right people on your team is the bottleneck that's
+stopping your business meeting its goals, then this is the priority
+you should be focusing on
+https://en.wikipedia.org/wiki/Theory_of_constraints
