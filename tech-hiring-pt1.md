@@ -73,10 +73,11 @@ that senior managers do, you're not going to make progress.
 
 Some interview styles favour male candidates, in particular those
 candidates who are confident, assertive and sell themselves
-effectively. Bragging isn't a uniquely male trait, but it's certainly
-more prevalent. If you structure your technical hiring around these
-formats, and factor in the unconscious bias that favours "ambitious"
-candidates, you've got a toxic combination on your hands.
+effectively. Bragging isn't a _uniquely_ male trait, but it's
+certainly more prevalent. If you structure your technical hiring
+around these formats, and factor in the unconscious bias that hiring
+managers have favouring candidates seen as "ambitious", you've got a
+toxic combination on your hands.
 
 In some of the interview styles we're going to look at, there are
 positive benefits for diverse hiring. We'll favour approaches that
@@ -124,12 +125,12 @@ organisation and culture, and think about what you need to do to make
 it a supportive learning environment for teams with mixed levels of
 experience.
 
-The best support for learning and sharing is through [Communities Of
+The best support for learning is through [Communities Of
 Practice](https://en.wikipedia.org/wiki/Community_of_practice). This
 is a self-organising model that lets groups of people working in the
 same field to share experience, support their colleagues, learn new
 things, and to form a view on what approaches work for their field or
-technology<sup>[3](#fn3)</sup>. Again, trust them, don't manage them.
+technology<sup>[2](#fn2)</sup>. Again, trust them, don't manage them.
 
 You need to make it clear that you support a culture of learning in
 your organisation, and that you encourage informal learning, pairing
@@ -172,10 +173,10 @@ technical interviewing. A cost. An overhead. A burden. Disruptive.
 
 But if the thing that's preventing you from meeting your
 organisational goals is not having the right people, then this really
-is the problem you need to focus on<sup>[2](#fn2)</sup>. It takes time
-to select the right people to come and work in your team, but if you
-get the right approach, and get your developers interviewing
-candidates, it can scale up pretty well.
+is the problem you need to focus on. It takes time to select the right
+people to come and work in your team, but if you get the right
+approach, and get your developers interviewing candidates, it can
+scale up pretty well.
 
 One final thought on this before we revisit in the next installment.
 We tend to think of this funnel in a positive light : "we're going
@@ -183,9 +184,9 @@ forward with the candidates we're most confident in". What we think
 about a lot *less* is this fact : __the vast majority of decisions we
 make about candidates are made when we know the least about them.__
 
-When we get to Episode 2, we'll cover screening techniques, and how we
-can keep the process as lean as we can, but also avoid missing out on
-potentially great candidates.
+When we get to the second installment in this series, we'll cover
+screening techniques, and how we can keep the process as lean as we
+can, but also avoid missing out on potentially great candidates.
 
 - Hiring the right people is going to take time, but there's nothing
   more important for your organisation than the people you choose.
@@ -196,10 +197,10 @@ potentially great candidates.
 ## Communicate, But Don't Specify
 
 You don't have to look far for terrible role specifications, and I
-won't inflict any on you here. Most job specifications for developer
-roles are endless laundry-lists of technologies, frameworks, languages
-and platforms. They're low-level specifications for machines, not
-people.
+won't inflict any on you here<sup>[3](#fn3)</sup>. Most job
+specifications for developer roles are endless laundry-lists of
+technologies, frameworks, languages and platforms. They're low-level
+specifications for machines, not people.
 
 But some companies get this __very right__. Here's an example of a
 recent open role from FanDuel for an entry-level mobile
@@ -270,11 +271,11 @@ while you scrabble around upstairs trying to figure out how to run a
 tech interview. This is not a good look. You'll give the impression of
 being lazy and amateurish, and that impression will be accurate.
 
-The biggest risk in failing to prepare is that time pressure forces
-you to use a last resort interview format. In most organisations, the
-last resort is a dog-eared, coffee-stained, grubby and mildewed
-handful of A4 sheets : yes, it's the "Technical Interview Question
-List".
+The biggest risk in being unprepared is that time pressure forces you
+to use a last resort interview format. In most organisations, the last
+resort is a dog-eared, coffee-stained, grubby and mildewed handful of
+A4 sheets. Yes, it's the "Technical Interview Question List", and it's
+probably older than some of your colleagues.
 
 This is usually a museum piece of technical minutiae, corner cases and
 trick questions, deprecated APIs and obsolete "best practices"...and
@@ -306,16 +307,16 @@ of them, for both you and the candidate.
 
 ##  Resources
 
-<a name="fn1">1</a>: This is a great book, and I highly recommend it
-both to developers starting out, and to experienced developers who are
-mentoring new starts.
+<a name="fn1">1</a>: I highly recommend Pete Goodliffe's book both to
+developers starting out, and to experienced developers who are
+mentoring less experienced developers.
 
-<a name="fn2">2</a>: Although the Theory Of Constraints would suggest
-that if having the right people on your team is a bottleneck that's
-stopping your business from meeting its goals, then this is the
-priority you should be focusing on
-https://en.wikipedia.org/wiki/Theory_of_constraints
+<a name="fn2">2</a>: Emily Webber has written a concise but excellent
+book on building Communities Of Pratice in organisations. She's also a
+regular speaker on this subject, so don't miss an opportunity to hear
+her talking.
 
-- Sandro Mancuso
-- Emily Webber
-
+<a name="fn3">3</a>: Sandro Mancuso picks apart the traditional job
+spec in the hiring section of his excellent book "The Software
+Craftsman". I recommend this to everyone working in software
+development.
