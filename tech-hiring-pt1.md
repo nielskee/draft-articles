@@ -164,7 +164,7 @@ era.
 Most organisations implement something like this model in their hiring
 process.
 
-TODO: funnel diagram
+![Funnel](funnel.png)
 
 It's quite industrialised, and a little impersonal...but I understand
 what drives it. You might see hiring as a time-consuming business, and
