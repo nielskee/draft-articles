@@ -246,11 +246,11 @@ and the overall team focus. And then, oh wow, this:
 >   and encouragement to submit talks if you want to.
 
 Reader, I'm almost crying tears of joy at this point. They've managed
-to communicate a sense of their values and their culture, as well as
-the specific ways that people are supported. There's more on that job
-page, but the message is very loud and very clear : "We are good
-people, making good things. We will support you, and you will help us
-to make great products. Come and work with us."
+to communicate their values and culture, as well as the specific ways
+that people are supported. There's more on that job page, but the
+message is very loud and very clear : "We are good people, making good
+things. We will support you, and you will help us to make great
+products. Come and work with us."
 
 You're hiring in a tough market, and you need to communicate your
 understanding that this is a two-way street, and isn't just about your
