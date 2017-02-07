@@ -210,8 +210,8 @@ their own decisions, learn from mistakes and execute what works."
 
 Excellent: an organisation that expects people to act, learn and
 adapt. They go on to describe the organisation - good background, and
-necessary. Then they go on to describe the role. I've chosen my words
-carefully here : they *describe* the role, they don't *specify* it.
+necessary. Then they describe the role. I've chosen my words carefully
+here : they *describe* the role, they don't *specify* it.
 
 > What does an Entry Level Mobile Engineer do
 >
@@ -242,42 +242,49 @@ lordy, this:
 > - A personal development budget for training and events and support
 >   and encouragement to submit talks if you want to.
 
-I'm almost crying at this point. They've managed to communicate a
-sense of their values and their culture, as well as the specific ways
-that people are supported. There's more on that job page, but the
-message is very loud and very clear : "We are good people, making good
-things. We will support you, and you will help us to make great
-products. Come and work for us."
+Reader, I'm almost crying at this point. They've managed to
+communicate a sense of their values and their culture, as well as the
+specific ways that people are supported. There's more on that job
+page, but the message is very loud and very clear : "We are good
+people, making good things. We will support you, and you will help us
+to make great products. Come and work for us."
+
+You're hiring in tough market, and you need to communicate your
+understanding that this is a two-way street, and isn't just about your
+requirements for what the candidate should have.
 
 - Role specifications are constraining, unappealing, and unrealistic
   things.
 
-- Focus on describing what people do in your teams, your organisation
-  and its culture and values.
+- Focus on describing what people do in your teams, what you make,
+  your organisation, and its culture and values.
 
 - Make it clear that you'll do things to support the successful
   candidate, and that it's not one-way traffic.
 
 ## Plan Ahead
 
-Think up front. If you don't, you'll end up with candidates sitting
-pensively in reception, while you scrabble around upstairs trying to
-figure out how to do a tech interview. This is not a good look.
+Think up front about how you're going to screen and interview. If you
+don't, you'll end up with candidates sitting pensively in reception,
+while you scrabble around upstairs trying to figure out how to run a
+tech interview. This is not a good look. You'll give the impression of
+being lazy and amateurish, and that impression will be accurate.
 
-TODO: rework
+The biggest risk in failing to prepare is that time pressure forces
+you to use a last resort interview format. In most organisations, the
+last resort is a dog-eared, coffee-stained, grubby and mildewed
+handful of A4 sheets : yes, it's the "Technical Interview Question
+List".
 
-Someone will produce a grubby handful of A4 sheets (triumphantly,
-always triumphantly : there's usually an "aha!" involved). Yes, this
-is the time-honoured tech interview questions list. Every organisation
-has one : dog-eared, coffee-stained, grubby and mildewed, a museum
-piece of technical minutiae, corner cases and trick questions,
-deprecated APIs and obsolete practices.
+This is usually a museum piece of technical minutiae, corner cases and
+trick questions, deprecated APIs and obsolete "best practices"...and
+Q&A is one of the least effective ways to run a technical interview to
+begin with.
 
-This the interviewing tool of last resort, and you're better than
-that.
+You're better than that.
 
-Most importantly, *tell candidates what the process is*. The format of
-technical interviews should never be a surprise to people. They
+Make sure that you *tell candidates what the process is*. The format
+of technical interviews should never be a surprise to people. They
 shouldn't even need to ask. Make it clear on your website, restate in
 any email communication, and invite people to email or call you if
 they need clarification on any part of the process.
@@ -285,17 +292,17 @@ they need clarification on any part of the process.
 Remember also that proportionality is important, and that you need to
 get technical interviewing right for the experience level of the
 candidate. If you're specifically hiring early careers candidates for
-a specific role, putting these candidates into the exact same process
-you use for experienced candidates is not going to give you a fair
-view of their ability and potential. You need to calibrate the
-difficulty level of challenges, and consider skipping or replacing
-some steps.
+a role, putting these candidates into the exact same process you use
+for experienced candidates is not going to give you a fair view of
+their ability and potential. You need to calibrate the difficulty
+level of challenges, and consider skipping or replacing some steps.
 
 ## Coming Next
+
 Most organisations find that they need to have some kind of screening
-stage. In the next post, we're going to look different tech screening
-tools and techniques, and figure out how to get the best out of them,
-for both you and the candidate.
+stage. In the next installment, we're going to look different tech
+screening tools and techniques, and figure out how to get the best out
+of them, for both you and the candidate.
 
 ##  Resources
 
