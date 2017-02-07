@@ -188,39 +188,60 @@ can keep the process as lean as we can, but also avoid missing out on
 potentially great candidates.
 
 - Hiring the right people is going to take time, but there's nothing
-  more important for your organisation than the people you choose
+  more important for your organisation than the people you choose.
 
 - Screen to keep the process moving, but take a holistic, balanced
   view of the candidate.
 
-## Get The Spec Right
+## Communicate
 
 You don't have to look far for terrible role specifications. I'm not
 sure if other disciplines suffer as badly as software development in
-this regard.
+this regard. Most job specifications for developer roles are endless
+laundry-lists of technologies, frameworks, languages and
+platforms. They're low-level specifications for machines, not people.
 
-Note : some developers actually prefer this, because it gives them a
-very detailed. I think that tech background is useful, but I'd keep it
-separate from the role spec.
+But some companies get this very right. Here's an example of a recent
+open role from FanDuel. Right at the heading of the page, there's this
+statement:
 
-Some companies get this very right. Here's an example of a recent job
-advert from FanDuel:
-
-This is close to perfect. It talks about the company, the culture, the
-kind of person who's going to fit.  It doesn't include an endless list
-of specific technical skills.
-
-Right at the heading of the page, there's this statement:
-
-"We don’t want employees, we want player coaches – empowered to make
+> "We don’t want employees, we want player coaches – empowered to make
 their own decisions, learn from mistakes and execute what works."
 
-Great : here's a company that embraces experimentation and
-learning. It's also very much two-way traffic. So many job ads are
-not : a list of must-have skills that you need to have to be
-considered for the role.
+They describe the organisation. Fine, this is a good thing, and
+necessary. Then they go on to describe the role. I've chosen my words
+carefully here : they *describe* it, they don't *specify* it.
 
-You're selling your organisation.
+> What does an Entry Level Mobile Engineer do
+>
+> You’ll learn to add features, change interactions, and fix bugs in
+> our award winning apps. You will be working with your mentor, other
+> engineers, designers and product owners, learning about and
+> contributing at every stage of the of the product lifecycle, from
+> research and discovery to iterative development, rollout and
+> long-term maintenance.
+
+This is close to perfect. It gives a flavour not just of the the
+tools, the technology, the *stuff*, but also of the people and the
+team dynamic. And then, this:
+
+> What you can expect
+>
+> - A six-month training programme, tailored to your needs, to get you
+>   shipping code in our mobile apps.
+> - A mentor to help you find your way.
+> - An introduction to unit testing, pair programming, and tools such as
+>   Git.
+> - A supportive, trusting, and open work environment.
+> - Work on a variety of projects (though not all at the same time).
+> - Learn from others, and be a coach and mentor to other developers,
+>   irrespective of experience.
+> - 10% time to dedicate to personal projects.
+> - Regular hack days.
+> - A personal development budget for training and events and support
+>   and encouragement to submit talks if you want to.
+
+I'm almost crying at this point.
 
 TODO: don't do big shopping list of tech skills
 
