@@ -2,12 +2,11 @@
 
 ## Background
 
-I do talks and workshops on software development careers and tech
-hiring for students at universities, colleges and code academies. It's
-occurred to me recently that I'm very tardy in having those same
-conversations with employers. Technical interviewing is an acquired
-skill, but it's something that's often left to chance in
-organisations.
+I do talks and workshops on software development careers and technical
+interview preparation for students at universities, colleges and code
+academies. It's occurred to me recently that I'm very tardy in having
+those same conversations with employers. Technical interviewing is a
+skill that's often left to chance in organisations.
 
 This 3-part post aims to give some advice to individuals and companies
 who are involved in hiring developers. It's not exhaustive, but
@@ -16,19 +15,19 @@ organisation.
 
 I'm going to nail my colours to the mast here : I'm a techy, and this
 is written from the perspective of a developer (and occasional
-technical manager...) interviewing and hiring other developers, not an
-HR, talent or recruitment perspective. I hope and expect that there's
-a significant overlap between these perspectives, though.
+technical manager...) interviewing and hiring other developers, not
+from an HR, talent or recruitment perspective. I hope and expect that
+there's a significant overlap between these perspectives, though.
 
-Let's warm up with a lively jog around some of the essential concepts
-that we'll build on in the next couple of posts.
+Let's warm up with a lively jog around some of the principles that
+we'll build on in the next couple of posts.
 
 ## Hire For Trajectory
 
-There's a quote by Kevlin Henney that appeared in a preface to Pete
-Goodliffe's book "Becoming a Better Programmer"
-<sup>[1](#fn1)</sup>. I often share this quote in talks, because it
-captures perfectly what I'm looking for when I'm building teams:
+There's a quote by Kevlin Henney in a preface to Pete Goodliffe's book
+"Becoming a Better Programmer" <sup>[1](#fn1)</sup>. I often share
+this quote in talks, because it captures perfectly what I'm looking
+for when I'm building teams:
 
 > "[...] In the long term, what matters is less where on the
 distribution someone is than where they are headed. If you want to
@@ -53,9 +52,9 @@ more about this in later posts.
 
 I've worked in software development for 30 years. I've seen some
 progress over that time, but the pace is still painfully slow. On
-gender diversity, we have a long way to go. We all have a
-responsibility to fix the situation in tech for fundamental reasons of
-equality, quite apart from the benefits that diverse teams bring.
+gender equality, we have a long way to go. We all have a
+responsibility to fix this situation in tech for fundamental reasons
+of fairness, quite apart from the benefits that diverse teams bring.
 
 But benefits there most certainly are. Diverse teams are *good*
 teams. Any developer will tell you about the value of a different
@@ -132,10 +131,12 @@ same field to share experience, support their colleagues, learn new
 things, and to form a view on what approaches work for their field or
 technology<sup>[2](#fn2)</sup>. Again, trust them, don't manage them.
 
-You need to make it clear that you support a culture of learning in
-your organisation, and that you encourage informal learning, pairing
-and mentoring. Make sure you also support it with more than just words
-by building learning time into the working week.
+If you're a technical manager, you should communicate that you support
+learning and mentoring in your organisation, and back those words with
+real commitment by building learning time into the working week. If
+the team isn't already practicing pair programming, help them to
+start. It's one of the most effective ways for new developers to get
+up to speed.
 
 None of these things need to be part of a formal performance process,
 and none of them need any kind of coordination by a central learning
@@ -162,16 +163,16 @@ era.
 ## Your Funnel's Broken
 
 Most organisations implement something like this model in their hiring
-process, in an effort to reduce the pool of candidates by different
+process, in an effort to reduce the pool of candidates by multiple
 stages of screening and selection. Typically, each of these steps is a
 binary outcome for each candidate : proceed, or don't.
 
 ![Funnel](funnel.png)
 
 It's quite industrialised, and a little impersonal...but I understand
-what drives it. You might see hiring as a time-consuming business, and
+what drives it. You might see hiring as a time-consuming activity, and
 that it takes developers away from their "day jobs" to help with
-technical interviewing. A cost. An overhead. A burden. Disruptive.
+technical interviewing. A cost. An overhead. A burden.
 
 But if the thing that's preventing you from meeting your
 organisational goals is not having the right people, then this really
@@ -187,13 +188,13 @@ about a lot *less* is this fact : __the vast majority of decisions we
 make about candidates are made when we know the least about them.__
 
 When we get to the second installment in this series, we'll cover
-screening techniques, and how we can keep the process as lean as we
-can, but also avoid missing out on potentially great candidates.
+screening techniques, and how we can keep the process as lean as
+possible, but also avoid missing out on potentially great candidates.
 
 - Hiring the right people is going to take time, but there's nothing
   more important for your organisation than the people you choose.
 
-- Screen to keep the process moving, but take a holistic, balanced
+- Screen to keep the process moving, but take an holistic, balanced
   view of the candidate.
 
 ## Communicate, But Don't Specify
@@ -206,15 +207,15 @@ specifications for machines, not people.
 
 But some companies get this __very right__. Here's an example of a
 recent open role from FanDuel for an entry-level mobile
-developer. Right at the heading of the page, there's this statement:
+developer. Right at the head of the page, there's this statement:
 
 > "We don’t want employees, we want player coaches – empowered to make
 their own decisions, learn from mistakes and execute what works."
 
 Excellent: an organisation that expects people to act, learn and
-adapt. They go on to describe the organisation - good background, and
-necessary. Then they describe the role. I've chosen my words carefully
-here : they *describe* the role, they don't *specify* it.
+adapt. They go on to describe the organisation, all good
+background. Next, they describe the role. I've chosen my words
+carefully here : they *describe* the role, they don't *specify* it.
 
 > What does an Entry Level Mobile Engineer do
 >
@@ -225,9 +226,8 @@ here : they *describe* the role, they don't *specify* it.
 > research and discovery to iterative development, rollout and
 > long-term maintenance.
 
-This is great. It gives a flavour not just of the the tools and the
-technology, but also of the people and the team dynamic. And then, oh
-lordy, this:
+This is great. It gives a sense of the role, but also of the people
+and the overall team focus. And then, oh wow, this:
 
 > What you can expect
 >
@@ -250,9 +250,9 @@ communicate a sense of their values and their culture, as well as the
 specific ways that people are supported. There's more on that job
 page, but the message is very loud and very clear : "We are good
 people, making good things. We will support you, and you will help us
-to make great products. Come and work for us."
+to make great products. Come and work with us."
 
-You're hiring in tough market, and you need to communicate your
+You're hiring in a tough market, and you need to communicate your
 understanding that this is a two-way street, and isn't just about your
 requirements for what the candidate should have.
 
@@ -277,12 +277,13 @@ The biggest risk in being unprepared is that time pressure forces you
 to use a last resort interview format. In most organisations, the last
 resort is a dog-eared, coffee-stained, grubby and mildewed handful of
 A4 sheets. Yes, it's the "Technical Interview Question List", and it's
-probably older than some of your colleagues.
+probably older than some of your colleagues. Every organisation has
+one.
 
-This is usually a museum piece of technical minutiae, corner cases and
-trick questions, deprecated APIs and obsolete "best practices"...and
-Q&A is one of the least effective ways to run a technical interview to
-begin with.
+This is usually a museum exhibit of technical minutiae, corner cases
+and trick questions, deprecated APIs and obsolete "best
+practices"...and Q&A is one of the least effective ways to run a
+technical interview to begin with.
 
 You're better than that.
 
@@ -311,14 +312,17 @@ of them, for both you and the candidate.
 
 <a name="fn1">1</a>: I highly recommend Pete Goodliffe's book both to
 developers starting out, and to experienced developers who are
-mentoring less experienced developers.
+mentoring less experienced developers. [On
+Amazon.co.uk](https://www.amazon.co.uk/Becoming-Better-Programmer-Handbook-People/dp/1491905530)
 
-<a name="fn2">2</a>: Emily Webber has written a concise but excellent
+<a name="fn2">2</a>: Emily Webber has written a concise, excellent
 book on building Communities Of Pratice in organisations. She's also a
 regular speaker on this subject, so don't miss an opportunity to hear
-her talking.
+her talking. [On
+Amazon.co.uk](https://www.amazon.co.uk/Building-Successful-Communities-Practice-Webber/dp/095749193X)
 
 <a name="fn3">3</a>: Sandro Mancuso picks apart the traditional job
 spec in the hiring section of his excellent book "The Software
-Craftsman". I recommend this to everyone working in software
-development.
+Craftsman". I recommend this book to everyone working in software
+development. [On
+Amazon.co.uk](https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
