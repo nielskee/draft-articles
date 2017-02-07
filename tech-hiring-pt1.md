@@ -193,24 +193,24 @@ potentially great candidates.
 - Screen to keep the process moving, but take a holistic, balanced
   view of the candidate.
 
-## Communicate
+## Communicate, But Don't Specify
 
-You don't have to look far for terrible role specifications. I'm not
-sure if other disciplines suffer as badly as software development in
-this regard. Most job specifications for developer roles are endless
-laundry-lists of technologies, frameworks, languages and
-platforms. They're low-level specifications for machines, not people.
+You don't have to look far for terrible role specifications, and I
+won't inflict any on you here. Most job specifications for developer
+roles are endless laundry-lists of technologies, frameworks, languages
+and platforms. They're low-level specifications for machines, not
+people.
 
-But some companies get this very right. Here's an example of a recent
-open role from FanDuel. Right at the heading of the page, there's this
-statement:
+But some companies get this __very right__. Here's an example of a
+recent open role from FanDuel for an entry-level mobile
+developer. Right at the heading of the page, there's this statement:
 
 > "We don’t want employees, we want player coaches – empowered to make
 their own decisions, learn from mistakes and execute what works."
 
-They describe the organisation. Fine, this is a good thing, and
+They go on to describe the organisation. This is a good thing, and
 necessary. Then they go on to describe the role. I've chosen my words
-carefully here : they *describe* it, they don't *specify* it.
+carefully here : they *describe* the role, they don't *specify* it.
 
 > What does an Entry Level Mobile Engineer do
 >
@@ -221,9 +221,9 @@ carefully here : they *describe* it, they don't *specify* it.
 > research and discovery to iterative development, rollout and
 > long-term maintenance.
 
-This is close to perfect. It gives a flavour not just of the the
-tools, the technology, the *stuff*, but also of the people and the
-team dynamic. And then, this:
+This is great. It gives a flavour not just of the the tools and the
+technology, but also of the people and the team dynamic. And then, oh
+lordy, this:
 
 > What you can expect
 >
@@ -241,9 +241,9 @@ team dynamic. And then, this:
 > - A personal development budget for training and events and support
 >   and encouragement to submit talks if you want to.
 
-I'm almost crying at this point.
-
-TODO: don't do big shopping list of tech skills
+I'm almost crying at this point. They've managed to communicate a
+sense of their values and their culture, as well as the specific ways
+that people are supported.
 
 ## Plan Ahead
 
@@ -295,3 +295,7 @@ that if having the right people on your team is a bottleneck that's
 stopping your business from meeting its goals, then this is the
 priority you should be focusing on
 https://en.wikipedia.org/wiki/Theory_of_constraints
+
+- Sandro Mancuso
+- Emily Webber
+
