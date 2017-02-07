@@ -199,7 +199,7 @@ possible, but also avoid missing out on potentially great candidates.
 
 ## Communicate, But Don't Specify
 
-You don't have to look far for terrible role specifications, and I
+You don't have to look far for terrible job specifications, and I
 won't inflict any on you here<sup>[3](#fn3)</sup>. Most job
 specifications for developer roles are endless laundry-lists of
 technologies, frameworks, languages and platforms. They're low-level
@@ -256,8 +256,8 @@ You're hiring in a tough market, and you need to communicate your
 understanding that this is a two-way street, and isn't just about your
 requirements for what the candidate should have.
 
-- Role specifications are constraining, unappealing, and unrealistic
-  things.
+- Detailed job specifications are constraining, unappealing, and
+  unrealistic things.
 
 - Focus on describing what people do in your teams, what you make,
   your organisation, and its culture and values.
@@ -293,7 +293,7 @@ shouldn't even need to ask. Make it clear on your website, restate in
 any email communication, and invite people to email or call you if
 they need clarification on any part of the process.
 
-Remember also that proportionality is important, and that you need to
+Rememer also that proportionality is important, and that you need to
 get technical interviewing right for the experience level of the
 candidate. If you're specifically hiring early careers candidates for
 a role, putting these candidates into the exact same process you use
