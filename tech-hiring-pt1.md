@@ -28,7 +28,7 @@ that we'll build on in the next couple of posts.
 There's a quote by Kevlin Henney that appeared in a preface to Pete
 Goodliffe's book "Becoming a Better Programmer"
 <sup>[1](#fn1)</sup>. I often share this quote in talks, because it
-perfectly captures what I'm looking for when I'm building teams:
+captures perfectly what I'm looking for when I'm building teams:
 
 > "[...] In the long term, what matters is less where on the
 distribution someone is than where they are headed. If you want to
