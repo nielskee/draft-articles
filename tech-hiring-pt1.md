@@ -251,8 +251,8 @@ for both you and the candidate.
 both to developers starting out, and to experienced developers who are
 mentoring new starts.
 
-<a name="fn2">2</a>: Although the Theory Of Constraint would suggest
-that if having the right people on your team is the bottleneck that's
-stopping your business meeting its goals, then this is the priority
-you should be focusing on
+<a name="fn2">2</a>: Although the Theory Of Constraints would suggest
+that if having the right people on your team is a bottleneck that's
+stopping your business from meeting its goals, then this is the
+priority you should be focusing on
 https://en.wikipedia.org/wiki/Theory_of_constraints
