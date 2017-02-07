@@ -208,9 +208,11 @@ developer. Right at the heading of the page, there's this statement:
 > "We don’t want employees, we want player coaches – empowered to make
 their own decisions, learn from mistakes and execute what works."
 
-They go on to describe the organisation. This is a good thing, and
-necessary. Then they go on to describe the role. I've chosen my words
-carefully here : they *describe* the role, they don't *specify* it.
+Excellent: an organisation that expects people to act, learn and
+adapt. They go on to describe the organisation. This is a good thing,
+and necessary. Then they go on to describe the role. I've chosen my
+words carefully here : they *describe* the role, they don't *specify*
+it.
 
 > What does an Entry Level Mobile Engineer do
 >
