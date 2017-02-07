@@ -171,8 +171,8 @@ interviewing<sup>[2](#fn2)</sup>.
 
 We tend to think of this in a positive light : "we're going forward
 with the candidates we're most confident in". What we think about a
-lot *less* is this : _the vast majority of decisions we make about
-candidates are made when we know the least about them._
+lot *less* is this : __the vast majority of decisions we make about
+candidates are made when we know the least about them.__
 
 ## Get The Spec Right
 
