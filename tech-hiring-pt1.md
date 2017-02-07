@@ -301,6 +301,15 @@ for experienced candidates is not going to give you a fair view of
 their ability and potential. You need to calibrate the difficulty
 level of challenges, and consider skipping or replacing some steps.
 
+- Decide in advance what the right mix of interviews and screens is
+  right for the role.
+
+- Communicate to every candidate what these formats are. Invite
+  questions.
+
+- Make it proportionate for entry-level roles. A single, fixed process
+  is not going to be appropriate across all levels.
+
 ## Coming Next
 
 Most organisations find that they need to have some kind of screening
