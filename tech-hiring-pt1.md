@@ -209,10 +209,9 @@ developer. Right at the heading of the page, there's this statement:
 their own decisions, learn from mistakes and execute what works."
 
 Excellent: an organisation that expects people to act, learn and
-adapt. They go on to describe the organisation. This is a good thing,
-and necessary. Then they go on to describe the role. I've chosen my
-words carefully here : they *describe* the role, they don't *specify*
-it.
+adapt. They go on to describe the organisation - good background, and
+necessary. Then they go on to describe the role. I've chosen my words
+carefully here : they *describe* the role, they don't *specify* it.
 
 > What does an Entry Level Mobile Engineer do
 >
@@ -245,7 +244,19 @@ lordy, this:
 
 I'm almost crying at this point. They've managed to communicate a
 sense of their values and their culture, as well as the specific ways
-that people are supported.
+that people are supported. There's more on that job page, but the
+message is very loud and very clear : "We are good people, making good
+things. We will support you, and you will help us to make great
+products. Come and work for us."
+
+- Role specifications are constraining, unappealing, and unrealistic
+  things.
+
+- Focus on describing what people do in your teams, your organisation
+  and its culture and values.
+
+- Make it clear that you'll do things to support the successful
+  candidate, and that it's not one-way traffic.
 
 ## Plan Ahead
 
