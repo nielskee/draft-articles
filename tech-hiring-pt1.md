@@ -293,7 +293,7 @@ shouldn't even need to ask. Make it clear on your website, restate in
 any email communication, and invite people to email or call you if
 they need clarification on any part of the process.
 
-Rememer also that proportionality is important, and that you need to
+Remember also that proportionality is important, and that you need to
 get technical interviewing right for the experience level of the
 candidate. If you're specifically hiring early careers candidates for
 a role, putting these candidates into the exact same process you use
