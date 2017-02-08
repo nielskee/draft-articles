@@ -316,21 +316,21 @@ stage. In the next instalment, we're going to look different tech
 screening tools and techniques, and figure out how to get the best out
 of them, for both you and the candidate.
 
-##  Resources
+## Further Reading
 
-<a name="fn1">1</a>: I highly recommend Pete Goodliffe's book both to
-developers starting out, and to experienced developers who are
-mentoring less experienced developers. [On
+I've referenced a few books in this post. I highly recommend Pete
+Goodliffe's book both to developers starting out, and also to
+experienced developers who are mentoring less experienced
+developers. [On
 Amazon.co.uk](https://www.amazon.co.uk/Becoming-Better-Programmer-Handbook-People/dp/1491905530)
 
-<a name="fn2">2</a>: Emily Webber has written a concise, excellent
-book on building Communities Of Practice in organisations. She's also
-a regular speaker on this subject, so don't miss an opportunity to
-hear her talking. [On
+Emily Webber has written a concise, excellent book on building
+Communities Of Practice in organisations. She's also a regular speaker
+on this subject, so don't miss an opportunity to hear her talking. [On
 Amazon.co.uk](https://www.amazon.co.uk/Building-Successful-Communities-Practice-Webber/dp/095749193X)
 
-<a name="fn3">3</a>: Sandro Mancuso picks apart the traditional job
-spec in the hiring section of his excellent book "The Software
-Craftsman". I recommend this book to everyone working in software
-development. [On
+Sandro Mancuso picks apart the traditional job spec in the hiring
+section of his excellent book "The Software Craftsman". There's much
+more to this book than hiring, though and I recommend it to everyone
+working in software development. [On
 Amazon.co.uk](https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
