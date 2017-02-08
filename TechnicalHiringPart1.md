@@ -181,13 +181,13 @@ people to come and work in your team, but if you get the right
 approach, and get your developers interviewing candidates, it can
 scale up pretty well.
 
-One final thought on this before we revisit in the next installment.
+One final thought on this before we revisit in the next instalment.
 We tend to think of this funnel in a positive light : "we're going
 forward with the candidates we're most confident in". What we think
 about a lot *less* is this fact : __the vast majority of decisions we
 make about candidates are made when we know the least about them.__
 
-When we get to the second installment in this series, we'll cover
+When we get to the second instalment in this series, we'll cover
 screening techniques, and how we can keep the process as lean as
 possible, but also avoid missing out on potentially great candidates.
 
@@ -313,7 +313,7 @@ level of challenges, and consider skipping or replacing some steps.
 ## Coming Next
 
 Most organisations find that they need to have some kind of screening
-stage. In the next installment, we're going to look different tech
+stage. In the next instalment, we're going to look different tech
 screening tools and techniques, and figure out how to get the best out
 of them, for both you and the candidate.
 
@@ -325,9 +325,9 @@ mentoring less experienced developers. [On
 Amazon.co.uk](https://www.amazon.co.uk/Becoming-Better-Programmer-Handbook-People/dp/1491905530)
 
 <a name="fn2">2</a>: Emily Webber has written a concise, excellent
-book on building Communities Of Pratice in organisations. She's also a
-regular speaker on this subject, so don't miss an opportunity to hear
-her talking. [On
+book on building Communities Of Practice in organisations. She's also
+a regular speaker on this subject, so don't miss an opportunity to
+hear her talking. [On
 Amazon.co.uk](https://www.amazon.co.uk/Building-Successful-Communities-Practice-Webber/dp/095749193X)
 
 <a name="fn3">3</a>: Sandro Mancuso picks apart the traditional job
