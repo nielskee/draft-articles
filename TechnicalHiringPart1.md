@@ -51,8 +51,8 @@ more about this in later posts.
 ## Hire For Diversity
 
 I've worked in software development for 30 years. I've seen some
-progress over that time, but the pace is still painfully slow. On
-gender equality, we have a long way to go. We all have a
+progress on diversity over that time, but the pace is still painfully
+slow. On gender equality, we have a long way to go. We all have a
 responsibility to fix this situation in tech for fundamental reasons
 of fairness, quite apart from the benefits that diverse teams bring.
 
