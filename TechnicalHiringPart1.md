@@ -25,9 +25,9 @@ we'll build on in the next couple of posts.
 ## Hire For Trajectory
 
 There's a quote by Kevlin Henney in a preface to Pete Goodliffe's book
-"Becoming a Better Programmer" <sup>[1](#fn1)</sup>. I often share
-this quote in talks, because it captures perfectly what I'm looking
-for when I'm building teams:
+"Becoming a Better Programmer". I often share this quote in talks,
+because it captures perfectly what I'm looking for when I'm building
+teams:
 
 > "[...] In the long term, what matters is less where on the
 distribution someone is than where they are headed. If you want to
@@ -124,12 +124,11 @@ organisation and culture, and think about what you need to do to make
 it a supportive learning environment for teams with mixed levels of
 experience.
 
-The best support for learning is through [Communities Of
-Practice](https://en.wikipedia.org/wiki/Community_of_practice). This
+The best support for learning is through Communities Of Practice. This
 is a self-organising model that lets groups of people working in the
 same field to share experience, support their colleagues, learn new
 things, and to form a view on what approaches work for their field or
-technology<sup>[2](#fn2)</sup>. Again, trust them, don't manage them.
+technology. Again, trust them, don't manage them.
 
 If you're a technical manager, you should communicate that you support
 learning and mentoring in your organisation, and back those words with
@@ -184,8 +183,8 @@ scale up pretty well.
 One final thought on this before we revisit in the next instalment.
 We tend to think of this funnel in a positive light : "we're going
 forward with the candidates we're most confident in". What we think
-about a lot *less* is this fact : __the vast majority of decisions we
-make about candidates are made when we know the least about them.__
+about a lot less is this fact : the vast majority of decisions we make
+about candidates are made _when we know the least about them_.
 
 When we get to the second instalment in this series, we'll cover
 screening techniques, and how we can keep the process as lean as
@@ -200,12 +199,12 @@ possible, but also avoid missing out on potentially great candidates.
 ## Communicate, But Don't Specify
 
 You don't have to look far for terrible job specifications, and I
-won't inflict any on you here<sup>[3](#fn3)</sup>. Most job
-specifications for developer roles are endless laundry-lists of
-technologies, frameworks, languages and platforms. They're low-level
-specifications for machines, not people.
+won't inflict any on you here. Most job specifications for developer
+roles are endless laundry-lists of technologies, frameworks, languages
+and platforms. They're low-level specifications for machines, not
+people.
 
-But some companies get this __very right__. Here's an example of a
+But some companies get this _very right_. Here's an example of a
 recent open role from FanDuel for an entry-level mobile
 developer. Right at the head of the page, there's this statement:
 
@@ -215,7 +214,7 @@ their own decisions, learn from mistakes and execute what works."
 Excellent: an organisation that expects people to act, learn and
 adapt. They go on to describe the organisation, all good
 background. Next, they describe the role. I've chosen my words
-carefully here : they *describe* the role, they don't *specify* it.
+carefully here : they _describe_ the role, they don't _specify_ it.
 
 > What does an Entry Level Mobile Engineer do
 >
