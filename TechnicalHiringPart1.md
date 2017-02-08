@@ -30,9 +30,9 @@ because it captures perfectly what I'm looking for when I'm building
 teams:
 
 > "[...] In the long term, what matters is less where on the
-distribution someone is than where they are headed. If you want to
-divide programmers into two groups, there are programmers who get
-better and programmers who don't. You care about the first group."
+> distribution someone is than where they are headed. If you want to
+> divide programmers into two groups, there are programmers who get
+> better and programmers who don't. You care about the first group."
 
 What you're seeing when you run technical interviews is a snapshot of
 someone's abilities and knowledge, frozen at a point in time. But
