@@ -324,13 +324,12 @@ experienced developers who are mentoring less experienced
 developers. [On
 Amazon.co.uk](https://www.amazon.co.uk/Becoming-Better-Programmer-Handbook-People/dp/1491905530)
 
-Emily Webber has written a concise, excellent book on building
-Communities Of Practice in organisations. She's also a regular speaker
-on this subject, so don't miss an opportunity to hear her talking. [On
+Emily Webber has written a great, concise book on building Communities
+Of Practice in organisations. She's also a regular speaker on this
+subject, so don't miss an opportunity to hear her talking. [On
 Amazon.co.uk](https://www.amazon.co.uk/Building-Successful-Communities-Practice-Webber/dp/095749193X)
 
-Sandro Mancuso picks apart the traditional job spec in the hiring
-section of his excellent book "The Software Craftsman". There's much
-more to this book than hiring, though and I recommend it to everyone
-working in software development. [On
+Sandro Mancuso covers hiring in his excellent book "The Software
+Craftsman". There's much more to his book than hiring, though and I
+recommend it to everyone working in software development. [On
 Amazon.co.uk](https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
