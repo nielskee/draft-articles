@@ -333,3 +333,7 @@ Sandro Mancuso covers hiring in his excellent book "The Software
 Craftsman". There's much more to his book than hiring, though and I
 recommend it to everyone working in software development. [On
 Amazon.co.uk](https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
+
+The talks and workshops that I run for students on careers and
+interviews [are outlined
+here](https://www.linkedin.com/pulse/talks-workshops-software-development-students-mike-ritchie)
