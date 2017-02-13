@@ -140,10 +140,9 @@ in the right place. Here's where we want to look:
 - Readability and naming in the code.
 
 Platforms where developers code against a clock is no way of assessing
-these important skills.  In time, I think these platforms will go the
-same way as the annual performance review. Something that had its
-moment. A good idea at the time, maybe, but we've found a better way
-now and don't need it anymore.
+these important skills and character traits. They assess the
+characteristics of _code_, not of people. They're a proxy measure at
+best, and not even a particularly useful one.
 
 - If you need to run a coding assessment remotely, look to use the
   excellent CyberDojo instead : a platform that emphasises Test-Driven
@@ -154,9 +153,9 @@ now and don't need it anymore.
   the next post on that.
 
 - Don't sleepwalk into outsourcing your technical interview to an
-  online platform. Some aspects of hiring are just _hard_, and you
-  need to be prepared to put in the personal effort with candidates
-  for the more challenging parts of your tech selection.
+  online platform. Some aspects of hiring are _just hard work_, and
+  you need to be prepared to put in the personal effort with
+  candidates for the more challenging parts of your tech selection.
 
 ## Coding Assignments
 
