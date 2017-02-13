@@ -1,22 +1,56 @@
-* CV, Work Portfolio, Cover Letter
-I think the
+## CV and Cover Letter
 
-What they say they can do : CV, cover letter
-What they show they can do : technical interviews
-What they actually do : how it all translates into 
+I always think there are three separate aspects of a candidate.
 
-So we're on Step 1 here : we have a CV and cover letter, and it's
-mostly words. OK, sometimes a picture. Yes, yes, sometimes links to
-portfolio work. But mostly words.
+- What they _say_ they can do : CV, cover letter
 
-Here's a thing about words: some people are good with them, others not
-so good.
+- What they _show_ they can do : technical interviews
 
-Things I look for:
+- What they _actually_ do : how it all translates into real
+  development work on your codebase.
 
-Things I take as negatives
+You can test the first two, and you can predict the third. We're
+on Step 1 here : we have a CV, a cover letter, possible some links to
+portfolio work.
+
+At this stage, I'm trying to decide whether I want to have a
+conversation with the person. A phone screen takes about 15-20
+minutes, so I'm not going to spend 30 minutes agonising over that
+decision.
+
+Your might have quite exacting requirements - specific experience you
+need, or specific tech skills that can't easily be picked up. You
+might be hiring someone specifically to help you bootstrap you into a
+new technology.  Whatever the situation, you're going to know in about
+5 minutes with a CV and cover letter whether you're looking at a
+viable candidate or not.
+
+Putting aside your tech specifics, here are some things I view as
+positives in a CV, that might make me want to have a conversation with
+them.
+
+- Self-improver
+
+- Breadth
+
+- Evidence of personal or open-source projects, attendance at meetups
+  and conferences, and engaged in their community.
+
+- Some signs that they help other people : coaching, mentoring,
+  helping kids or adults learn to code.
+
+Although it's great to see evidence of personal projects, remember
+that this can be a lot easier for some people than others. People with
+a lot of discretionary time can work on personal projects, and attend
+meetups and conferences. People with either childcare or eldercare
+commitments often can't.
+
+Where candidates do have these projects and activities, sure, view
+them as positives, but always remember that personal circumstances
+play a part.
 
 ** Spotting self-actualizing developers
+
 ** GitHub and projects are not a candidate's CV
 There are some people who can't do this:
 - Their companies may have strict IPR assignment clauses that
