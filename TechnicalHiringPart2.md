@@ -74,11 +74,6 @@ how you found that". I want to see how the candidate communicates -
 and not just in terms of technical accuracy, but whether there's any
 genuine enthusiasm for the subject.
 
-Some people - maybe not strong on the conversational skills - find
-this a harder format to run than having set question list. You have to
-think on your feet, certainly, but I think you get a better feel for
-the candidate.
-
 - Use a phone screen as a chance to introduce yourself to each other,
   and to make sure the candidate is on board with the process.
 
@@ -87,7 +82,7 @@ the candidate.
 
 - Use a conversational style based around the experience on their
   CV. Follow the trail, and improvise. Get in some technical questions
-  that are relevant to the context.
+  that are relevant to the context as the conversation develops.
 
 - It doesn't need to be deep : you're going to have some other, better
   screening mechanism. It's an introduction and a consistency check
@@ -99,32 +94,31 @@ the candidate.
   screen questions".
 
 - Keep these to 15-20 minutes. Experienced interviewers tend to know
-  quite quickly, often in the first few minutes.
+  quite quickly if a candidate is a go or a no-go, often in the first
+  few minutes.
 
-## Online Technical Tests
+Some people afind this a harder format to run than having a set
+question list. You certainly need to think on your feet, but I think
+you get a better feel for the candidate.
 
-Online technical testing tools like HackerRank and Codility are
-becoming more prevalent in hiring. I think I understand why companies
+## Online Technical Test Platorms
+
+Online technical assessment tools like HackerRank and Codility are
+becoming more widespread in hiring. I think I understand why companies
 are using them, although I think they're used wrongly more often than
 not.
 
-For someone who is involved in the technical hiring process, but isn't
-themselves a hands-on developer, these things seem to provide an
-objective measure of capability. The intent of HackerRank is to Rank
-your Hackers, is it not?
+These platforms seem to provide an objective measure of
+capability. The intent of HackerRank is to Rank your Hackers, is it
+not?
 
-I see this all the time, the urge to reduce something complex, nuanced
-and hard to understand down to a dashboard metric.
+I see this all the time in software development, and not just in
+hiring - this urge to reduce something complex, nuanced and hard to
+understand down to a dashboard metric. Numbers are seductive - they
+promise simple answers and absolute truths.
 
-- How "fast" is a team going. Slackers.
-
-- How much developer testing is happening : measure code coverage, and
-  chide a team that has 93% coverage because another team has 94%
-  (spoiler: not necessarily, there are good tests and bad tests).
-
-Numbers are seductive : a siren song of simple answers, absolute
-truths and, measurable differentiation. In reality, though, these
-tools are an example of the Streetlight Effect in action:
+In reality, though, these tools are an example of the Streetlight
+Effect in action:
 
 > A policeman sees a drunk man searching for something under a
 > streetlight and asks what the drunk has lost. He says he lost his
@@ -135,44 +129,31 @@ tools are an example of the Streetlight Effect in action:
 > the light is."
 
 Just because there's light to see by, it doesn't mean you're looking
-in the right place.
+in the right place. Here's where we want to look:
 
-It's a measure of some attributes of an artifact, not of a
-person. You're measuring _something about the code_. It's a proxy
-measure at best, and not a particularly good one.
+- Changeability and maintainability of code.
 
-- The elusive property of changeability of code - being able to keep
-  the code in a state where it's resilient in the face of change.
-- How our candidate works collaboratively to reach a
-  solution. Nothing.
-- Using agile development, baby steps in. Nothing. In fact, you can't
-  even write tests in any standard unit test framework.
-- Readability and naming in the code ?  Nothing. 
+- Clean code and simple design.
 
-No, if you need to do online code tests, pair using the excellent
-CyberDojo instead.
+- Ability to find a solution by working collaboratively.
 
-Timing / beat the clock. If having developers code quickly under
-pressure is so important to you that you give it such a prominent part
-of , you're probably horrible people, and I for one wouldn't want to
-work for you.
+- Working in small increments, driven by tests.
 
-In time, I think these tools will go the same way as the annual
-performance review : something that had its moment. A good idea at the
-time, maybe, but we've found a better way now and don't need it
-anymore.
+- Readability and naming in the code.
 
-You should worry also about the message these tools send to
-candidates. At some point, each person applying for a role with your
-company has pictured themselves working there. They may know people
-who work there already. They're bought into your ethos,
+Platforms where developers code against a clock is no way of assessing
+these important skills.  In time, I think these platforms will go the
+same way as the annual performance review. Something that had its
+moment. A good idea at the time, maybe, but we've found a better way
+now and don't need it anymore.
 
-We should be more human.
+- If you need to run a coding assessment remotely, look to use the
+  excellent CyberDojo instead : a platform that emphasises TDD and
+  small steps.
 
-So when should we use them? Use this handy reference guide to help you
-decide:
-
-- Never.
+- If the emphasis on algorithms is very important to the sort of work
+  you do, there are better ways of running these interviews : more in
+  the next post on that.
 
 ## Coding Assignments
 
