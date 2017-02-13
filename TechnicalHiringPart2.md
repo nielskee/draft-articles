@@ -110,7 +110,7 @@ not.
 
 These platforms seem to provide an objective measure of
 capability. The intent of HackerRank is to Rank your Hackers, is it
-not?
+not ?
 
 I see this all the time in software development, and not just in
 hiring - this urge to reduce something complex, nuanced and hard to
@@ -151,9 +151,14 @@ now and don't need it anymore.
   excellent CyberDojo instead : a platform that emphasises TDD and
   small steps.
 
-- If the emphasis on algorithms is very important to the sort of work
+- If algorithmic problem-solving is very important to the sort of work
   you do, there are better ways of running these interviews : more in
   the next post on that.
+
+- Don't sleepwalk into outsourcing your technical interview to an
+  online platform. Some aspects of hiring are just _hard_, and you
+  need to be prepared to put in the personal effort with candidates
+  for the more challenging parts of your tech selection.
 
 ## Coding Assignments
 
