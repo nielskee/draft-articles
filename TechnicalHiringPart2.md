@@ -49,20 +49,8 @@ Where candidates do have these projects and activities, sure, view
 them as positives, but always remember that personal circumstances
 play a part.
 
-** Spotting self-actualizing developers
+## Phone / Video Screens
 
-** GitHub and projects are not a candidate's CV
-There are some people who can't do this:
-- Their companies may have strict IPR assignment clauses that
-  discourage them from making open-source contributions
-- They may have childcare commitments. This is a weight that falls
-  disproportionately on women engineers.
-- Impostor syndrome is a real thing, especially in early careers. Some
-  people won't.
-
-That said, filter this guy out for sure. Who'd choose a GitHub
-username like that? Chancer.
-* Phone / Video Screens
 They used to be a big thing, phone screens. Technical Interview Lite,
 effectively. Like all screening, the idea was always to go forward
 with the candidates. You'd have a list of "dead cert" questions, that
@@ -113,7 +101,8 @@ the candidate.
 - Keep these to 15-20 minutes. Experienced interviewers tend to know
   quite quickly, often in the first few minutes.
 
-* Online Technical Tests
+## Online Technical Tests
+
 Online technical testing tools like HackerRank and Codility are
 becoming more prevalent in hiring. I think I understand why companies
 are using them, although I think they're used wrongly more often than
@@ -185,28 +174,36 @@ decide:
 
 - Never.
 
-* Coding Assignments
-If you need to scale up your technical screening, I propose that this
-is a better way of doing it than the online route.
-** Benefits
-- Relevant
-- Tests as well as code
-- Style and expressiveness
-- Used the tools well - Git especially
-- Navigable
-** How to run:
-- Ask candidates to commit regulary
-- Ask candidates to narrate how they're doing in the README
-- Great springboard for f2f
-** Paid assignments
-- Infeasible
-- Unfair
+## Coding Assignments
 
-* Hackathons
+If you need to scale up your technical screening, I propose that this
+is a better way of doing it than the online route. It has many benefits
+
+- Relevant
+
+- Tests as well as code
+
+- Style and expressiveness
+
+- Used the tools well - Git especially
+
+- Navigable
+
+## How to run
+
+- Ask candidates to commit regulary
+
+- Ask candidates to narrate how they're doing in the README
+
+- Great springboard for f2f
+
+## Hackathons
+
 I know a lot of companies use these as a talent-spotting mechanism,
 especially for early careers. They're fun, and largely harmless.
-** Refer back to traits problem in part 1
-* Balance
+
+## Balance
+
 So now we have a CV, annotated with some notes from a phone
 conversation, and a homework assignment that's been reviewed by a
 developer.
