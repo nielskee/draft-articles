@@ -110,11 +110,9 @@ not.
 
 These platforms seem to provide an objective measure of
 capability. The intent of HackerRank is to Rank your Hackers, is it
-not ?
-
-I see this all the time in software development, and not just in
-hiring - this urge to reduce something complex, nuanced and hard to
-understand down to a dashboard metric. Numbers are seductive - they
+not ? I see this all the time in software development, and not just in
+hiring - this urge to reduce something complex, nuanced and difficult
+to understand down to a dashboard metric. Numbers are seductive - they
 promise simple answers and absolute truths.
 
 In reality, though, these tools are an example of the Streetlight
@@ -148,8 +146,8 @@ moment. A good idea at the time, maybe, but we've found a better way
 now and don't need it anymore.
 
 - If you need to run a coding assessment remotely, look to use the
-  excellent CyberDojo instead : a platform that emphasises TDD and
-  small steps.
+  excellent CyberDojo instead : a platform that emphasises Test-Driven
+  and small steps.
 
 - If algorithmic problem-solving is very important to the sort of work
   you do, there are better ways of running these interviews : more in
