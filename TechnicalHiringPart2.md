@@ -3,21 +3,31 @@ We'd love to see all candidates face to face. We'd love to have a
 complete view of their skills, background and abilities. In practice,
 it's almost impossible for organisations to commit this sort of time.
 
-We also don't want to take up the candidate's time if we think there'a
-low probability we're going to hire them. They're busy people
-too. They're generally in full time employment, and they'll often have
-multiple job applications live at any given time.
+As importantly, we also don't want to take up the candidate's time if
+we think there'a low probability we're going to hire them. They're
+busy people too. They're generally in employment, and if they're in
+Job Hunt Mode then they'll often have multiple job applications live
+at any given time.
+
+Screening gives you and the candidate a way of building confidence in
+each other - as your investment in each other grows, so does your
+confidence.
+
+So goes the theory.
+
+** Missing out risk
 * CV and Cover Letter
 At this stage, I'm trying to decide whether I want to have a
-conversation with the person. A phone screen takes about 15-20
+conversation with the person. A phone screen might take about 15-20
 minutes, so I'm not going to spend 30 minutes agonising over that
 decision.
 
+In front of me, I have a CV, perhaps a cover letter, possibly some
+links to a portfolio work. I probably a bunch of these at any time,
+from multiple candidates.
+
 There's only question that needs answering at this stage "Can I
 picture this person working as part of our team?"
-
-We have a CV, a cover letter, possible some links to portfolio
-work. Probably a bunch of them, from multiple candidates.
 
 At this stage, I'm trying to decide whether you want to have a
 conversation with the person - that's all, just a conversation. A
@@ -31,53 +41,50 @@ new technology. Whatever the situation, you're going to know in about
 5 minutes with a CV and cover letter whether you're looking at someone
 who you can picture working in your team.
 
-Putting aside your tech specifics, here are some things I view as
-positives in a CV, that might make me want to have a conversation with
+Putting aside tech specifics, here are some things I view as positives
+in a CV, that might make me want to have a conversation with
 them. These are mine.
 
-- Breadth and depth
+- Breadth and Depth
 
 - Curiosity 
 
-- Self-improver. Evidence of personal or open-source projects,
-  attendance at meetups and conferences, and engaged in their
-  community.
+- A self-improver : Evidence of personal or open-source projects is
+  great, as well as attendance at any local meetups or conferences. I
+  like to see people who are engaged in a wider technical community (I
+  have some caveats on this later though).
 
-- Coach : some signs that they help other people : coaching,
-  mentoring, helping kids or adults learn to code. This can start in
-  the earlies stage of a career.
+- A coach : I'm reassured when I see some signs that this person helps
+  other people : coaching, mentoring, helping kids or adults learn to
+  code. This can start in the earliest stages of a career, too, it's
+  not something that's exclusively for more experienced developers.
 
 - Ethical : you want to hire developers who care, about their users,
   customers and colleagues.
 
 Although it's great to see evidence of personal projects, remember
-that this can be a lot easier for some people than others. People with
-a lot of discretionary time can work on personal projects, and attend
-<<<<<<< HEAD
+that this can be a lot easier for some people than others - and you
+need to think hard about diversity factors here too. People with a lot
+of discretionary time can work on personal projects, and attend
 meetups and conferences. People with childcare or eldercare
-commitments often can't.
+commitments often can't. These commitments tend to fall
+disproportionately on women. Also remember that some technical
+communities are less inclusive than others, and it would be wrong to
+penalise someone for other people's exclusionary behaviour.
 
 Where candidates do have these projects and activities, sure, view
 them as positives, but always remember that personal circumstances
 play a part.
 
-## Phone / Video Screens
+** Don't agonise
+** Requirements and flexibility
+** Signs and signals
+** Review objectively
+** But trust your gut too
+** Resist the rank
 
-They used to be a big thing, phone screens : Technical Interview Lite,
-effectively. Like all screening, the idea was to go forward to the
-next stage with the candidates you think are the best prospects. You'd
-have a list of tried and tested questions, that would (in theory at
-least), help you divide the candidates into two camps, making a
-go/no-go decision on each.
-=======
-meetups and conferences. People with either childcare or eldercare
-commitments often can't do this.
 
-Other candidates face tight constraints imposed by
-employers. Companies involved in secretq work, for example, although
-they have great engineers working for them, are very nervous about
-their developers making open source contributions.
-
+** Summary
 - View side projects as "supplementary information" rather than
   "good". If it's there, look at it, and form a more refined view of
   _that one candidate_, but don't make a relative judgement about one
@@ -111,7 +118,6 @@ I'll usually ask a mix of open and closed questions. I want to see how
 the candidate communicates - and not just in terms of technical
 accuracy, but whether there's any genuine passion and enthusiasm for
 the subject.
-=======
 tend to base questions around a candidate's stated experience. I use
 that as a jump-off into some technical discussion. With this approach,
 you follow the trail of the discussion.
@@ -154,6 +160,8 @@ are using them, although I think they're used wrongly (or excessively)
 more often than not.
 
 TODO: mechanisms and measures
+
+TODO: investment from candidate
 
 These platforms seem to provide an objective measure of capability, to
 differentiate. After all, the intent of HackerRank is to Rank your
@@ -252,3 +260,4 @@ benefits
 
 - Submit via a pull request (the pull will never be merged)
 
+* A Modified Pipeline
