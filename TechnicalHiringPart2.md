@@ -3,11 +3,11 @@ We'd love to see all candidates face to face. We'd love to have a
 complete view of their skills, background and abilities. In practice,
 it's almost impossible for organisations to commit this sort of time.
 
-As importantly, we also don't want to take up the candidate's time if
-we think there'a low probability we're going to hire them. They're
-busy people too. They're generally in employment, and if they're in
-Job Hunt Mode then they'll often have multiple job applications live
-at any given time.
+Just as importantly, we also don't want to take up the candidate's
+time if we think there'a low probability we're going to hire
+them. They're busy people too. They're generally in employment, and if
+they're in Job Hunt Mode then they'll often have multiple job
+applications live at any given time.
 
 Screening gives you and the candidate a way of building confidence in
 each other - as your investment in each other grows, so does your
@@ -15,34 +15,39 @@ confidence.
 
 So goes the theory.
 
-** Missing out risk
+I want to emphasise that this needs to be a *matched* investment. At
+each stage, the candidate needs to feel they know more about you, in
+the same way you know more about them. If this becomes unbalanced,
+trust is eroded.
+* T-Shapes and Technical Specifics
+For most of the next two posts, I'm going to have to make some
+assumptions. There's an almost infinite variety of technical
+backgrounds that might be important to you, and I don't want to be
+constantly caveating.
+
+You might have quite exacting requirements - specific experience you
+need, or specific tech skills that can't easily be picked up.
+
+So, here's my assumption : if you're hiring for a specific or niche
+skillset, I'll assume you're smart people who you know about the
+technical domain you're hiring for, and you can apply good judgement
+as to whether the candidate has it or not. We'll look at the broader
+picture in these posts.
+
 * CV and Cover Letter
-At this stage, I'm trying to decide whether I want to have a
-conversation with the person. A phone screen might take about 15-20
-minutes, so I'm not going to spend 30 minutes agonising over that
-decision.
+So you have a CV. Probably a whole bunch. Perhaps covering letters,
+possibly some links to a portfolio of work for some candidates.
 
-In front of me, I have a CV, perhaps a cover letter, possibly some
-links to a portfolio work. I probably a bunch of these at any time,
-from multiple candidates.
-
-There's only question that needs answering at this stage "Can I
-picture this person working as part of our team?"
+For each candidate, there's only question that needs answering at this
+stage : "Can we picture this person working as part of our team?"
 
 At this stage, I'm trying to decide whether you want to have a
 conversation with the person - that's all, just a conversation. A
 phone screen takes about 15-20 minutes, so I'm not going to spend 30
 minutes agonising over that decision.
 
-You might have quite exacting requirements - specific experience you
-need, or specific tech skills that can't easily be picked up. You
-might be hiring someone specifically to help you bootstrap you into a
-new technology. Whatever the situation, you're going to know in about
-5 minutes with a CV and cover letter whether you're looking at someone
-who you can picture working in your team.
-
-Putting aside tech specifics, here are some things I view as positives
-in a CV, that might make me want to have a conversation with
+Putting aside the technical specifics, here are some things I view as
+positives in a CV, that might make me want to have a conversation with
 them. These are mine.
 
 - Breadth and Depth
