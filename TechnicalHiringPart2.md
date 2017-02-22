@@ -1,26 +1,17 @@
-org-m# Technical Hiring Part 2
+* Why Screen
+We'd love to see all candidates face to face. We'd love to have a
+complete view of their skills, background and abilities. In practice,
+it's almost impossible for organisations to commit this sort of time.
 
-- What they _say_ they can do : CV, cover letter
-
-- What they _show_ they can do : technical interviews
-
-- What they _actually_ do : how it all translates into real
-  development work on your codebase.
-
-You can build confidence in the first two things by asking questions
-and running technical interviews. To some extent you can also predict
-the third, if you get the interviews right.
-
-## CV and Cover Letter
-
-Talking about hiring is really difficult without context. Like
-software development, you can't give definite advice that
-
-- (1) You're in a company which needs to move into a new technical
-  domain.
-
-- (2) Your organisation
-
+We also don't want to take up the candidate's time if we think there'a
+low probability we're going to hire them. They're busy people
+too. They're generally in full time employment, and they'll often have
+multiple job applications live at any given time.
+* CV and Cover Letter
+At this stage, I'm trying to decide whether I want to have a
+conversation with the person. A phone screen takes about 15-20
+minutes, so I'm not going to spend 30 minutes agonising over that
+decision.
 
 There's only question that needs answering at this stage "Can I
 picture this person working as part of our team?"
@@ -42,21 +33,27 @@ who you can picture working in your team.
 
 Putting aside your tech specifics, here are some things I view as
 positives in a CV, that might make me want to have a conversation with
-them.
-
-- Self-improver
+them. These are mine.
 
 - Breadth and depth
 
-- Evidence of personal or open-source projects, attendance at meetups
-  and conferences, and engaged in their community.
+- Curiosity 
 
-- Some signs that they help other people : coaching, mentoring,
-  helping kids or adults learn to code.
+- Self-improver. Evidence of personal or open-source projects,
+  attendance at meetups and conferences, and engaged in their
+  community.
+
+- Coach : some signs that they help other people : coaching,
+  mentoring, helping kids or adults learn to code. This can start in
+  the earlies stage of a career.
+
+- Ethical : you want to hire developers who care, about their users,
+  customers and colleagues.
 
 Although it's great to see evidence of personal projects, remember
 that this can be a lot easier for some people than others. People with
 a lot of discretionary time can work on personal projects, and attend
+<<<<<<< HEAD
 meetups and conferences. People with childcare or eldercare
 commitments often can't.
 
@@ -72,6 +69,23 @@ next stage with the candidates you think are the best prospects. You'd
 have a list of tried and tested questions, that would (in theory at
 least), help you divide the candidates into two camps, making a
 go/no-go decision on each.
+=======
+meetups and conferences. People with either childcare or eldercare
+commitments often can't do this.
+
+Other candidates face tight constraints imposed by
+employers. Companies involved in secretq work, for example, although
+they have great engineers working for them, are very nervous about
+their developers making open source contributions.
+
+- View side projects as "supplementary information" rather than
+  "good". If it's there, look at it, and form a more refined view of
+  _that one candidate_, but don't make a relative judgement about one
+  candidate against another based on personal projects.
+* Phone Screens
+Phone screens used to be quite the big thing. Technical Interview
+Lite, effectively. Like all screening, the idea was always to go
+forward with the candidates.
 
 I've used them that way in the past in Q&A mode, but always found them
 stilted, awkward and ineffective, and I think candidates did too. It's
@@ -97,12 +111,21 @@ I'll usually ask a mix of open and closed questions. I want to see how
 the candidate communicates - and not just in terms of technical
 accuracy, but whether there's any genuine passion and enthusiasm for
 the subject.
+=======
+tend to base questions around a candidate's stated experience. I use
+that as a jump-off into some technical discussion. With this approach,
+you follow the trail of the discussion.
+
+What I'm looking for is consistency rather than probing for deep
+knowledge and experience. For example, if someone has said they do
+test-driven development, I'd expect to get some quite confident
+discussion around the test framework they're using.
 
 - Use a phone screen as a chance to introduce yourself to each other,
   and to make sure the candidate is on board with the process.
 
-- Focus on what candidates say they know, rather than what you
-  need. Remember : trajectory.
+- Focus on what candidates say they know in their CV or cover letter,
+  rather than what you need.
 
 - Use a conversational style based around the experience on their
   CV. Follow the trail, and improvise. Get in some technical questions
@@ -124,9 +147,7 @@ the subject.
 Some people afind this a harder format to run than having a set
 question list. You certainly need to think on your feet, but I think
 you get a better feel for the candidate.
-
-## Online Technical Test Platorms
-
+* Online Technical Test Platorms
 Online technical assessment tools like HackerRank and Codility are
 becoming more widespread in hiring. I think I understand why companies
 are using them, although I think they're used wrongly (or excessively)
@@ -134,9 +155,9 @@ more often than not.
 
 TODO: mechanisms and measures
 
-Superficially, these platforms seem to provide an objective measure of
-capability. After all, the intent of HackerRank is to Rank your
-Hackers, is it not? I see this all the time in software development,
+These platforms seem to provide an objective measure of capability, to
+differentiate. After all, the intent of HackerRank is to Rank your
+Hackers, is it not ? I see this all the time in software development,
 and not just in hiring - this urge to reduce something complex,
 nuanced and difficult to understand down to a dashboard
 metric. Numbers are seductive - they promise simple answers and
@@ -154,6 +175,7 @@ Effect in action:
 > the light is."
 
 Just because there's light to see by, it doesn't mean you're looking
+<<<<<<< HEAD
 in the right place. HackerRank and Codility measure that which can be
 measured, not necessarily what's important.
 
@@ -161,6 +183,8 @@ More fundamentally - and a thought that seems to occur to virtually
 no-one who uses these tools - 
 
 Here's where we really want to look:
+in the right place. Here's where we really want to look, at the areas
+where cost of development, and cost of ownership of code
 
 - Changeability and maintainability of code.
 
@@ -197,7 +221,7 @@ best, and not even a particularly useful one.
   you need to be prepared to put in the personal effort with
   candidates for the more challenging parts of your tech selection.
 
-## Coding Assignments
+* Coding Assignments
 
 If you need to scale up your technical screening, I propose that this
 is a better way of doing it than the online route. It has many
@@ -213,7 +237,7 @@ benefits
 
 - Navigable
 
-## How to run
+* How to run
 
 - Set up a GitHub repository and ask your candidates to fork the
   repostitory.
@@ -228,17 +252,3 @@ benefits
 
 - Submit via a pull request (the pull will never be merged)
 
-## Hackathons
-
-I know a lot of companies use these as a talent-spotting mechanism,
-especially for early careers. They're fun, and largely harmless.
-
-I think they're more a mechanism for talent acquisition (not my field)
-rather than technical selection.
-
-## Balance
-
-So now we have a CV, annotated with some notes from a phone
-conversation, and an assignment that's been reviewed by a developer.
-
-Balance matters.
