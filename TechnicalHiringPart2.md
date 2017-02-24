@@ -4,7 +4,7 @@ complete view of their skills, background and abilities. In practice,
 it's almost impossible for organisations to commit this sort of time.
 
 Just as importantly, we also don't want to take up the candidate's
-time if we think there'a low probability we're going to hire
+time if we think there's a low probability we're going to hire
 them. They're busy people too. They're generally in employment, and if
 they're in Job Hunt Mode then they'll often have multiple job
 applications live at any given time.
@@ -19,6 +19,7 @@ I want to emphasise that this needs to be a *matched* investment. At
 each stage, the candidate needs to feel they know more about you, in
 the same way you know more about them. If this becomes unbalanced,
 trust is eroded.
+
 * T-Shapes and Technical Specifics
 For most of the next two posts, I'm going to have to make some
 assumptions. There's an almost infinite variety of technical
@@ -38,28 +39,31 @@ picture in these posts.
 So you have a CV. Probably a whole bunch. Perhaps covering letters,
 possibly some links to a portfolio of work for some candidates.
 
-For each candidate, there's only question that needs answering at this
-stage : "Can we picture this person working as part of our team?"
+For each candidate, there's only one question that needs answering at
+this stage : "Can I picture this person working as part of our
+team?". That's it. I try to blot the rest of the process out of my
+mind, and don't agonise.
 
-At this stage, I'm trying to decide whether you want to have a
-conversation with the person - that's all, just a conversation. A
-phone screen takes about 15-20 minutes, so I'm not going to spend 30
-minutes agonising over that decision.
+At this stage, I'm trying to decide whether I want to have a further
+conversation with the person. As an example, a phone screen can take
+about 15-20 minutes, so if you spend 30 minutes agonising over this
+decision, you're doing it wrong.
 
-Putting aside the technical specifics, here are some things I view as
-positives in a CV, that might make me want to have a conversation with
-them. These are mine.
+Putting aside the technical specifics you might have, here are some
+things I view as positives in a CV, things that make me want to have that
+conversation.
 
-- Breadth and Depth
+- Breadth and Depth : The T model. Yes, it's just a model, but people
+  with breadth add capability to teams beyond 
 
-- Curiosity 
+- Curiosity : it might kill cats, but it's great for humans.
 
-- A self-improver : Evidence of personal or open-source projects is
+- Self-improvers : Evidence of personal or open-source projects is
   great, as well as attendance at any local meetups or conferences. I
-  like to see people who are engaged in a wider technical community (I
-  have some caveats on this later though).
+  like to see people who are engaged in a wider technical community
+  (although I have some caveats on this later - read on...).
 
-- A coach : I'm reassured when I see some signs that this person helps
+- Coaches : I'm reassured when I see some signs that this person helps
   other people : coaching, mentoring, helping kids or adults learn to
   code. This can start in the earliest stages of a career, too, it's
   not something that's exclusively for more experienced developers.
@@ -67,19 +71,23 @@ them. These are mine.
 - Ethical : you want to hire developers who care, about their users,
   customers and colleagues.
 
-Although it's great to see evidence of personal projects, remember
-that this can be a lot easier for some people than others - and you
-need to think hard about diversity factors here too. People with a lot
-of discretionary time can work on personal projects, and attend
-meetups and conferences. People with childcare or eldercare
-commitments often can't. These commitments tend to fall
+** Personal Projects
+
+Although it's great to see evidence of personal projects on GitHub or
+elsewhere, remember that this can be a lot easier for some people than
+others. You need to think hard about diversity factors here too.
+People with a lot of discretionary time can work on personal projects,
+and attend meetups and conferences. However, people with childcare or
+eldercare commitments often can't, and these commitments tend to fall
 disproportionately on women. Also remember that some technical
 communities are less inclusive than others, and it would be wrong to
-penalise someone for other people's exclusionary behaviour.
+penalise women engineers for the exclusionary behaviour of others.
 
 Where candidates do have these projects and activities, sure, view
 them as positives, but always remember that personal circumstances
-play a part.
+play a part, and that the structural sexism in the tech industry can
+dissuade women from involvement in open source projects and tech
+communities.
 
 ** Don't agonise
 ** Requirements and flexibility
@@ -96,8 +104,7 @@ play a part.
   candidate against another based on personal projects.
 * Phone Screens
 Phone screens used to be quite the big thing. Technical Interview
-Lite, effectively. Like all screening, the idea was always to go
-forward with the candidates.
+Lite, effectively.
 
 I've used them that way in the past in Q&A mode, but always found them
 stilted, awkward and ineffective, and I think candidates did too. It's
@@ -123,6 +130,7 @@ I'll usually ask a mix of open and closed questions. I want to see how
 the candidate communicates - and not just in terms of technical
 accuracy, but whether there's any genuine passion and enthusiasm for
 the subject.
+
 tend to base questions around a candidate's stated experience. I use
 that as a jump-off into some technical discussion. With this approach,
 you follow the trail of the discussion.
@@ -133,7 +141,7 @@ test-driven development, I'd expect to get some quite confident
 discussion around the test framework they're using.
 
 - Use a phone screen as a chance to introduce yourself to each other,
-  and to make sure the candidate is on board with the process.
+  and to make sure the candidate is OK with the process.
 
 - Focus on what candidates say they know in their CV or cover letter,
   rather than what you need.
@@ -147,13 +155,13 @@ discussion around the test framework they're using.
   above all.
 
 - Non-sequitur technical questions are just awkward. Good candidates
-  experience brain-freeze, and less good candidates will have
+  experience brain-freeze, and less strong candidates will have
   memorised every Google search result for "technical interview phone
   screen questions".
 
 - Keep these to 15-20 minutes. Experienced interviewers tend to know
-  quite quickly if a candidate is a go or a no-go, often in the first
-  few minutes.
+  quite quickly if a candidate is a fit, often in the first few
+  minutes.
 
 Some people afind this a harder format to run than having a set
 question list. You certainly need to think on your feet, but I think
@@ -161,12 +169,10 @@ you get a better feel for the candidate.
 * Online Technical Test Platorms
 Online technical assessment tools like HackerRank and Codility are
 becoming more widespread in hiring. I think I understand why companies
-are using them, although I think they're used wrongly (or excessively)
-more often than not.
+are using them, although I think they're used wrongly - certainly
+excessively - more often than not.
 
 TODO: mechanisms and measures
-
-TODO: investment from candidate
 
 These platforms seem to provide an objective measure of capability, to
 differentiate. After all, the intent of HackerRank is to Rank your
@@ -188,16 +194,12 @@ Effect in action:
 > the light is."
 
 Just because there's light to see by, it doesn't mean you're looking
-<<<<<<< HEAD
-in the right place. HackerRank and Codility measure that which can be
-measured, not necessarily what's important.
+in the right place. These tools measure what can be measured, not
+necessarily what's important.
 
-More fundamentally - and a thought that seems to occur to virtually
-no-one who uses these tools - 
-
-Here's where we really want to look:
-in the right place. Here's where we really want to look, at the areas
-where cost of development, and cost of ownership of code
+Here's where we really want to look, at the things that have the
+biggest bearing on the cost of development, and the cost of ownership
+of code:
 
 - Changeability and maintainability of code.
 
@@ -217,13 +219,19 @@ these important skills and character traits. They assess the
 characteristics of _code_, not of people. They're a proxy measure at
 best, and not even a particularly useful one.
 
-- If timed code challenges are important to you, because you want
-  people continually "delivering against tight deadlines", you're
-  probably horrible people. Think about the signal this is sending.
+And remember that point earlier about matched investment? That the
+candidate should learn as much about you as you learn about them?
+Well, all they learn with these tools is that you're happy to have a
+machine run this part of your recruitment for you.
 
 - If you need to run a coding assessment remotely, look to use the
   excellent CyberDojo instead : a platform that emphasises Test-Driven
   and small steps.
+
+- If timed code challenges are important to you, because you want
+  people continually coding quickly to meet arbitrary deadlines, I
+  suggest you have other things you need to be thinking about before
+  you hire anyone.
 
 - If algorithmic problem-solving is vital to the sort of work you do,
   there are better ways of running algo and data structures interviews
@@ -235,12 +243,13 @@ best, and not even a particularly useful one.
   candidates for the more challenging parts of your tech selection.
 
 * Coding Assignments
-
 If you need to scale up your technical screening, I propose that this
 is a better way of doing it than the online route. It has many
 benefits
 
 - Relevant
+
+- Communication
 
 - Tests as well as code
 
@@ -251,7 +260,6 @@ benefits
 - Navigable
 
 * How to run
-
 - Set up a GitHub repository and ask your candidates to fork the
   repostitory.
 
@@ -266,3 +274,6 @@ benefits
 - Submit via a pull request (the pull will never be merged)
 
 * A Modified Pipeline
+* Other things
+I don't know why companies do this. I'm hiring developers, not
+recreating MENSA.
