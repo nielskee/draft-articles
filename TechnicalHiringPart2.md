@@ -345,33 +345,6 @@ If you need to scale up your technical screening, I propose that this
 is a better way of doing it than the online route. It has many
 benefits
 
-- Relevant
-
-- Communication
-
-- Tests as well as code
-
-- Style and expressiveness
-
-- Used the tools well - Git especially
-
-- Navigable
-
-- Set up a GitHub repository and ask your candidates to fork the
-  repostitory.
-
-- Ask candidates to commit regulary
-
-- Ask candidates to narrate how they're doing in the README
-
-- Great springboard for f2f
-
-- Be clear about your own coding values
-
-- Submit via a pull request (the pull will never be merged)
-
-## A modified pipeline
-
 ## "Aptitude" tests
 
 Some companies do psychometric evaluations or "aptitude
@@ -386,4 +359,6 @@ team in delivering solutions to complex problems, write good code, and
 keep learning as they work, I'd say their grey matter is working
 pretty well for them.
 
-## Finally...
+## A modified pipeline
+
+TODO: diagram showing balance assessment
