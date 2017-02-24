@@ -50,6 +50,23 @@ know about the technical domain you're hiring for, and that you can
 apply good judgement as to whether the candidate has the right
 experience or not. We'll look at the broader picture in these posts.
 
+## And you...do you code?
+
+If you're not hands-on, you need to be hands-off. Non-developers just
+aren't in a position to assess developer skills, and their uncertainty
+and lack of confidence in code will mean they'll focus on other
+traits. Specifically, they'll focus on **the wrong traits**.
+
+This isn't elitism, it's just a reflection of the challenge of the
+role. It also doesn't matter that you _used_ to code, what matters is
+whether you code now. The easiest way to check is to do the online
+test, the assignment, or the live interview challenge yourself.
+
+If it's a struggle for you, it's time to take a step back and let
+others make the call. Hopefully you've heeded my advice and got as
+many people in your team involved in technical interviewing as you
+can.
+
 ## CV and cover letter
 
 For each candidate, there's only one question that needs answered at
@@ -219,6 +236,34 @@ get a better feel for the candidate.
   and give thought to who should primarily lead the conversation, and
   who should primarily listen.
 
+When you get to the end of the screen, and discuss with your
+co-interviewer, talk around these points:
+
+- We talked to this candidate because we could picture them working
+  with us. Is that still the case after speaking with them? More so,
+  or less so?
+
+- Did everything seem consistent? Did the narrative we got from the
+  candidate correspond to what we read on the CV?
+
+- When we asked technical questions, did the answers seem consistent
+  with the experience that was being described? Were there any obvious
+  gaps? Were there answers that were obviously wrong?
+
+- Did the candidate seem comfortable talking about the work they'd
+  done, or did they hesitate? Did they try and steer the conversation
+  away from technical questions?
+
+- Did we get a sense of enthusiasm and excitement about the technical
+  domain, and also the role and our company?
+
+- Now, allowing for the candidate being nervous, would we change our
+  view on any of these points above?
+
+And make your decision : "Based on what I now know about this
+candidate, do I think it's more likely or less likely that we'd hire
+them
+
 ## Online technical test platforms
 
 Online technical assessment tools like HackerRank and Codility are
@@ -280,11 +325,6 @@ machine run this part of your recruitment for you.
   excellent CyberDojo instead : a platform that emphasises test-driven
   development, working in small increments.
 
-- If beat-the-clock coding challenges are appealing to you because you
-  want people "working quickly" to meet arbitrary deadlines, I
-  respectfully suggest you have other things you need to be thinking
-  about before you hire anyone.
-
 - If algorithmic problem solving is central to the sort of work you
   do, sure, I understand why these tools might be attractive. But
   there are better ways of running interviews around CS algo and data
@@ -298,31 +338,62 @@ machine run this part of your recruitment for you.
   candidates as part of the live interview for the more challenging
   parts of your tech selection.
 
-- If you must use a tool like HackerRank, construct your challenge
-  sensibly. Rather than off-the-shelf coding challenges, consider
-  creating your own. Use a small mix of multiple choice, subjective
-  questions and a coding challenge. And if your live technical
-  interview is going to be based on algo problem solving, consider
-  something with a different focus for the screen.
+- If you absolutely must use a tool like HackerRank, build your
+  challenge sensibly. Rather than off-the-shelf coding challenges,
+  consider creating your own. Use a (small!) mix of multiple choice,
+  subjective questions and a coding challenge. And if your live
+  technical interview is going to be based on algo problem solving,
+  consider something with a different focus for the screen.
 
 - Remember, this should never be the main event, just the warm-up
-  act. Size it appropriately. There's an "add to basket" mentality I
-  think some technical interviewers suffer from when they're creating
-  these tests, but you're not doing your company any favours by making
-  this excessive. Be *very* generous on the time allowance - creating
-  a false sense of urgency for the candidate is pointless and
-  counterproductive.
+  act. It's a screen, so size it appropriately. There's a "yay, add to
+  basket!" mentality I think some technical interviewers suffer from
+  when they're creating these tests, but you're not doing your company
+  any favours by making this excessive. Be **very generous indeed** on
+  the time allowance - creating a false sense of urgency for the
+  candidate is unrealistic, pointless and counterproductive.
 
 - Whatever you decide to use as a code challenge, make sure to
   communicate what's important to you in code - simplicity, clarity,
   naming, hygiene. These are your choice, but let the candidate
   know. No surprises.
 
+- If beat-the-clock coding challenges are appealing to you because you
+  want people "working quickly" to meet arbitrary deadlines, I
+  respectfully suggest you have other things you need to be thinking
+  about before you hire anyone.
+
+TODO : how to assess
+
 ## Coding assignments
 
-If you need to scale up your technical screening, I propose that this
-is a better way of doing it than the online route. It has many
-benefits
+If you need to scale up your technical screening, for most
+organisations this will be a better way than the online route.
+
+There are many benefits. For one thing, you can set a challenge that's
+a better fit for the core skillset of the role you're recruiting
+for. A small web exercise for web developers. A single-page mobile
+application for iOS or Android developers. A RESTful service for
+back-end Java developers.
+
+You can communicate with candidates. While they're doing this too.
+
+TODO GH reviews
+
+TODO comms with candidate
+
+TODO how to run
+
+You construct a challenge that could be completed in 2-4 hours, and
+send to the candidate.
+
+- I talked in the first post about proportionality. Bear in mind that
+  less experienced graduates will take far, far longer to complete a
+  challenge like this. Create one that's
+
+TODO what to look for
+
+TODO feeding into tech interview
 
 ## "Aptitude" tests
 
@@ -351,13 +422,8 @@ There are tools out there that will give you a superficial sense of
 better efficiency, but they all come at a high cost, and it's not
 financial, it's human.
 
-For some reason, when it comes to hiring, cost is king. It's an odd,
-dissonant note in otherwise 
-
-consider this a sign that you need
-to widen the pool of tech interviewers.
-
-The solution to being better at hiring, is to be better at hiring.
+In the end, the solution to being better at hiring, is to get better
+at hiring. Not a tool.
 
 ## Links
 
