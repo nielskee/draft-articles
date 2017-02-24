@@ -347,17 +347,18 @@ benefits
 
 ## "Aptitude" tests
 
-Some companies do psychometric evaluations or "aptitude
+Some organisations do psychometric evaluations or "aptitude
 testing". These are numerical, inductive, and verbal reasoning tests,
 and - spoiler alert - are absolutely nothing to do with real-world
 aptitude in software development.
 
 I've no idea why organisations do these, and I strongly suspect they
-don't either. You're building a development team, not setting up a
-competitor organisation to MENSA. If someone can work as part of a
-team in delivering solutions to complex problems, write good code, and
-keep learning as they work, I'd say their grey matter is working
-pretty well for them.
+don't either. If someone can show from their experience that they've
+work as part of a team in delivering solutions to complex problems,
+and their screening and technical interview shows they can write good
+code, I'd say their grey matter is working pretty well for them.
+
+Hard pass.
 
 ## A modified pipeline
 
