@@ -296,13 +296,20 @@ machine run this part of your recruitment for you.
   you need to be prepared to put in the personal effort with
   candidates for the more challenging parts of your tech selection.
 
-- If you must use a tool like Hackerrank, construct your challenge
-  sensibly. Rather than off-the-shelf coding challenges, create your
-  own. Use a mix of multiple choice, subjective questions and a coding
-  challenge. And if your live technical interview is going to be based
-  on algo problem solving, consider something with a different focus
-  for the screen. Remember, this is not the main event, just the
-  warm-up act. Size it appropriately.
+- If you must use a tool like HackerRank, construct your challenge
+  sensibly. Rather than off-the-shelf coding challenges, consider
+  creating your own. Use a small mix of multiple choice, subjective
+  questions and a coding challenge. And if your live technical
+  interview is going to be based on algo problem solving, consider
+  something with a different focus for the screen.
+
+- Remember, this should never be the main event, just the warm-up
+  act. Size it appropriately. There's an "add to basket" mentality I
+  think some recruiters suffer from when they're creating these tests,
+  but you're not doing your company any favours by making this
+  excessive. Be *very* generous on the time allowance - creating a
+  false sense of urgency for the candidate is pointless and
+  counterproductive.
 
 - Whatever you decide to use as a code challenge, make sure to
   communicate what's important to you in code - simplicity, clarity,
