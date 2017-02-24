@@ -206,7 +206,7 @@ get a better feel for the candidate.
   and give thought to who should primarily lead the conversation, and
   who should primarily listen.
 
-## Online technical test platorms
+## Online technical test platforms
 
 Online technical assessment tools like HackerRank and Codility are
 becoming more widespread in hiring. I understand why companies are
