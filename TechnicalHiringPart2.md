@@ -169,8 +169,8 @@ the same genuine enthusiasm and interest you're expecting the
 candidate to show. It needs you to think on your feet, but I think you
 get a better feel for the candidate.
 
-- Use a phone screen as a chance to introduce yourself to each other,
-  and to make sure the candidate is OK with the process.
+- Use a phone screen as a chance to introduce yourselves to each
+  other, and to make sure the candidate is OK with the process.
 
 - Focus on what candidates say they know in their CV or cover letter,
   rather than what you think you need.
@@ -286,9 +286,9 @@ machine run this part of your recruitment for you.
   you need to be prepared to put in the personal effort with
   candidates for the more challenging parts of your tech selection.
 
-Finally - and really just for fun - let me pick apart the claims made
-in their ["Solution Brief"
-document](http://hrcdn.net/resources/solutionbrief.pdf)
+So who really benefits from online technical test platforms? Let's
+take a look at what HackerRank say at the end of their ["Solution
+Brief" document](http://hrcdn.net/resources/solutionbrief.pdf):
 
 > Who Benefits From Using Hackerrank?
 
