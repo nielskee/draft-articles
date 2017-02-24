@@ -24,6 +24,8 @@ your company and its requirements.
 
 ## T-Shapes and technical specifics
 
+TODO: diagram
+
 For most of the next two posts, I'm going to have to make some
 assumptions. There's an almost infinite variety of technical
 backgrounds that might be important to you, and I don't want to be
@@ -93,7 +95,7 @@ candidate:
   proofs-of-concept, and that they change their approach depending on
   results. Software development is full of uncertainty, but analysis,
   whiteboarding sessions and endless discussions do little to reduce
-  the uncertainty. Build, measure, learn [footnote].
+  the uncertainty. Build, measure, learn.
 
 ## Personal projects and meetups : a note of caution
 
@@ -118,8 +120,8 @@ open source projects could be wildly different from the experience of
 women candidates from those same communities.
 
 - Treat personal projects and community involvement as "more
-  information about candidate <x>", and not "this makes candidate <x>
-  a better prospect than candidate <y>".
+  information about candidate \<x>", and not "this makes candidate <x>
+  a better prospect than candidate \<y>".
 
 ## Phone screens
 
@@ -150,39 +152,15 @@ questions around a candidate's *stated* experience rather than a list
 of *requirements* for a role. I use that as a jump-off into some
 technical discussion.
 
-Example: let's say I'm hiring a Java developer. I can see they used
-the ABC framework a couple of jobs back, and that's useful and
-relevant experience for our team.
-
-- I ask them about the job - an open question, looking for them to
-  give me the highlights of the role.
-
-- If they mention "...and we used the ABC framework", I'll ask them a
-  specific question about it.
-
-- The specific is often something that would be a common experience
-  for everyone adopting that framework. Maybe the configuration for
-  that framework is quite distinctive...maybe it has a weird
-  programming model...maybe it's hard to test...the specific almost
-  doesn't matter, because you're looking for consistency most of all,
-  and making the technical conversation go a little deeper.
-
-- If they don't mention it themselves, I'll say "It says on your CV
-  you used the ABC framework. We're really interested in that, can you
-  tell me a bit about it?"
-
-- After the candidate answers, I'll get in the specific question.
-
-- That conversation, about the specifics might go deeper, it might
-  not. Adapt, and move on to something else, and keep the conversation
-  flowing.
-
 With this approach, you follow the trail of the discussion, and spot
 opportunities to ask some technical questions along the way. It's more
 natural, tends to flow better, and you get a more accurate impression
 of the candidate to base decisions on. What I'm looking for at this
 stage is consistency rather than probing for very deep knowledge and
-experience.
+experience. The knack to this is to make the segue from general
+discussion about past experience into more technical discussion as
+unforced as possible, using the cues the candidate themselves give
+you.
 
 This is certainly a much harder format for the interviewer to run than
 having a set question list - for one thing, you need to have good
@@ -246,7 +224,8 @@ dashboard metric.
 
 Numbers are seductive - they promise simple answers and absolute
 truths. They way these tools tend to be used by organisations, though,
-makes them an example of the Streetlight Effect in action:
+makes them an example of the Streetlight Effect in action [Source -
+Wikipedia](https://en.wikipedia.org/wiki/Streetlight_effect):
 
 > A policeman sees a drunk man searching for something under a
 > streetlight and asks what the drunk has lost. He says he lost his
@@ -256,15 +235,11 @@ makes them an example of the Streetlight Effect in action:
 > asks why he is searching here, and the drunk replies, "this is where
 > the light is."
 
-[Source - Wikipedia](https://en.wikipedia.org/wiki/Streetlight_effect)
-
 Just because there's light to see by, it doesn't mean you're looking
 in the right place. These tools measure what can be measured, not
-necessarily what's important.
-
-Here's where we really want to look, at the things that have the
-biggest bearing on whether your code turns out to be an asset or a
-liability for your organisation:
+necessarily what's important. Here's where we really want to look, at
+the things that have the biggest bearing on whether your code turns
+out to be an asset or a liability for your organisation:
 
 - Changeability and maintainability of code.
 
@@ -280,6 +255,7 @@ liability for your organisation:
 Good luck getting an automated tool to assess all of those accurately.
 
 TODO: matched investment
+
 TODO: trajectory
 
 Platforms where developers code against a clock is no way of assessing
@@ -310,11 +286,13 @@ machine run this part of your recruitment for you.
   you need to be prepared to put in the personal effort with
   candidates for the more challenging parts of your tech selection.
 
-Finally - and really just for fun - let me pick apart the
+Finally - and really just for fun - let me pick apart the claims made
+in their ["Solution Brief"
+document](http://hrcdn.net/resources/solutionbrief.pdf)
 
 > Who Benefits From Using Hackerrank?
 
-Certainly HackerRank do.
+HackerRank certainly do.
 
 > HackerRank isn’t just about tech recruiters: it’s also about hiring
 > managers, interviewers, teammates, and even the candidates
@@ -353,8 +331,7 @@ imagined possible.
 > team.
 
 What it will ensure is that these "teammates" are working next to
-people exactly like them in every respect. A bland, homogenized,
-smart-but-desolate wasteland of identically-skilled groupthink.
+people exactly like them in every respect.
 
 > Candidates consider it a fun, engaging way to interview and allows
 > anyone, from anywhere, to prove they are qualified
