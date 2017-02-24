@@ -120,8 +120,8 @@ open source projects could be wildly different from the experience of
 women candidates from those same communities.
 
 - Treat personal projects and community involvement as "more
-  information about candidate \<x>", and not "this makes candidate <x>
-  a better prospect than candidate \<y>".
+  information about candidate \<x>", and not "this makes candidate
+  \<x> a better prospect than candidate \<y>".
 
 ## Phone screens
 
