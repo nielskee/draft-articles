@@ -16,7 +16,7 @@ confidence in each other - as your investment in each other grows, so
 does your confidence.
 
 I want to emphasise that this needs to be a *matched* investment. At
-##every stage*, the candidate needs to feel they know more about you,
+*every stage*, the candidate needs to feel they know more about you,
 in the same way you know more about them. If this investment becomes
 unbalanced, then trust is eroded, and however appealing your job ad
 was, you're back to sending a signal that this is really just about
