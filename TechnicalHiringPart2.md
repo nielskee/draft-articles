@@ -60,8 +60,9 @@ candidate.
 
 If the answer is "yes", or "maybe", I'll have a phone conversation. If
 the answer is "no", or "it's really unlikely" then the best thing for
-the candidate is to give them as much feedback as you can (I'll talk
-much more about feedback in the third and final post).
+the candidate is to give them as much feedback as you can, and let
+them concentrate on their other job applications. I'll talk much more
+about feedback in the third and final post.
 
 TODO: hard requirement
 
@@ -155,7 +156,7 @@ though. It's a chance to check in with the candidate, let them know
 there are actual human beings involved on your side of the process,
 and that they're regular developers too. They also give the candidate
 a chance to ask questions about the company, your technology, culture
-and teams. A matched investment.
+and teams. _A matched investment_.
 
 Although I still value phone screens, I do these very differently
 now. I use a much more conversational style, and tend to base
@@ -249,7 +250,7 @@ Wikipedia](https://en.wikipedia.org/wiki/Streetlight_effect):
 > the light is."
 
 Just because there's light to see by, it doesn't mean you're looking
-in the right place. These tools measure what can be measured, not
+in the right place. These tools measure what can be measured, but not
 necessarily what's important. Here's where we really want to look, at
 the things that have the biggest bearing on whether your code turns
 out to be an asset or a liability for your organisation:
@@ -294,7 +295,8 @@ machine run this part of your recruitment for you.
 - Don't sleepwalk into outsourcing your technical interview to an
   online platform. Some aspects of hiring are _just hard work_, and
   you need to be prepared to put in the personal effort with
-  candidates for the more challenging parts of your tech selection.
+  candidates as part of the live interview for the more challenging
+  parts of your tech selection.
 
 - If you must use a tool like HackerRank, construct your challenge
   sensibly. Rather than off-the-shelf coding challenges, consider
@@ -305,10 +307,10 @@ machine run this part of your recruitment for you.
 
 - Remember, this should never be the main event, just the warm-up
   act. Size it appropriately. There's an "add to basket" mentality I
-  think some recruiters suffer from when they're creating these tests,
-  but you're not doing your company any favours by making this
-  excessive. Be *very* generous on the time allowance - creating a
-  false sense of urgency for the candidate is pointless and
+  think some technical interviewers suffer from when they're creating
+  these tests, but you're not doing your company any favours by making
+  this excessive. Be *very* generous on the time allowance - creating
+  a false sense of urgency for the candidate is pointless and
   counterproductive.
 
 - Whatever you decide to use as a code challenge, make sure to
@@ -360,3 +362,5 @@ The solution to being better at hiring, is to be better at hiring.
 ## Links
 
 CyberDojo
+
+http://blog.cyber-dojo.org/2014/09/interviewing-and-cyber-dojo.html
