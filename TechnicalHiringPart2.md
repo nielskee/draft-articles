@@ -1,25 +1,24 @@
-* Why Screen
+* Why screen candidates
 We'd love to see all candidates face to face. We'd love to have a
 complete view of their skills, background and abilities. In practice,
 it's almost impossible for organisations to commit this sort of time.
 
-Just as importantly, we also don't want to take up the candidate's
-time if we think there's a low probability we're going to hire
-them. They're busy people too. They're generally in employment, and if
-they're in Job Hunt Mode then they'll often have multiple job
-applications live at any given time.
+More importantly, we don't want to take up the candidate's time if we
+think there's a low probability we're going to hire them. They're busy
+people too. They're generally in employment, and if they're in Job
+Hunt Mode then they'll often have multiple job applications live at
+any given time.
 
-Screening gives you and the candidate a way of building confidence in
-each other - as your investment in each other grows, so does your
-confidence.
-
-So goes the theory.
+Done right, screening gives you and the candidate a way of building
+confidence in each other - as your investment in each other grows, so
+does your confidence.
 
 I want to emphasise that this needs to be a *matched* investment. At
-each stage, the candidate needs to feel they know more about you, in
-the same way you know more about them. If this becomes unbalanced,
-trust is eroded.
-
+*every stage*, the candidate needs to feel they know more about you,
+in the same way you know more about them. If this becomes unbalanced,
+then trust is eroded, and however appealing your job ad was, you're
+back to sending a signal that this is really just about your company
+and its requirements.
 * T-Shapes and Technical Specifics
 For most of the next two posts, I'm going to have to make some
 assumptions. There's an almost infinite variety of technical
@@ -29,15 +28,14 @@ constantly caveating.
 You might have quite exacting requirements - specific experience you
 need, or specific tech skills that can't easily be picked up.
 
-So, here's my assumption : if you're hiring for a specific or niche
-skillset, I'll assume you're smart people who you know about the
-technical domain you're hiring for, and you can apply good judgement
-as to whether the candidate has it or not. We'll look at the broader
-picture in these posts.
-
+So, here's my assumption : if you're hiring experienced developers for
+a specific skillset, I'll assume you're smart people, that you know
+about the technical domain you're hiring for, and that you can apply
+good judgement as to whether the candidate has the right experience or
+not. We'll look at the broader picture in these posts.
 * CV and Cover Letter
-So you have a CV. Probably a whole bunch. Perhaps covering letters,
-possibly some links to a portfolio of work for some candidates.
+So you have a CV. Perhaps and covering letters, possibly some links to
+a portfolio of work for some candidates. Most likely, you'll 
 
 For each candidate, there's only one question that needs answering at
 this stage : "Can I picture this person working as part of our
@@ -49,59 +47,75 @@ conversation with the person. As an example, a phone screen can take
 about 15-20 minutes, so if you spend 30 minutes agonising over this
 decision, you're doing it wrong.
 
-Putting aside the technical specifics you might have, here are some
-things I view as positives in a CV, things that make me want to have that
-conversation.
+Putting aside the technical specifics, here are some things I view as
+positives in a CV, things I view as strongly positive that would make
+me want to know more about a candidate:
 
-- Breadth and Depth : The T model. Yes, it's just a model, but people
-  with breadth add capability to teams beyond 
-
-- Curiosity : it might kill cats, but it's great for humans.
+- Breadth and depth : breadth is a multiplier - people with breadth
+  add capability to teams far beyond their core skills. If you're
+  hiring developers, look for signs of interest in test automation, in
+  product design and broad industry knowledge.
 
 - Self-improvers : Evidence of personal or open-source projects is
   great, as well as attendance at any local meetups or conferences. I
   like to see people who are engaged in a wider technical community
-  (although I have some caveats on this later - read on...).
+  (although I have some caveats on this later). Initiatives,
+  experiments and innovation that people do on the job are things I
+  always see as signs of self-improvement too.
 
 - Coaches : I'm reassured when I see some signs that this person helps
-  other people : coaching, mentoring, helping kids or adults learn to
-  code. This can start in the earliest stages of a career, too, it's
-  not something that's exclusively for more experienced developers.
+  other people, because it gives me a good sense of how someone is
+  going to work in a team : coaching, mentoring, helping children or
+  adults learn to code, anything. This can start in the earliest
+  stages of a career, too, it's not something just for more
+  experienced developers. Any signs that people are keen to share
+  their knowledge and expertise - at whatever level - are attributes
+  to look out for.
 
-- Ethical : you want to hire developers who care, about their users,
-  customers and colleagues.
+- Ethical : you want to hire developers who care - about their users,
+  customers, and colleagues. If I see some indications that developers
+  are motivated by making things better for people, this makes me
+  happy. This could be adoption of better test-driven approaches, more
+  secure code to protect users, more efficient code to improve battery
+  life on a user's device, improving readability and clarity of code
+  for their colleagues.
 
-** Personal Projects
+- Bias for action : it's something of a Silicon Valley term, but it's
+  widely applicable in tech as a desirable trait. You want people who
+  are going to try things, measure how they work, learn, and
+  adapt. Look for evidence that people run spikes, experiments and
+  proofs-of-concept, and that they change their approach depending on
+  results. Software development is full of uncertainty, but analysis,
+  whiteboarding sessions and endless discussions do little to reduce
+  the uncertainty. Build, measure, learn [footnote].
+
+** Personal projects and meetups : a note of caution
 
 Although it's great to see evidence of personal projects on GitHub or
 elsewhere, remember that this can be a lot easier for some people than
-others. You need to think hard about diversity factors here too.
-People with a lot of discretionary time can work on personal projects,
-and attend meetups and conferences. However, people with childcare or
-eldercare commitments often can't, and these commitments tend to fall
-disproportionately on women. Also remember that some technical
-communities are less inclusive than others, and it would be wrong to
-penalise women engineers for the exclusionary behaviour of others.
+others.
 
-Where candidates do have these projects and activities, sure, view
-them as positives, but always remember that personal circumstances
-play a part, and that the structural sexism in the tech industry can
-dissuade women from involvement in open source projects and tech
+Consider diversity here. People with a lot of discretionary time can
+work on personal projects, make open source contributions, and attend
+meetups and conferences. However, people with childcare or eldercare
+commitments often can't, and these commitments tend to fall
+disproportionately on women. Also remember that some technical
+communities are far less inclusive than others, and it would be
+egregious to penalise women engineers for the exclusionary behaviour
+of others.
+
+In those cases where candidates do have these projects and activities,
+sure, view them as positives, but always remember that personal
+circumstances play a part. And if you're a male manager or developer,
+understand that your experience and perception of tech communities and
+open source projects could be wildly different from the experience of
+women, transgender and non-binary candidates from those same
 communities.
 
-** Don't agonise
-** Requirements and flexibility
-** Signs and signals
-** Review objectively
-** But trust your gut too
-** Resist the rank
+- Treat personal projects and community involvement as "more
+  information about candidate <x>", and not "this makes candidate <x>
+  a better prospect than candidate <y>".
 
-
-** Summary
-- View side projects as "supplementary information" rather than
-  "good". If it's there, look at it, and form a more refined view of
-  _that one candidate_, but don't make a relative judgement about one
-  candidate against another based on personal projects.
 * Phone Screens
 Phone screens used to be quite the big thing. Technical Interview
 Lite, effectively.
