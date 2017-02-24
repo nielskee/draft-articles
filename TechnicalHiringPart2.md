@@ -22,7 +22,7 @@ unbalanced, then trust is eroded, and however appealing your job ad
 was, you're back to sending a signal that this is really just about
 your company and its requirements.
 
-## T-Shapes and technical specifics
+## T-shapes and technical specifics
 
 TODO: diagram
 
@@ -80,13 +80,13 @@ candidate:
   their knowledge and expertise - at whatever level - are attributes
   to look out for.
 
-- Ethical : you want to hire developers who care - about their users,
-  customers, and colleagues. If I see some indications that developers
-  are motivated by making things better for people, this makes me
-  happy. This could be adoption of better test-driven approaches, more
-  secure code to protect users, more efficient code to improve battery
-  life on a user's device, improving readability and clarity of code
-  for their colleagues.
+- Ethical developers : you want to hire developers who care about
+  their users, customers, and colleagues. If I see some indications
+  that developers are motivated by making things better for people,
+  this makes me happy. This could be adoption of better test-driven
+  approaches, more secure code to protect users, more efficient code
+  to improve battery life on a user's device, improving readability
+  and clarity of code for their colleagues.
 
 - Bias for action : it's something of a Silicon Valley term, but it's
   widely applicable in tech as a desirable trait. You want people who
@@ -121,16 +121,16 @@ the experience of women candidates who work in the same technical
 field.
 
 - Treat personal projects and community involvement as "more
-  information about candidate \<x>", and not "this makes candidate
-  \<x> a better prospect than candidate \<y>".
+  information about candidate \<a>", and not "this makes candidate
+  \<a> a better prospect than candidate \<b>".
 
 ## Phone screens
 
-Phone screens used to be quite the big thing: Technical Interview
-Lite, effectively. Typically these would be short calls, and you'd be
-armed with a set of technical questions. These questions were supposed
-to be sure-fire ways of choosing the best candidates to go forward to
-the next stage.
+Phone screens used to be quite the big thing: **Technical Interview
+Lite**, effectively. Typically these would be short calls, and you'd
+be armed with a set of technical questions. These questions were
+supposed to be sure-fire ways of choosing the best candidates to go
+forward to the next stage.
 
 I've used them that way in the past, in Q&A mode, but always found
 them stilted, awkward and ineffective, and I think candidates did
@@ -258,7 +258,7 @@ out to be an asset or a liability for your organisation:
 There's no tool that's going to assess these things accurately, but
 humans aren't bad at it.  Any automated tool you decide to use works
 by assessing the characteristics of _code_, not of people. They're
-proxy measures at best, and not always particularly useful ones.
+proxy measures at best, and not always useful ones.
 
 And remember that point earlier about matched investment? That the
 candidate should learn as much about you as you learn about them?
@@ -266,8 +266,8 @@ Well, all they learn with these tools is that you're happy to have a
 machine run this part of your recruitment for you.
 
 - If you need to run a coding assessment remotely, consider using the
-  excellent CyberDojo instead : a platform that emphasises Test-Driven
-  and small steps.
+  excellent CyberDojo instead : a platform that emphasises test-driven
+  development, working in small increments.
 
 - If beat-the-clock coding challenges are appealing to you because you
   want people "working quickly" to meet arbitrary deadlines, I
@@ -277,14 +277,26 @@ machine run this part of your recruitment for you.
 - If algorithmic problem solving is central to the sort of work you
   do, sure, I understand why these tools might be attractive. But
   there are better ways of running interviews around CS algo and data
-  structure fundamentals. More in the next post on that.
+  structure fundamentals. And really, if that's the main focus in the
+  role, should it not the the centrepiece of the live interview? More
+  in the next post on that.
 
 - Don't sleepwalk into outsourcing your technical interview to an
   online platform. Some aspects of hiring are _just hard work_, and
   you need to be prepared to put in the personal effort with
   candidates for the more challenging parts of your tech selection.
 
-- If you must use a tool like Hackerrank, 
+- If you must use a tool like Hackerrank, construct your challenge
+  sensibly. Rather than off-the-shelf coding challenges, create your
+  own. Use a mix of multiple choice, subjective questions and a coding
+  challenge. And if your face to face technical interview is going to
+  be based on algo problem solving, consider something with a
+  different focus for the screen. This is not the main event, just the
+  warm-up act. Size it appropriately.
+
+- Whatever you decide to use as a code challenge, make sure to
+  communicate what's important to you in code - simplicity, clarity,
+  naming, hygiene.
 
 ## Coding assignments
 
@@ -326,3 +338,7 @@ consider this a sign that you need
 to widen the pool of tech interviewers.
 
 The solution to being better at hiring, is to be better at hiring.
+
+## Links
+
+CyberDojo
