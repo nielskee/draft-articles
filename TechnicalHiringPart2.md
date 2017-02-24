@@ -114,10 +114,11 @@ exclusionary behaviour of others.
 
 In those cases where candidates do have these projects and activities,
 sure, view them as positives, but always remember that personal
-circumstances play a part. And if you're a male manager or developer,
-understand that your experience and perception of tech communities and
-open source projects could be wildly different from the experience of
-women candidates from those same communities.
+circumstances play a part. And if you're a male technical manager or
+developer, understand that your experience and perception of tech
+communities and open source projects could be wildly different from
+the experience of women candidates who work in the same technical
+field.
 
 - Treat personal projects and community involvement as "more
   information about candidate \<x>", and not "this makes candidate
@@ -170,7 +171,8 @@ candidate to show. It needs you to think on your feet, but I think you
 get a better feel for the candidate.
 
 - Use a phone screen as a chance to introduce yourselves to each
-  other, and to make sure the candidate is OK with the process.
+  other, and to make sure the candidate is OK with the process. Be
+  human. Be informal. Chat. Don't try to play a role.
 
 - Focus on what candidates say they know in their CV or cover letter,
   rather than what you think you need.
@@ -183,12 +185,12 @@ get a better feel for the candidate.
   candidate communicates, not just in terms of technical accuracy, but
   whether there's any genuine passion and enthusiasm for the subject.
 
-- It doesn't need to be highly technical : you're going to have some
-  other, deeper mechanism. It's an introduction and a consistency
-  check above all.
+- It doesn't need to be highly technical: you're going to have some
+  other tech screening mechanism. It's an introduction and a
+  consistency check above all.
 
 - Non-sequitur technical questions are just awkward. Good candidates
-  experience brain-freeze, and others wing it.
+  experience brain freeze, and others wing it.
 
 - Be wary of hyper-confidence by the candidate. You're looking to hire
   self-aware, reflective people who learn as they go. A career
@@ -218,13 +220,14 @@ TODO: mechanisms and measures
 These platforms seem to provide an objective measure of capability, to
 differentiate between candidates. After all, the intent of HackerRank
 is to Rank your Hackers, is it not? I see this all the time in
-software development, and not just in hiring, this urge to reduce
+software development - and not just in hiring - this urge to reduce
 something complex, nuanced and difficult to understand down to a
 dashboard metric.
 
-Numbers are seductive - they promise simple answers and absolute
-truths. They way these tools tend to be used by organisations, though,
-makes them an example of the Streetlight Effect in action [Source -
+Numbers and measures are seductive - they promise simple answers and
+absolute truths. They way these tools tend to be used by
+organisations, though, makes them an example of the Streetlight Effect
+in action [Source -
 Wikipedia](https://en.wikipedia.org/wiki/Streetlight_effect):
 
 > A policeman sees a drunk man searching for something under a
@@ -252,92 +255,36 @@ out to be an asset or a liability for your organisation:
 
 - Readability and naming in the code.
 
-Good luck getting an automated tool to assess all of those accurately.
-
-TODO: matched investment
-
-TODO: trajectory
-
-Platforms where developers code against a clock is no way of assessing
-these important skills and character traits. They assess the
-characteristics of _code_, not of people. They're a proxy measure at
-best, and not even a particularly useful one.
+There's no tool that's going to assess these things accurately, but
+humans aren't bad at it.  Any automated tool you decide to use works
+by assessing the characteristics of _code_, not of people. They're
+proxy measures at best, and not always particularly useful ones.
 
 And remember that point earlier about matched investment? That the
 candidate should learn as much about you as you learn about them?
 Well, all they learn with these tools is that you're happy to have a
 machine run this part of your recruitment for you.
 
-- If you need to run a coding assessment remotely, look to use the
+- If you need to run a coding assessment remotely, consider using the
   excellent CyberDojo instead : a platform that emphasises Test-Driven
   and small steps.
 
-- If timed code challenges are important to you, because you want
-  people continually coding quickly to meet arbitrary deadlines, I
-  suggest you have other things you need to be thinking about before
-  you hire anyone.
+- If beat-the-clock coding challenges are appealing to you because you
+  want people "working quickly" to meet arbitrary deadlines, I
+  respectfully suggest you have other things you need to be thinking
+  about before you hire anyone.
 
-- If algorithmic problem-solving is vital to the sort of work you do,
-  there are better ways of running algo and data structures interviews
-  : more in the next post on that.
+- If algorithmic problem solving is central to the sort of work you
+  do, sure, I understand why these tools might be attractive. But
+  there are better ways of running interviews around CS algo and data
+  structure fundamentals. More in the next post on that.
 
 - Don't sleepwalk into outsourcing your technical interview to an
   online platform. Some aspects of hiring are _just hard work_, and
   you need to be prepared to put in the personal effort with
   candidates for the more challenging parts of your tech selection.
 
-So who really benefits from online technical test platforms? Let's
-take a look at what HackerRank say at the end of their ["Solution
-Brief" document](http://hrcdn.net/resources/solutionbrief.pdf):
-
-> Who Benefits From Using Hackerrank?
-
-HackerRank certainly do.
-
-> HackerRank isn’t just about tech recruiters: it’s also about hiring
-> managers, interviewers, teammates, and even the candidates
-> themselves. For example:
-
-Here we go.
-
-> Recruiters save a ton of time, energy, and money.
-
-Nope. They certainly save energy, but hiring the wrong people (or
-constantly hiring exactly the same *sort* of people...), doesn't save
-anything, in fact it costs organisations very badly over the long
-term.
-
-This is easily the most short-sighted statement they make, but I think
-it's also the most telling.
-
-> Hiring Managers can hire based on programming skills instead of
-> relying on resumes and white boards.
-
-Translation : Some managers aren't particularly technical, and would
-prefer to be presented with a simplistic ranking from which they will
-choose - obviously! - the candidate with the "best" number. This
-decision will be made devoid of any context or sense of the
-candidate's potential, character, background, journey or aspirations.
-
-But then - to this type of manager - all that matters is "skill",
-because all they are is "programmers" and all they will be doing is
-"programming". And of course you want to buy the most efficient and
-cost-effective units of production rather than creative, chaotic,
-collaborative, messy human beings with actual ideas, who can
-contribute to your products and organisation in ways you never even
-imagined possible.
-
-> Teammates help ensure talented, qualified candidates join their
-> team.
-
-What it will ensure is that these "teammates" are working next to
-people exactly like them in every respect.
-
-> Candidates consider it a fun, engaging way to interview and allows
-> anyone, from anywhere, to prove they are qualified
-
-No candidate ever has described a timed, online coding challenge in
-the context of a job application as "fun", or "engaging".
+- If you must use a tool like Hackerrank, 
 
 ## Coding assignments
 
@@ -354,12 +301,28 @@ aptitude in software development.
 
 I've no idea why organisations do these, and I strongly suspect they
 don't either. If someone can show from their experience that they've
-work as part of a team in delivering solutions to complex problems,
+worked as part of a team in delivering solutions to complex problems,
 and their screening and technical interview shows they can write good
 code, I'd say their grey matter is working pretty well for them.
 
 Hard pass.
 
-## A modified pipeline
+## A better pipeline
 
 TODO: diagram showing balance assessment
+
+If you're looking for an online silver bullet that will lighten the
+load of screening and interviewing candidates, well...there is one,
+but it's probably not the one you think. Sorry.
+
+There are tools out there that will give you a superficial sense of
+better efficiency, but they all come at a high cost, and it's not
+financial, it's human.
+
+For some reason, when it comes to hiring, cost is king. It's an odd,
+dissonant note in otherwise 
+
+consider this a sign that you need
+to widen the pool of tech interviewers.
+
+The solution to being better at hiring, is to be better at hiring.
