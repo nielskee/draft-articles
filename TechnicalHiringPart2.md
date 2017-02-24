@@ -24,7 +24,17 @@ your company and its requirements.
 
 ## T-shapes and technical specifics
 
+A theme that's going to be running through this and the next article
+is that we should look for breadth. This "T-shaped" model of personal
+and professional development is often used to illustrated the point.
+
 TODO: diagram
+
+Now, it's just a model, and shouldn't be taken literally, but it does
+ring true for me. Before I even knew this existed, whenever I was
+asked what the difference was between a beginner developer and a
+proficient, experienced developer, I'd always reply "breadth and
+depth", and I'll be returning to that phrase in a minute.
 
 For most of the next two posts, I'm going to have to make some
 assumptions. There's an almost infinite variety of technical
@@ -48,7 +58,7 @@ team?". That's it. I try to blot the rest of the selection process out
 of my mind - it's a simple, standalone decision about a single
 candidate.
 
-If the anwser is "yes", or "maybe", I'll have a phone conversation. If
+If the answer is "yes", or "maybe", I'll have a phone conversation. If
 the answer is "no", or "it's really unlikely" then the best thing for
 the candidate is to give them as much feedback as you can (I'll talk
 much more about feedback in the third and final post).
@@ -163,8 +173,8 @@ discussion about past experience into more technical discussion as
 unforced as possible, using the cues the candidate themselves give
 you.
 
-This is certainly a much harder format for the interviewer to run than
-having a set question list - for one thing, you need to have good
+This is a much harder format for the interviewer to run than having a
+set question list - for one thing, you need to have good
 conversational skills yourself, and you also need to be able to show
 the same genuine enthusiasm and interest you're expecting the
 candidate to show. It needs you to think on your feet, but I think you
@@ -212,8 +222,8 @@ get a better feel for the candidate.
 
 Online technical assessment tools like HackerRank and Codility are
 becoming more widespread in hiring. I understand why companies are
-using them, although I think they're used wrongly - certainly
-excessively - more often than not.
+using them, although I think they're used either wrongly or
+excessively more often than not.
 
 TODO: mechanisms and measures
 
@@ -265,7 +275,7 @@ candidate should learn as much about you as you learn about them?
 Well, all they learn with these tools is that you're happy to have a
 machine run this part of your recruitment for you.
 
-- If you need to run a coding assessment remotely, consider using the
+- If you need to run a coding assessment online, consider using the
   excellent CyberDojo instead : a platform that emphasises test-driven
   development, working in small increments.
 
@@ -278,7 +288,7 @@ machine run this part of your recruitment for you.
   do, sure, I understand why these tools might be attractive. But
   there are better ways of running interviews around CS algo and data
   structure fundamentals. And really, if that's the main focus in the
-  role, should it not the the centrepiece of the live interview? More
+  role, should it not be the centrepiece of the live interview? More
   in the next post on that.
 
 - Don't sleepwalk into outsourcing your technical interview to an
@@ -289,14 +299,15 @@ machine run this part of your recruitment for you.
 - If you must use a tool like Hackerrank, construct your challenge
   sensibly. Rather than off-the-shelf coding challenges, create your
   own. Use a mix of multiple choice, subjective questions and a coding
-  challenge. And if your face to face technical interview is going to
-  be based on algo problem solving, consider something with a
-  different focus for the screen. This is not the main event, just the
+  challenge. And if your live technical interview is going to be based
+  on algo problem solving, consider something with a different focus
+  for the screen. Remember, this is not the main event, just the
   warm-up act. Size it appropriately.
 
 - Whatever you decide to use as a code challenge, make sure to
   communicate what's important to you in code - simplicity, clarity,
-  naming, hygiene.
+  naming, hygiene. These are your choice, but let the candidate
+  know. No surprises.
 
 ## Coding assignments
 
