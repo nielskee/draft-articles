@@ -1,7 +1,9 @@
-* Why screen candidates
+## Why screen candidates
+
 We'd love to see all candidates face to face. We'd love to have a
-complete view of their skills, background and abilities. In practice,
-it's almost impossible for organisations to commit this sort of time.
+complete view of their background, character and abilities. In
+practice, it's almost impossible for organisations to commit this sort
+of time.
 
 More importantly, we don't want to take up the candidate's time if we
 think there's a low probability we're going to hire them. They're busy
@@ -14,12 +16,14 @@ confidence in each other - as your investment in each other grows, so
 does your confidence.
 
 I want to emphasise that this needs to be a *matched* investment. At
-*every stage*, the candidate needs to feel they know more about you,
+##every stage*, the candidate needs to feel they know more about you,
 in the same way you know more about them. If this investment becomes
 unbalanced, then trust is eroded, and however appealing your job ad
 was, you're back to sending a signal that this is really just about
 your company and its requirements.
-* T-Shapes and Technical Specifics
+
+## T-Shapes and technical specifics
+
 For most of the next two posts, I'm going to have to make some
 assumptions. There's an almost infinite variety of technical
 backgrounds that might be important to you, and I don't want to be
@@ -33,7 +37,9 @@ with a specific skillset, I'll assume you're smart people, that you
 know about the technical domain you're hiring for, and that you can
 apply good judgement as to whether the candidate has the right
 experience or not. We'll look at the broader picture in these posts.
-* CV and Cover Letter
+
+## CV and cover letter
+
 For each candidate, there's only one question that needs answered at
 this stage : "Can I picture this person working as part of our
 team?". That's it. I try to blot the rest of the selection process out
@@ -89,7 +95,8 @@ candidate:
   whiteboarding sessions and endless discussions do little to reduce
   the uncertainty. Build, measure, learn [footnote].
 
-* Personal projects and meetups : a note of caution
+## Personal projects and meetups : a note of caution
+
 Although it's great to see evidence of personal projects on GitHub or
 elsewhere, remember that this can be a lot easier for some people than
 others.
@@ -113,11 +120,14 @@ women candidates from those same communities.
 - Treat personal projects and community involvement as "more
   information about candidate <x>", and not "this makes candidate <x>
   a better prospect than candidate <y>".
-* Phone screens
+
+## Phone screens
+
 Phone screens used to be quite the big thing: Technical Interview
 Lite, effectively. Typically these would be short calls, and you'd be
 armed with a set of technical questions. These questions were supposed
-to be TODO
+to be sure-fire ways of choosing the best candidates to go forward to
+the next stage.
 
 I've used them that way in the past, in Q&A mode, but always found
 them stilted, awkward and ineffective, and I think candidates did
@@ -130,12 +140,15 @@ screen questions", and wing it, sometimes convincingly.
 I still think there are merits to phone, Skype or Hangouts contact
 though. It's a chance to check in with the candidate, let them know
 there are actual human beings involved on your side of the process,
-and that they're regular developers too.
+and that they're regular developers too. They also give the candidate
+a chance to ask questions about the company, your technology, culture
+and teams. A matched investment.
 
-I do these very differently now. I use a much more conversational
-style, and tend to base questions around a candidate's *stated*
-experience rather than a list of *requirements* for a role. I use that
-as a jump-off into some technical discussion. 
+Although I still value phone screens, I do these very differently
+now. I use a much more conversational style, and tend to base
+questions around a candidate's *stated* experience rather than a list
+of *requirements* for a role. I use that as a jump-off into some
+technical discussion.
 
 Example: let's say I'm hiring a Java developer. I can see they used
 the ABC framework a couple of jobs back, and that's useful and
@@ -167,18 +180,9 @@ relevant experience for our team.
 With this approach, you follow the trail of the discussion, and spot
 opportunities to ask some technical questions along the way. It's more
 natural, tends to flow better, and you get a more accurate impression
-of the candidate to base decisions on.
-
-What I'm looking for at this stage is consistency rather than probing
-for deep knowledge and experience. For example, if someone has said
-they use the XYZ framework, I'd expect to get some quite confident
-discussion around how they use that - I'd expect them to have some
-examples from their work that they can talk about.
-
-I'll usually ask a mix of open and closed questions. I want to see how
-the candidate communicates, and not just in terms of technical
-accuracy, but whether there's any genuine passion and enthusiasm for
-the subject.
+of the candidate to base decisions on. What I'm looking for at this
+stage is consistency rather than probing for very deep knowledge and
+experience.
 
 This is certainly a much harder format for the interviewer to run than
 having a set question list - for one thing, you need to have good
@@ -197,8 +201,13 @@ get a better feel for the candidate.
   CV. Follow the trail, and improvise. Get in some technical questions
   that are relevant to the context as the conversation develops.
 
-- It doesn't need to be deep : you're going to have some other, deeper
-  mechanism. It's an introduction and a consistency check above all.
+- Ask a mix of open and closed questions. You want to see how the
+  candidate communicates, not just in terms of technical accuracy, but
+  whether there's any genuine passion and enthusiasm for the subject.
+
+- It doesn't need to be highly technical : you're going to have some
+  other, deeper mechanism. It's an introduction and a consistency
+  check above all.
 
 - Non-sequitur technical questions are just awkward. Good candidates
   experience brain-freeze, and others wing it.
@@ -211,8 +220,16 @@ get a better feel for the candidate.
   looks like. It may be nerves, or it may be something else entirely.
 
 - Keep these around 20 minutes. With practice, you'll develop the
-  ability to get a good read on 
-* Online Technical Test Platorms
+  ability to get a good read on the candidate in this time.
+
+- Do these calls in pairs to give a balanced view. Remember from the
+  first post the point about diversity in your pool of interviewers?
+  This is a point in the process where diversity of opinion matters,
+  and give thought to who should primarily lead the conversation, and
+  who should primarily listen.
+
+## Online technical test platorms
+
 Online technical assessment tools like HackerRank and Codility are
 becoming more widespread in hiring. I understand why companies are
 using them, although I think they're used wrongly - certainly
@@ -260,6 +277,8 @@ liability for your organisation:
 
 - Readability and naming in the code.
 
+Good luck getting an automated tool to assess all of those accurately.
+
 TODO: matched investment
 TODO: trajectory
 
@@ -291,7 +310,60 @@ machine run this part of your recruitment for you.
   you need to be prepared to put in the personal effort with
   candidates for the more challenging parts of your tech selection.
 
-* Coding Assignments
+Finally - and really just for fun - let me pick apart the
+
+> Who Benefits From Using Hackerrank?
+
+Certainly HackerRank do.
+
+> HackerRank isn’t just about tech recruiters: it’s also about hiring
+> managers, interviewers, teammates, and even the candidates
+> themselves. For example:
+
+Here we go.
+
+> Recruiters save a ton of time, energy, and money.
+
+Nope. They certainly save energy, but hiring the wrong people (or
+constantly hiring exactly the same *sort* of people...), doesn't save
+anything, in fact it costs organisations very badly over the long
+term.
+
+This is easily the most short-sighted statement they make, but I think
+it's also the most telling.
+
+> Hiring Managers can hire based on programming skills instead of
+> relying on resumes and white boards.
+
+Translation : Some managers aren't particularly technical, and would
+prefer to be presented with a simplistic ranking from which they will
+choose - obviously! - the candidate with the "best" number. This
+decision will be made devoid of any context or sense of the
+candidate's potential, character, background, journey or aspirations.
+
+But then - to this type of manager - all that matters is "skill",
+because all they are is "programmers" and all they will be doing is
+"programming". And of course you want to buy the most efficient and
+cost-effective units of production rather than creative, chaotic,
+collaborative, messy human beings with actual ideas, who can
+contribute to your products and organisation in ways you never even
+imagined possible.
+
+> Teammates help ensure talented, qualified candidates join their
+> team.
+
+What it will ensure is that these "teammates" are working next to
+people exactly like them in every respect. A bland, homogenized,
+smart-but-desolate wasteland of identically-skilled groupthink.
+
+> Candidates consider it a fun, engaging way to interview and allows
+> anyone, from anywhere, to prove they are qualified
+
+No candidate ever has described a timed, online coding challenge in
+the context of a job application as "fun", or "engaging".
+
+## Coding assignments
+
 If you need to scale up your technical screening, I propose that this
 is a better way of doing it than the online route. It has many
 benefits
@@ -321,16 +393,20 @@ benefits
 
 - Submit via a pull request (the pull will never be merged)
 
-* A Modified Pipeline
-* "Aptitude" tests
+## A modified pipeline
+
+## "Aptitude" tests
+
 Some companies do psychometric evaluations or "aptitude
 testing". These are numerical, inductive, and verbal reasoning tests,
 and - spoiler alert - are absolutely nothing to do with real-world
 aptitude in software development.
 
 I've no idea why organisations do these, and I strongly suspect they
-don't either, except maybe out of habit. You're building a development
-team, not setting up a competitor organisation to MENSA. If someone
-can work as part of a team in delivering solutions to complex
-problems, write good code, and keep learning as they work, I'd say
-their grey matter is working pretty well for them.
+don't either. You're building a development team, not setting up a
+competitor organisation to MENSA. If someone can work as part of a
+team in delivering solutions to complex problems, write good code, and
+keep learning as they work, I'd say their grey matter is working
+pretty well for them.
+
+## Finally...
