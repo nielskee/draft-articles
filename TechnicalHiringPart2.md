@@ -71,12 +71,12 @@ developer skills, and their uncertainty and lack of confidence in code
 will mean they'll focus on other traits. Most likely they'll focus on
 **the wrong traits**.
 
-This isn't elitism, it's just a reflection of the challenge of the
-role. The way we hire people now needs participation from the
-interviewer, not just observation. So, it doesn't matter that you
-_used_ to code, what matters is whether you code now. The easiest way
-to check is to do the online test, the assignment, or the live
-interview challenge yourself.
+This isn't about elitism, it's about engagement : the way we hire
+people now needs participation from the interviewer, not just
+observation. So, it doesn't matter that you **used** to code -
+everybody **used** to code - what matters is whether you code
+**now**. The easiest way to check is to do the online test, the
+assignment, or the live interview challenge yourself.
 
 If it's a struggle for you, it's time to take a step back and let
 others participate, and make the call when it comes to the hiring
