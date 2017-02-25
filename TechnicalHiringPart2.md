@@ -159,13 +159,15 @@ exclusionary behaviour of others.
 
 In those cases where candidates do have these projects and activities,
 sure, view them as positives, but always remember that personal
-circumstances play a part. And if you're a male technical manager or
-developer, understand that your experience and perception of tech
-communities and open source projects could be wildly different from
-the experience of women candidates who work in the same technical
-field.
+circumstances play a part.
 
-- Treat personal projects and community involvement as "more
+And if you're a male, white, middle-class technical manager,
+understand that your experience and perception of tech communities are
+very likely to be different - perhaps wildly different - from the
+experience of women, LGBTQ+ and non-binary folks and people of colour
+who work in that same technical field.
+
+- Treat personal projects and tech community involvement as "more
   information about candidate \<a>", and not "this makes candidate
   \<a> a better prospect than candidate \<b>".
 
@@ -292,15 +294,15 @@ TODO: mechanisms and measures
 
 These platforms seem to provide an objective measure of capability, to
 differentiate between candidates. After all, the intent of HackerRank
-is to Rank your Hackers, is it not? I see this all the time in
-software development - and not just in hiring - this urge to reduce
-something complex, nuanced and difficult to understand down to a
-dashboard metric.
+is to Rank your Hackers, is it not? 
 
-Numbers and measures are seductive - they promise simple answers and
-absolute truths. They way these tools tend to be used by
-organisations, though, makes them an example of the Streetlight Effect
-in action [Source -
+I see this all the time in software development - and not just in
+hiring - this urge to reduce something complex, nuanced and difficult
+to understand down to a dashboard metric. Numbers and measures are
+seductive - they promise simple answers and absolute truths. 
+
+They way these tools tend to be used by organisations, though, makes
+them an example of the Streetlight Effect in action [Source -
 Wikipedia](https://en.wikipedia.org/wiki/Streetlight_effect):
 
 > A policeman sees a drunk man searching for something under a
@@ -328,15 +330,21 @@ out to be an asset or a liability for your organisation:
 
 - Readability and naming in the code.
 
-There's no tool that's going to assess these things accurately, but
-humans aren't bad at it.  Any automated tool you decide to use works
-by assessing the characteristics of _code_, not of people. They're
-proxy measures at best, and not always useful ones.
+There's no tool that's going to assess these things accurately, but it
+turns out that humans are pretty good at it. Any automated tool you
+decide to use works by assessing the characteristics of _code_, not of
+people. They're proxy measures at best, and not always useful ones.
 
 And remember that point earlier about matched investment? That the
 candidate should learn as much about you as you learn about them?
 Well, all they learn with these tools is that you're happy to have a
 machine run this part of your recruitment for you.
+
+- Don't sleepwalk into outsourcing your technical interview to an
+  online platform. Some aspects of hiring are _just hard work_, and
+  you need to be prepared to put in the personal effort with
+  candidates as part of the live interview for the more challenging
+  parts of your tech selection.
 
 - If you need to run a coding assessment online, consider using the
   excellent CyberDojo instead : a platform that emphasises test-driven
@@ -349,31 +357,25 @@ machine run this part of your recruitment for you.
   role, should it not be the centrepiece of the live interview? More
   in the next post on that.
 
-- Don't sleepwalk into outsourcing your technical interview to an
-  online platform. Some aspects of hiring are _just hard work_, and
-  you need to be prepared to put in the personal effort with
-  candidates as part of the live interview for the more challenging
-  parts of your tech selection.
-
-- If you absolutely must use a tool like HackerRank, build your
-  challenge sensibly. Rather than off-the-shelf coding challenges,
-  consider creating your own. Use a (small!) mix of multiple choice,
-  subjective questions and a coding challenge. And if your live
-  technical interview is going to be based on algo problem solving,
-  consider something with a different focus for the screen.
+- If you absolutely must use a tool like HackerRank, at least build
+  your challenge sensibly. Rather than off-the-shelf coding
+  challenges, consider creating your own. Use a (small!) mix of
+  multiple choice, subjective questions and a coding challenge at the
+  simpler end of the spectrum.
 
 - Remember, this should never be the main event, just the warm-up
-  act. It's a screen, so size it appropriately. There's a "yay, add to
-  basket!" mentality I think some technical interviewers suffer from
-  when they're creating these tests, but you're not doing your company
-  any favours by making this excessive. Be **very generous indeed** on
-  the time allowance - creating a false sense of urgency for the
-  candidate is unrealistic, pointless and counterproductive.
+  act. Size it appropriately. There's a "yay, add to basket!"
+  mentality that some technical interviewers suffer from when they're
+  creating these tests, but you're not doing your organisation any
+  favours by making this excessive. Be **very generous indeed** on the
+  time allowance - creating a false sense of urgency for the candidate
+  is unrealistic, pointless, stressful and ultimately
+  counterproductive.
 
 - Whatever you decide to use as a code challenge, make sure to
-  communicate what's important to you in code - simplicity, clarity,
-  naming, hygiene. These are your choice, but let the candidate
-  know. No surprises.
+  communicate what's important to you in code. Simplicity? Clarity?
+  Naming? Size? It's your choice, but let the candidate know. No
+  surprises.
 
 - If beat-the-clock coding challenges are appealing to you because you
   want people "working quickly" to meet arbitrary deadlines, I
