@@ -1,9 +1,9 @@
 ## Why screen candidates
 
 We'd love to see all candidates face to face. We'd love to have a
-complete view of their background, character and abilities. In
-practice, it's almost impossible for organisations to commit this sort
-of time.
+complete view of their background, character and abilities before
+making a hiring decision. In practice, it's almost impossible for
+organisations to commit this sort of time.
 
 More importantly, we don't want to take up the candidate's time if we
 think there's a low probability we're going to hire them. They're busy
@@ -15,12 +15,25 @@ Done right, screening gives you and the candidate a way of building
 confidence in each other - as your investment in each other grows, so
 does your confidence.
 
-I want to emphasise that this needs to be a *matched* investment. At
-*every stage*, the candidate needs to feel they know more about you,
+I want to emphasise that this needs to be a **matched investment**. At
+**every stage**, the candidate needs to feel they know more about you,
 in the same way you know more about them. If this investment becomes
 unbalanced, then trust is eroded, and however appealing your job ad
 was, you're back to sending a signal that this is really just about
 your company and its requirements.
+
+Also remember that screens are just that. I talk to experienced
+developers who find the process that companies put in place wearying
+and burdensome. In some cases they'll make a choice to go with
+companies who have a simpler and faster selection process.
+
+This is not because they're lazy people, but because they're busy
+people. In-demand developers will just not have the time for your
+6-stage process spread over two months. You need to keep it lean and
+efficient. You can keep loading on more tests and assessments, but
+you'll just have fewer people engaged in the process. You won't get to
+the finish line with the best candidates, you get there **with the
+ones that are left**.
 
 ## T-shapes and technical specifics
 
@@ -36,13 +49,13 @@ asked what the difference was between a beginner developer and a
 proficient, experienced developer, I'd always reply "breadth and
 depth", and I'll be returning to that phrase in a minute.
 
+You might have quite exacting requirements - specific experience you
+need, or specific tech skills that can't easily be picked up.
+
 For most of the next two posts, I'm going to have to make some
 assumptions. There's an almost infinite variety of technical
 backgrounds that might be important to you, and I don't want to be
 constantly issuing caveats.
-
-You might have quite exacting requirements - specific experience you
-need, or specific tech skills that can't easily be picked up.
 
 So, here's my assumption : if you're hiring experienced developers
 with a specific skillset, I'll assume you're smart people, that you
@@ -52,20 +65,24 @@ experience or not. We'll look at the broader picture in these posts.
 
 ## And you...do you code?
 
-If you're not hands-on, you need to be hands-off. Non-developers just
-aren't in a position to assess developer skills, and their uncertainty
-and lack of confidence in code will mean they'll focus on other
-traits. Specifically, they'll focus on **the wrong traits**.
+If you're not hands-on with development, you need to be hands-off with
+developer hiring. Non-developers just aren't in a position to assess
+developer skills, and their uncertainty and lack of confidence in code
+will mean they'll focus on other traits. Most likely they'll focus on
+**the wrong traits**.
 
 This isn't elitism, it's just a reflection of the challenge of the
-role. It also doesn't matter that you _used_ to code, what matters is
-whether you code now. The easiest way to check is to do the online
-test, the assignment, or the live interview challenge yourself.
+role. The way we hire people now needs participation from the
+interviewer, not just observation. So, it doesn't matter that you
+_used_ to code, what matters is whether you code now. The easiest way
+to check is to do the online test, the assignment, or the live
+interview challenge yourself.
 
 If it's a struggle for you, it's time to take a step back and let
-others make the call. Hopefully you've heeded my advice and got as
-many people in your team involved in technical interviewing as you
-can.
+others participate, and make the call when it comes to the hiring
+decision. Hopefully you've heeded my advice and got as many people in
+your team involved in technical interviewing as you can. If you
+haven't, then start.
 
 ## CV and cover letter
 
@@ -372,9 +389,9 @@ organisations this will be a better way than the online route.
 
 There are many benefits. For one thing, you can set a challenge that's
 a better fit for the core skillset of the role you're recruiting
-for. A small web exercise for web developers. A single-page mobile
-application for iOS or Android developers. A RESTful service for
-back-end Java developers.
+for. A small website for web developers. A simple library with tests
+for a C++ developer. A single-screen mobile application for iOS or
+Android developers. A RESTful service for back-end Java developers.
 
 You can communicate with candidates. While they're doing this too.
 
@@ -408,11 +425,20 @@ worked as part of a team in delivering solutions to complex problems,
 and their screening and technical interview shows they can write good
 code, I'd say their grey matter is working pretty well for them.
 
-Hard pass.
+They're used also in assessing the potential of graduate entrants to
+companies, the rationale being that recent graduates don't have a work
+history or easily demonstrable skills to draw on. What graduates do
+have, though, is a very recent and detailed record of academic
+attainment, so I still find this puzzling.
+
+I don't get it. Perhaps my inductive reasoning isn't all it should
+be. But still, hard pass.
 
 ## A better pipeline
 
 TODO: diagram showing balance assessment
+
+TODO: standup
 
 If you're looking for an online silver bullet that will lighten the
 load of screening and interviewing candidates, well...there is one,
