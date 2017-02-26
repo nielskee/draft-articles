@@ -401,7 +401,15 @@ machine run this part of your recruitment for you.
   respectfully suggest you have other things you need to be thinking
   about before you hire anyone.
 
-TODO : how to assess
+When you're assessing these, look at the code, not just the score. If
+someone has made the effort to use good names, small methods, clear
+control flow, and cohesive, well-encapsulated types, this won't result
+in a better score, but it's a good indication of their instincts.
+
+Assessment of results should always be done by practicing developers
+who understand the type of good code you're looking for. Review in
+pairs again, and discuss what you're seeing. Make allowances for
+nerves and pressure.
 
 ## Coding assignments
 
