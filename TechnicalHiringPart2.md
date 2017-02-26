@@ -216,8 +216,8 @@ and teams. _A matched investment_.
 Although I still value phone screens, I do these very differently
 now. I use a much more conversational style, and tend to base
 questions around a candidate's *stated* experience rather than a list
-of *requirements* for a role. I use that as a jump-off into some
-technical discussion.
+of *requirements* for a role. The main focus is a consistency check,
+looking at experience, and sense-checking against technical knowledge.
 
 With this approach, you follow the trail of the discussion, and spot
 opportunities to ask some technical questions along the way. It's more
@@ -234,75 +234,52 @@ set question list - for one thing, you need to have good
 conversational skills yourself, and you also need to be able to show
 the same genuine enthusiasm and interest you're expecting the
 candidate to show. It needs you to think on your feet, but I think you
-get a better feel for the candidate.
+get a better feel for the candidate, and non sequitur technical
+questions are just awkward.
 
-- Use a phone screen as a chance to introduce yourselves to each
-  other, and to make sure the candidate is OK with the process. Be
-  human. Be informal. Chat. Don't try to play a role.
+Do these calls in pairs to give a balanced view. Remember from the
+first post the point about diversity in your pool of interviewers?
+Well, like any contact with the candidate, this is a point in the
+process where diversity of opinion matters, and give thought to who
+should primarily lead the conversation, and who should primarily
+listen.
 
-- Focus on what candidates **say they know** in their CV or cover
-  letter, rather than what you **think you need**.
-
-- Use a conversational style based around the experience on their
-  CV. Follow the trail, and improvise. Get in some technical questions
-  that are relevant to the context as the conversation develops.
-
-- Ask a mix of open and closed questions. You want to see how the
-  candidate communicates, not just in terms of technical accuracy, but
-  whether there's any genuine passion and enthusiasm for the subject.
-
-- It doesn't need to be highly technical: you're going to have some
-  other tech screening mechanism. It's an introduction and a
-  consistency check above all.
-
-- Non sequitur technical questions are just awkward. Good candidates
-  experience brain freeze, and others wing it.
-
-- Be wary of hyper-confidence by the candidate. You're looking to hire
-  self-aware, reflective people who learn as they go. A career
-  presented by the candidate as an unbroken series of ever more
-  glorious successes makes me very nervous, because I work in software
-  development too and have a decent understanding of what the reality
-  looks like. It may be nerves on their part, or it may be something
-  else entirely.
-
-- Keep these around 20 minutes. With practice, you'll develop the
-  ability to get a good read on the candidate in this time.
-
-- Do these calls in pairs to give a balanced view. Remember from the
-  first post the point about diversity in your pool of interviewers?
-  This is a point in the process where diversity of opinion matters,
-  and give thought to who should primarily lead the conversation, and
-  who should primarily listen.
+One specific behaviour to be a little wary of is hyper-confidence by
+the candidate. You're looking to hire self-aware, reflective people
+who learn as they go. A career presented by the candidate as an
+unbroken series of ever more glorious successes makes me very nervous,
+because I work in software development too and have a decent
+understanding of what the reality looks like. It may be nerves on
+their part, or it may be something else entirely.
 
 ## Assessing the phone screen
 
 When you get to the end of the screen, and discuss with your
 co-interviewer, focus your discussion around these points:
 
-"We talked to this candidate because we could picture them working
-with us. Is that still the case after speaking with them? More so, or
-less so?"
+- "We talked to this candidate because we could picture them working
+  with us. Is that still the case after speaking with them? More so,
+  or less so?"
 
-"Did everything seem consistent? Did the narrative we got from the
-candidate correspond to what we read on the CV? When we asked
-technical questions, did the answers seem consistent with the
-experience that was being described? Were there any obvious gaps? Were
-there answers that were obviously wrong?"
+- "Did everything seem consistent? Did the narrative we got from the
+  candidate correspond to what we read on the CV? When we asked
+  technical questions, did the answers seem consistent with the
+  experience that was being described? Were there any obvious gaps?
+  Were there answers that were obviously wrong?"
 
-"Did the candidate seem comfortable talking about the work they'd
-done, or did they hesitate? Did they try and steer the conversation
-away from detail and technical questions?
+- "Did the candidate seem comfortable talking about the work they'd
+  done, or did they hesitate? Did they try and steer the conversation
+  away from detail and technical questions?
 
-"Did we get a sense of enthusiasm and excitement about the technical
-domain, and also the role and our company?"
+- "Did we get a sense of enthusiasm and excitement about the technical
+  domain, and also the role and our company?"
 
-"And finally, allowing for the candidate being nervous, would we
-change our view on any of these points above?
+- "And finally, allowing for the candidate being nervous, would we
+  change our view on any of these points above?
 
-And make your decision : "Based on what we now know about this
-candidate, do we now think it's more likely or less likely that we'd
-hire them?"
+And make your decision like this : "Based on what we now know about
+this candidate, do we now think it's more likely or less likely that
+we'd hire them?"
 
 ## Online technical test platforms
 
