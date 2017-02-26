@@ -514,6 +514,10 @@ tips:
   they made, things they think worked out well, things they would do
   differently. It's great insight.
 
+- Have many reviewers, but also agree in your team a set of points to
+  cover in code reviews, so that it's applied fairly and consistently
+  across candidates. A simple checklist is a good way to capture this.
+
 - Feed the candidate's solution forward into the live technical
   interview - it can make a great discussion point.
 
@@ -548,38 +552,41 @@ TODO: standup
 There's no ideal approach, but a good generic approach for me would
 look something like:
 
-* Group review of CV and cover letters in a daily standup - max 24
-  hour lead time from arrival. Some early exits here where the
-  experience doesn't match hard requirements. Give feedback.
+* Have a daily hiring standup. Do a group review of CV and cover
+  letters that came in the previous day. Aim for no more than a
+  24&#8209;hour lead time from arrival. There will be Some early exits
+  here where the experience clearly doesn't match your
+  requirements. Give feedback.
 
-* Very quick turnaround to phone screen for those candidates we want
-  to forward with. If there are multiple roles, fan out to multiple
-  phone screen pairs. These pairs both make the call, and make the
-  call (see what I did there?). Give feedback.
+* Have a very quick turnaround to phone screen for those candidates we
+  want to forward with. If there are multiple roles, fan out to
+  multiple phone screen pairs. These pairs both make the call, and
+  make the call (see what I did there?). Give feedback.
 
-* One form of technical screen only, with a preference for an
-  assignment that's related to the tech domain.
+* Have one form of technical screen only, with a preference for an
+  technical assignment that's related to the tech domain.
 
-* Review by the right developers - timebox this at 30 minutes. Give
-  feedback to both successful and unsuccessful candidates. Use the
-  template.
+* Get it reviewed by the right developers - timebox this at 30
+  minutes. Give feedback to both successful and unsuccessful
+  candidates. Use a checklist, but also leverage GitHub as a review
+  platform if it's possible for your organisation.
 
-* Decision for a live interview based on a balanced view of the CV,
-  phone and tech assignment.
+* Make a decision for a live interview based on a balanced view of the
+  CV, phone and tech assignment, but always weighting towards the most
+  recent contact CV < phone < tech assignment.
 
-If you're looking for an online silver bullet that will lighten the
-load of screening and interviewing candidates, well...there is one,
-but it's probably not the one you think. Sorry.
+The key to making this work is to devolve the process, and stop making
+hiring managers a bottleneck. Explain to people why broad involvement
+in tech hiring is important for diversity, and the future health of
+the team. They'll get it, trust me.
 
-Devolve the process, and stop making hiring managers a bottleneck,
-have a daily standup to maintain the cadence. Use a kanban board to
-track where people are in the process.
+Have a daily standup to maintain the cadence, use a kanban board to
+track where people are in the process, and give the candidate feedback
+at every stage.
 
-Continuous, not lock-step.
-
-There are tools out there that will give you a superficial sense of
-better efficiency, but they all come at a high cost, and it's not
-financial, it's human.
+In the next part we're going to cover live technical interviews. Don't
+worry - it's much shorter than this part, because there's only one
+approach that I think is worth a damn.
 
 ## Links
 
