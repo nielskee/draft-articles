@@ -468,14 +468,45 @@ see the solution evolving - you can do this privately too, if you want
 to add the candidate as a collaborator to a one-off repository that
 you create for them in your organisation.
 
+In my view, this is a better format than an online tech test, more
+realistic and gives a better chance for the candidate to show what
+they can do. They can work with their own, familiar tools, in their
+own time. They can Google, they can Stack Overflow...**just like real
+life.**
 
-- I talked in the first post about proportionality. Bear in mind that
-  less experienced graduates will take far, far longer to complete a
-  challenge like this. Create one that's
+Used well, this format meets one of the principles I talked about
+earlier - you match the candidate's investment:
 
-TODO what to look for
+- By the challenge you set them, you can tell them about the
+  technology you use.
 
-TODO feeding into tech interview
+- Your notes on the challenge can expand on your values about code,
+  and why these are important to you - even with links to further
+  reading.
+
+- If they ask you questions, your responses will give them a sense of
+  what you'd be like to work with.
+
+- Your code review comments give them a good idea of how you think
+  about code specifics.
+
+You should look for evidence that you have an ethical developer, as I
+talked about earlier : someone who cares about code, users, and
+colleagues. Look for good tests, good names and simple design. Some
+tips:
+
+- Ask the candidate to commit early and often, then you can see the
+  solution evolve.
+
+- Ask them to add a README.md too, with informal working notes - this
+  isn't something you review, it's just a way of them communicating
+  back to you. I always advise students to do this for tech
+  assignments even if they aren't asked, noting down the decisions
+  they made, things they think worked out well, things they would do
+  differently. It's great insight.
+
+- Feed the candidate's solution forward into the live technical
+  interview - it can make a great discussion point.
 
 ## "Aptitude" tests
 
