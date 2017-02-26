@@ -18,41 +18,56 @@ does your confidence.
 I want to emphasise that this needs to be a **matched investment**. At
 **every stage**, the candidate needs to feel they know more about you,
 in the same way you know more about them. If this investment becomes
-unbalanced, then trust is eroded, and however appealing your job ad
-was, you're back to sending a signal that this is really just about
-your company and its requirements.
+unbalanced, then trust is eroded, and however appealing your job
+advert was, you're back to sending a signal that this is really just
+about your company and its requirements.
 
 Also remember that screens are just that. I talk to experienced
-developers who find the process that companies put in place wearying
-and burdensome. In some cases they'll make a choice to go with
-companies who have a simpler and faster selection process.
+developers who find the process that companies put in place
+time-consuming and and burdensome. In some cases they'll make a choice
+to go with companies who have a simpler and faster selection process.
 
-This is not because they're lazy people, but because they're busy
-people. In-demand developers will just not have the time for your
-6-stage process spread over two months. You need to keep it lean and
-efficient. You can keep loading on more tests and assessments, but
-you'll just have fewer people engaged in the process. You won't get to
-the finish line with the best candidates, you get there **with the
-ones that are left**.
+This is not because they're lazy people, but because they're *busy*
+people. In-demand developers will simply not have the time for your
+6-stage interview process spread over three months. You need to keep
+it efficient - hire people with confidence, but don't test their
+patience and make them look elsewhere. You can keep loading on more
+tests and assessments, but you'll just have fewer people engaged. You
+won't get to the finish line with the best candidates, you get there
+*with the ones that are left*.
 
 ## T-shapes and technical specifics
 
 A theme that's going to be running through this and the next article
 is that we should look for breadth. This "T-shaped" model of personal
-and professional development is often used to illustrated the point.
+and professional development is often used to illustrate the point.
 
 TODO: diagram
+
+The thinking behind this is that you have a set of core skills - the
+stem of the T. The ideas is that you continue to develop those deep,
+core skills, but you also develop broad skills and knowledge of other
+discplines - the cross of the T.
 
 Now, it's just a model, and shouldn't be taken literally, but it does
 ring true for me. Before I even knew this existed, whenever I was
 asked what the difference was between a beginner developer and a
-proficient, experienced developer, I'd always reply "breadth and
-depth", and I'll be returning to that phrase in a minute.
+proficient, experienced developer, someone who worked really
+effectively in a team, I'd always reply "breadth and depth", and I'll
+be returning to that phrase in a minute.
 
-You might have quite exacting requirements - specific experience you
-need, or specific tech skills that can't easily be picked up.
+**You want T-shaped people**. Even if they don't always exercise that
+breath, the knowledge they have of other discplines means they can
+empathise and communicate well with a wide range of people.
 
-For most of the next two posts, I'm going to have to make some
+That said, I understand how specific your requirements might be, and
+how complex a technical domain some of you might be working in. It's
+possible that you are hiring specific tech skills that can't easily be
+picked up, or you're looking for a depth of experience to help mentor
+newer developers. I can't really generalise about these fixed,
+specific requirements.
+
+So, for most of the next two posts, I'm going to have to make some
 assumptions. There's an almost infinite variety of technical
 backgrounds that might be important to you, and I don't want to be
 constantly issuing caveats.
@@ -63,20 +78,20 @@ know about the technical domain you're hiring for, and that you can
 apply good judgement as to whether the candidate has the right
 experience or not. We'll look at the broader picture in these posts.
 
-## And you...do you code?
+## And you, Technical Manager...do you code?
 
 If you're not hands-on with development, you need to be hands-off with
 developer hiring. Non-developers just aren't in a position to assess
 developer skills, and their uncertainty and lack of confidence in code
 will mean they'll focus on other traits. Most likely they'll focus on
-**the wrong traits**.
+the **wrong** traits.
 
 This isn't about elitism, it's about engagement : the way we hire
 people now needs participation from the interviewer, not just
-observation. So, it doesn't matter that you **used** to code -
-everybody **used** to code - what matters is whether you code
-**now**. The easiest way to check is to do the online test, the
-assignment, or the live interview challenge yourself.
+observation. So, it doesn't matter that you *used* to code - everybody
+*used* to code - what matters is whether you code *now*. The easiest
+way to check is to do the online test, the assignment, or the live
+interview challenge yourself.
 
 If it's a struggle for you, it's time to take a step back and let
 others participate, and make the call when it comes to the hiring
@@ -87,10 +102,10 @@ haven't, then start.
 ## CV and cover letter
 
 For each candidate, there's only one question that needs answered at
-this stage : "Can I picture this person working as part of our
-team?". That's it. I try to blot the rest of the selection process out
-of my mind - it's a simple, standalone decision about a single
-candidate.
+this stage : "Can I picture this person working as part of our team,
+in this role?". That's it. I try to blot the rest of the selection
+process out of my mind - it's a simple, standalone decision about a
+single candidate.
 
 If the answer is "yes", or "maybe", I'll have a phone conversation. If
 the answer is "no", or "it's really unlikely" then the best thing for
@@ -98,44 +113,46 @@ the candidate is to give them as much feedback as you can, and let
 them concentrate on their other job applications. I'll talk much more
 about feedback in the third and final post.
 
-TODO: hard requirement
+If you have hard requirements on experience level, depth, or breadth
+of technical experience, you should be able to judge this quite easily
+if you're working in the same technical domain.
 
 Putting aside the technical specifics, here are some things I view as
 strong positives in a CV, that would make me want to know more about a
 candidate:
 
-- Breadth and depth : breadth is a multiplier - people with breadth
-  add capability to teams far beyond their core skills. If you're
-  hiring developers, look for signs of interest in other disciplines -
-  test automation, in product design and broad industry knowledge.
+- **Breadth and depth** : breadth is a multiplier - people with
+  breadth add capability to teams far beyond their core skills. If
+  you're hiring developers, look for signs of interest in other
+  disciplines - test automation, product design, accessibility, broad
+  industry knowledge - anything.
 
-- Self-improvers : evidence of personal or open-source projects is
+- **Self-improvers** : evidence of personal or open-source projects is
   great, as well as attendance at any local meetups or conferences. I
   like to see people who are engaged in a wider technical community,
   although I have some important caveats on this later. Initiatives,
   experiments and innovation that people do on the job are things I
   always see as signs of self-improvement too.
 
-- Coaches : I'm reassured when I see some signs that this person helps
-  other people, because it gives me a good sense of how someone is
-  going to work in a team : coaching, mentoring, helping children or
-  adults learn to code, anything. This can start in the earliest
-  stages of a career, too, it's not something just for more
-  experienced developers. Any signs that people are keen to share
-  their knowledge and expertise - at whatever level - are attributes
-  to look out for.
+- **Coaches** : I'm reassured when I see some signs that this person
+  helps other people, because it gives me a good sense of how someone
+  is going to work in a team. This can start in the earliest stages of
+  a career, too, it's not something just for more experienced
+  developers. Any signs that people are keen to share their knowledge
+  and expertise - at whatever level - are attributes to look out for.
 
-- Ethical developers : you want to hire developers who care about
+- **Ethical developers** : you want to hire developers who care about
   their users, customers, and colleagues. If I see some indications
   that developers are motivated by making things better for people,
   this makes me happy. This could be adoption of better test-driven
-  approaches, more secure code to protect users, more efficient code
-  to improve battery life on a user's device, improving readability
-  and clarity of code for their colleagues.
+  approaches to get the product right, more secure code to protect
+  users, more efficient code to improve battery life on a user's
+  device, improving readability and clarity of code for their
+  colleagues.
 
-- Bias for action : it's something of a Silicon Valley term, but it's
-  widely applicable in tech as a desirable trait. You want people who
-  are going to try things, measure how they work, learn, and
+- **Bias for action** : it's something of a Silicon Valley term, but
+  it's widely applicable in tech as a desirable trait. You want people
+  who are going to try things, measure how they work, learn, and
   adapt. Look for evidence that people run spikes, experiments and
   proofs-of-concept, and that they change their approach depending on
   results. Software development is full of uncertainty, but analysis,
@@ -164,7 +181,7 @@ circumstances play a part.
 And if you're a male, white, middle-class technical manager,
 understand that your experience and perception of tech communities are
 very likely to be different - perhaps wildly different - from the
-experience of women, LGBTQ+ and non-binary folks and people of colour
+experience of women, LGBTQ+ and non-binary folk, and people of colour
 who work in that same technical field.
 
 - Treat personal projects and tech community involvement as "more
@@ -173,16 +190,16 @@ who work in that same technical field.
 
 ## Phone screens
 
-Phone screens used to be quite the big thing: **Technical Interview
-Lite**, effectively. Typically these would be short calls, and you'd
-be armed with a set of technical questions. These questions were
-supposed to be sure-fire ways of choosing the best candidates to go
-forward to the next stage.
+Phone screens used to be quite the big thing: *Technical Interview
+Lite*, effectively. Typically these would be short calls, and you'd be
+armed with a set of technical questions. These questions were supposed
+to be sure-fire ways of choosing the best candidates to go forward to
+the next stage.
 
 I've used them that way in the past, in Q&A mode, but always found
 them stilted, awkward and ineffective, and I think candidates did
-too. It's a strange sort of conversation, barking questions apropos of
-nothing into a mouthpiece. Good candidates blank and stumble over
+too. It's a strange sort of conversation, barking questions into a
+mouthpiece apropos of nothing. Good candidates blank and stumble over
 answers when they don't have context. Other candidates will have
 memorised every Google search result for "technical interview phone
 screen questions", and wing it, sometimes convincingly.
@@ -244,7 +261,8 @@ get a better feel for the candidate.
   presented by the candidate as an unbroken series of ever more
   glorious successes makes me very nervous, because I work in software
   development too and have a decent understanding of what the reality
-  looks like. It may be nerves, or it may be something else entirely.
+  looks like. It may be nerves on their part, or it may be something
+  else entirely.
 
 - Keep these around 20 minutes. With practice, you'll develop the
   ability to get a good read on the candidate in this time.
@@ -279,9 +297,9 @@ co-interviewer, talk around these points:
 - Now, allowing for the candidate being nervous, would we change our
   view on any of these points above?
 
-And make your decision : "Based on what I now know about this
-candidate, do I think it's more likely or less likely that we'd hire
-them
+And make your decision : "Based on what we now know about this
+candidate, do we now think it's more likely or less likely that we'd
+hire them ?"
 
 ## Online technical test platforms
 
@@ -301,8 +319,8 @@ hiring - this urge to reduce something complex, nuanced and difficult
 to understand down to a dashboard metric. Numbers and measures are
 seductive - they promise simple answers and absolute truths. 
 
-They way these tools tend to be used by organisations, though, makes
-them an example of the Streetlight Effect in action [Source -
+Often, though, the way these tools are used is an example of the
+Streetlight Effect [Source -
 Wikipedia](https://en.wikipedia.org/wiki/Streetlight_effect):
 
 > A policeman sees a drunk man searching for something under a
@@ -330,8 +348,8 @@ out to be an asset or a liability for your organisation:
 
 - Readability and naming in the code.
 
-There's no tool that's going to assess these things accurately, but it
-turns out that humans are pretty good at it. Any automated tool you
+There's no tool that's going to assess these things accurately...but
+it turns out that humans are pretty good at it. Any automated tool you
 decide to use works by assessing the characteristics of _code_, not of
 people. They're proxy measures at best, and not always useful ones.
 
@@ -350,8 +368,8 @@ machine run this part of your recruitment for you.
   excellent CyberDojo instead : a platform that emphasises test-driven
   development, working in small increments.
 
-- If algorithmic problem solving is central to the sort of work you
-  do, sure, I understand why these tools might be attractive. But
+- If algorithmic problem solving is a core skill for the sort of work
+  you do, sure, I understand why these tools might be attractive. But
   there are better ways of running interviews around CS algo and data
   structure fundamentals. And really, if that's the main focus in the
   role, should it not be the centrepiece of the live interview? More
@@ -364,13 +382,14 @@ machine run this part of your recruitment for you.
   simpler end of the spectrum.
 
 - Remember, this should never be the main event, just the warm-up
-  act. Size it appropriately. There's a "yay, add to basket!"
-  mentality that some technical interviewers suffer from when they're
-  creating these tests, but you're not doing your organisation any
-  favours by making this excessive. Be **very generous indeed** on the
-  time allowance - creating a false sense of urgency for the candidate
-  is unrealistic, pointless, stressful and ultimately
-  counterproductive.
+  act. Size it appropriately. There's an "add to basket" mentality
+  that some technical interviewers suffer from when they're creating
+  these tests, but you're not doing your organisation any favours by
+  making tests excessive.
+
+- Be **very generous indeed** on the time allowance - creating a false
+  sense of urgency for the candidate is unrealistic, pointless,
+  stressful and ultimately counterproductive.
 
 - Whatever you decide to use as a code challenge, make sure to
   communicate what's important to you in code. Simplicity? Clarity?
@@ -442,19 +461,47 @@ TODO: diagram showing balance assessment
 
 TODO: standup
 
+There's no ideal approach, but a good generic approach for me would
+look something like:
+
+* Group review of CV and cover letters in a daily standup - max 24
+  hour lead time from arrival. Some early exits here where the
+  experience doesn't match hard requirements. Give feedback.
+
+* Very quick turnaround to phone screen for those candidates we want
+  to forward with. If there are multiple roles, fan out to multiple
+  phone screen pairs. These pairs both make the call, and make the
+  call (see what I did there?). Give feedback.
+
+* One form of technical screen only, with a preference for an
+  assignment that's related to the tech domain.
+
+* Review by the right developers - timebox this at 30 minutes. Give
+  feedback to both successful and unsuccessful candidates. Use the
+  template.
+
+* Decision for a live interview based on a balanced view of the CV,
+  phone and tech assignment.
+
 If you're looking for an online silver bullet that will lighten the
 load of screening and interviewing candidates, well...there is one,
 but it's probably not the one you think. Sorry.
 
+Devolve the process, and stop making hiring managers a bottleneck,
+have a daily standup to maintain the cadence. Use a kanban board to
+track where people are in the process.
+
+Continuous, not lock-step.
+
 There are tools out there that will give you a superficial sense of
 better efficiency, but they all come at a high cost, and it's not
 financial, it's human.
-
-In the end, the solution to being better at hiring, is to get better
-at hiring. Not a tool.
 
 ## Links
 
 CyberDojo
 
 http://blog.cyber-dojo.org/2014/09/interviewing-and-cyber-dojo.html
+
+whiteboard
+
