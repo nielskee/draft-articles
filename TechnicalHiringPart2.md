@@ -37,12 +37,9 @@ on more tests and assessments, but you'll just have fewer people
 engaged. You won't get to the finish line with the best candidates,
 you get there *with the ones that are left*.
 
-- You have a finite amount of time with a candidate, so make it
-  count. Use the **right** screening and interviewing approaches, not
-  just **more**.
-
-- This is about your organisation and the candidate in equal measure,
-  and your process needs to reflect that.
+You have a finite amount of time with a candidate, so make it
+count. Use the *right* screening and interviewing approaches, not
+just *more*.
 
 ## T&#8209;shapes and technical specifics
 
@@ -189,9 +186,9 @@ very likely to be different - perhaps wildly different - from the
 experience of women, LGBTQ+ and non&#8209;binary folk, and people of
 colour who work in that same technical field.
 
-- Treat personal projects and tech community involvement as "more
-  information about candidate \<a>", and not "this makes candidate
-  \<a> a better prospect than candidate \<b>".
+Treat personal projects and tech community involvement as "more
+information about candidate \<a>", and not "this makes candidate \<a>
+a better prospect than candidate \<b>".
 
 ## Phone screens
 
@@ -278,29 +275,30 @@ get a better feel for the candidate.
   and give thought to who should primarily lead the conversation, and
   who should primarily listen.
 
+## Assessing the phone screen
+
 When you get to the end of the screen, and discuss with your
-co-interviewer, talk around these points:
+co-interviewer, focus your discussion around these points:
 
-- We talked to this candidate because we could picture them working
-  with us. Is that still the case after speaking with them? More so,
-  or less so?
+"We talked to this candidate because we could picture them working
+with us. Is that still the case after speaking with them? More so, or
+less so?"
 
-- Did everything seem consistent? Did the narrative we got from the
-  candidate correspond to what we read on the CV?
+"Did everything seem consistent? Did the narrative we got from the
+candidate correspond to what we read on the CV? When we asked
+technical questions, did the answers seem consistent with the
+experience that was being described? Were there any obvious gaps? Were
+there answers that were obviously wrong?"
 
-- When we asked technical questions, did the answers seem consistent
-  with the experience that was being described? Were there any obvious
-  gaps? Were there answers that were obviously wrong?
+"Did the candidate seem comfortable talking about the work they'd
+done, or did they hesitate? Did they try and steer the conversation
+away from detail and technical questions?
 
-- Did the candidate seem comfortable talking about the work they'd
-  done, or did they hesitate? Did they try and steer the conversation
-  away from technical questions?
+"Did we get a sense of enthusiasm and excitement about the technical
+domain, and also the role and our company?"
 
-- Did we get a sense of enthusiasm and excitement about the technical
-  domain, and also the role and our company?
-
-- Now, allowing for the candidate being nervous, would we change our
-  view on any of these points above?
+"And finally, allowing for the candidate being nervous, would we
+change our view on any of these points above?
 
 And make your decision : "Based on what we now know about this
 candidate, do we now think it's more likely or less likely that we'd
@@ -385,50 +383,38 @@ candidate should learn as much about you as you learn about them?
 Well, all they learn with these tools is that you're happy to have a
 machine run this part of your recruitment for you.
 
-- Don't sleepwalk into outsourcing your technical interview to an
-  online platform. Some aspects of hiring are _just hard work_, and
-  you need to be prepared to put in the personal effort with
-  candidates as part of the live interview for the more challenging
-  parts of your tech selection.
+Don't sleepwalk into outsourcing your technical interview to an online
+platform. Some aspects of hiring are _just hard work_, and you need to
+be prepared to put in the personal effort with candidates as part of
+the live interview for the more challenging parts of your tech
+selection.
 
-- If you need to run a coding assessment online, consider using the
-  excellent
-  [CyberDojo](http://blog.cyber-dojo.org/2014/09/interviewing-and-cyber-dojo.html)
-  instead : a platform that emphasises test-driven development,
-  working in small increments.
+If you need to run a coding assessment online, consider using the
+excellent
+[CyberDojo](http://blog.cyber-dojo.org/2014/09/interviewing-and-cyber-dojo.html)
+instead : a platform that emphasises test-driven development, working
+in small increments.
 
-- If algorithmic problem solving is a core skill for the sort of work
-  you do, sure, I understand why these tools might be attractive. But
-  there are better ways of running interviews around CS algo and data
-  structure fundamentals. And really, if that's the main focus in the
-  role, should it not be the centrepiece of the live interview? More
-  in the next post on that.
+If algorithmic problem solving is a core skill for the sort of work
+you do, sure, I understand why these tools might be attractive. But
+there are better ways of running interviews around CS algo and data
+structure fundamentals. And really, if that's the main focus in the
+role, should it not be the centrepiece of the live interview? More in
+the next post on that.
 
-- If you absolutely must use a tool like HackerRank, at least build
-  your challenge sensibly. Rather than off-the-shelf coding
-  challenges, consider creating your own. Use a (small!) mix of
-  multiple choice, subjective questions and a coding challenge at the
-  simpler end of the spectrum.
+If you absolutely must use a tool like HackerRank, at least build your
+challenge sensibly. Rather than off-the-shelf coding challenges,
+consider creating your own. Use a (small!) mix of multiple choice,
+subjective questions and a coding challenge at the simpler end of the
+spectrum. Also be **very generous indeed** on the time allowance -
+creating a false sense of urgency for the candidate is unrealistic,
+pointless, stressful and ultimately counterproductive
 
-- Remember, this should never be the main event, just the warm-up
-  act. Size it appropriately. There's an "add to basket" mentality
-  that some technical interviewers suffer from when they're creating
-  these tests, but you're not doing your organisation any favours by
-  making tests excessive.
-
-- Be **very generous indeed** on the time allowance - creating a false
-  sense of urgency for the candidate is unrealistic, pointless,
-  stressful and ultimately counterproductive.
-
-- Whatever you decide to use as a code challenge, make sure to
-  communicate what's important to you in code. Simplicity? Clarity?
-  Naming? Size? It's your choice, but let the candidate know. No
-  surprises.
-
-- If beat-the-clock coding challenges are appealing to you because you
-  want people "working quickly" to meet arbitrary deadlines, I
-  respectfully suggest you have other things you need to be thinking
-  about before you hire anyone.
+Remember, this should never be the main event, just the warm-up
+act. Size it appropriately. There's an "add to basket" mentality
+that some technical interviewers suffer from when they're creating
+these tests, but you're not doing your organisation any favours by
+making tests excessive.
 
 When you're assessing these, look at the code, not just the score. If
 someone has made the effort to use good names, small methods, clear
@@ -440,10 +426,15 @@ who understand the type of good code you're looking for. Review in
 pairs again, and discuss what you're seeing. Make allowances for
 nerves and pressure.
 
+I feel duty-bound to make one final point - if beat-the-clock coding
+challenges are appealing to you because you want people "working
+quickly" to meet arbitrary deadlines, I respectfully suggest you have
+other things you need to be thinking about before you hire anyone.
+
 ## Coding assignments
 
-If you need to scale up your technical screening, this will be a
-better way than the online route.
+If you need to scale up your technical screening, this will likely be
+a better way for you than the online test route.
 
 The basic idea is this - you set a small programming assignment along
 with a specification, and give to the candidate. They work on it at a
@@ -507,22 +498,21 @@ talked about earlier : someone who cares about code, users, and
 colleagues. Look for good tests, good names and simple design. Some
 tips:
 
-- Ask the candidate to commit early and often, then you can see the
-  solution evolve.
+Ask the candidate to commit early and often, then you can see the
+solution evolve. Ask them to add a README.md too, with informal
+working notes - this isn't something you review, it's just a way of
+them communicating back to you. I always advise students to do this
+for tech assignments even if they aren't asked, noting down the
+decisions they made, things they think worked out well, things they
+would do differently. It's great insight.
 
-- Ask them to add a README.md too, with informal working notes - this
-  isn't something you review, it's just a way of them communicating
-  back to you. I always advise students to do this for tech
-  assignments even if they aren't asked, noting down the decisions
-  they made, things they think worked out well, things they would do
-  differently. It's great insight.
+Agree in your team a set of points to cover in code reviews, so that
+it's applied fairly and consistently across candidates. A simple
+checklist is a good way to capture this.
 
-- Have many reviewers, but also agree in your team a set of points to
-  cover in code reviews, so that it's applied fairly and consistently
-  across candidates. A simple checklist is a good way to capture this.
-
-- Feed the candidate's solution forward into the live technical
-  interview - it can make a great discussion point.
+When you've made your decision, feed the candidate's solution forward
+into the live technical interview - it can make a great discussion
+point.
 
 ## "Aptitude" tests
 
@@ -559,17 +549,18 @@ look something like:
   requirements. Give feedback.
 
 * Have a very quick turnaround to phone screen for those candidates
-  you want to go forward with. If there are multiple roles you're
-  hiring for, fan out to multiple phone screen pairs. These pairs both
+  you want to go forward with. If there are multiple candidates you're
+  talking to, fan out to multiple phone screen pairs. These pairs both
   make the call, and make the call (see what I did there?). Give
   feedback.
 
 * Have one form of technical screen only, with a preference for a
   technical assignment that's related to the tech domain.
 
-* Get it reviewed. Give feedback to both successful and unsuccessful
-  candidates. Use a checklist, but also leverage GitHub as a review
-  platform if that's possible for your organisation.
+* Get it reviewed promptly when the solution comes back - the daily
+  standup helps coordinated this. Give feedback to both successful and
+  unsuccessful candidates. Use a checklist, but also leverage GitHub
+  as a review platform if that's possible for your organisation.
 
 * Make a decision for a live interview based on a balanced view of the
   CV, phone and tech assignment, but always weighting towards the most
