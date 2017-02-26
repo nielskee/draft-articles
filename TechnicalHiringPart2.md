@@ -356,15 +356,13 @@ decide to use works by assessing the characteristics of _code_, not of
 people. They're proxy measures at best, and not always useful ones.
 
 And remember that point earlier about matched investment? That the
-candidate should learn as much about you as you learn about them?
-Well, all they learn with these tools is that you're happy to have a
-machine run this part of your recruitment for you.
-
-Don't sleepwalk into outsourcing your technical interview to an online
-platform. Some aspects of hiring are _just hard work_, and you need to
-be prepared to put in the personal effort with candidates as part of
-the live interview for the more challenging parts of your tech
-selection.
+candidate should learn as much about you as you learn about them?  All
+they learn with these tools is that you're happy to have a machine run
+this part of your recruitment for you. Don't sleepwalk into
+outsourcing your technical interview to an online platform. Some
+aspects of hiring are _just hard work_, and you need to be prepared to
+put in the personal effort with candidates as part of the live
+interview for the more challenging parts of your tech selection.
 
 If you need to run a coding assessment online, consider using the
 excellent
@@ -383,40 +381,30 @@ If you absolutely must use a tool like HackerRank, at least build your
 challenge sensibly. Rather than off-the-shelf coding challenges,
 consider creating your own. Use a (small!) mix of multiple choice,
 subjective questions and a coding challenge at the simpler end of the
-spectrum. Also be **very generous indeed** on the time allowance -
-creating a false sense of urgency for the candidate is unrealistic,
-pointless, stressful and ultimately counterproductive
-
-Remember, this should never be the main event, just the warm-up
-act. Size it appropriately. There's an "add to basket" mentality
-that some technical interviewers suffer from when they're creating
-these tests, but you're not doing your organisation any favours by
-making tests excessive.
-
-When you're assessing these, look at the code, not just the score. If
-someone has made the effort to use good names, small methods, clear
-control flow, and cohesive, well-encapsulated types, this won't result
-in a better score, but it's a good indication of their instincts.
+spectrum. There's a temptation to "add to basket" when building the
+tests, but you're not doing your organisation any favours by making
+tests excessive. Also be **very generous indeed** on the time
+allowance - creating a false sense of urgency for the candidate is
+unrealistic, pointless, stressful and ultimately counterproductive.
 
 Assessment of results should always be done by practicing developers
 who understand the type of good code you're looking for. Review in
 pairs again, and discuss what you're seeing. Make allowances for
 nerves and pressure.
 
-I feel duty-bound to make one final point - if beat-the-clock coding
-challenges are appealing to you because you want people "working
-quickly" to meet arbitrary deadlines, I respectfully suggest you have
-other things you need to be thinking about before you hire anyone.
+And one final point - if beat-the-clock coding challenges are
+appealing to you because you want people "working quickly" to meet
+arbitrary deadlines, I respectfully suggest you have other things you
+need to be thinking about before you hire anyone.
 
 ## Coding assignments
 
 If you need to scale up your technical screening, this will likely be
-a better way for you than the online test route.
-
-The basic idea is this - you set a small programming assignment along
-with a specification, and give to the candidate. They work on it at a
-time that suits them. You give them up to a week to get it back to you
-on GitHub (now) or an emailed zip file (back in Ye Olden Dayes).
+a better way for you than the online test route. The basic idea is
+this - you set a small programming assignment along with a
+specification, and give to the candidate. They work on it at a time
+that suits them. You give them up to a week to get it back to you on
+GitHub (now) or an emailed zip file (back in Ye Olden Dayes).
 
 There are many benefits. For one thing, you can set a challenge that's
 a better fit for the core skill-set of the role you're recruiting
