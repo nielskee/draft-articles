@@ -42,9 +42,9 @@ A theme that's going to be running through this and the next article
 is that we should look for breadth. This "T-shaped" model of personal
 and professional development is often used to illustrate the
 point. The thinking behind this is that you have a set of core skills
-- the stem of the T. The ideas is that you continue to develop those
-deep, core skills, but you also develop broad skills and knowledge of
-other discplines - the cross of the T.
+forming the stem of the T. The idea is that you continue to develop
+those deep, core skills, but you also develop broad skills and
+knowledge of other discplines - the cross of the T.
 
 ![T-Shaped Techies](T-shaped.png)
 
