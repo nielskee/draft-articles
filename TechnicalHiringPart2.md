@@ -287,12 +287,11 @@ Online technical assessment tools like
 [HackerRank](https://www.hackerrank.com/) and
 [Codility](https://codility.com/) are becoming more widespread in
 hiring. I understand why companies are using them, although I think
-they're used either wrongly or excessively more often than not.
-
-If you haven't used these tools, here's an outline:
+they're used either wrongly or excessively more often than not. If you
+haven't used these tools, here's a potted summary:
 
 - The technical interviewer designs the test by picking from a list of
-  coding challenges and questions
+  coding challenges and questions.
 
 - The candidate is sent a link to the online test, and works though
   it, with a countdown timer running, to complete the challenge.
