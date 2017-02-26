@@ -79,7 +79,7 @@ might be important to you, I don't want to be constantly issuing
 caveats.
 
 So, here's my assumption : if you're hiring experienced developers
-with a specific skillset, I'll assume you're smart people, that you
+with a specific skill-set, I'll assume you're smart people, that you
 know about the technical domain you're hiring for, and that you can
 apply good judgement as to whether the candidate has the right
 experience or not. We'll look at the broader picture in these posts.
@@ -104,9 +104,9 @@ others participate, and make the call when it comes to the hiring
 decision. Hopefully you've heeded my advice and got as many people in
 your team involved in technical interviewing as you can.
 
-This isn't to say that non-coding managers are *completely*
-uninvolved, just not running the technical parts of the process. More
-in Part 3 about the live interview.
+This isn't to say that non-coding managers are *completely* excluded,
+just not running the technical parts of the process. More in Part 3
+about the live interview.
 
 ## CV and cover letter
 
@@ -133,7 +133,7 @@ in a CV, that would make me want to know more about a candidate:
   disciplines - test automation, product design, accessibility, broad
   industry knowledge - anything.
 
-- **Self-improvers** : evidence of personal or open-source projects is
+- **Self-improving** : evidence of personal or open-source projects is
   great, as well as attendance at any local meetups or conferences. I
   like to see people who are engaged in a wider technical community,
   although I have some important caveats on this later. Initiatives,
@@ -257,7 +257,7 @@ get a better feel for the candidate.
   other tech screening mechanism. It's an introduction and a
   consistency check above all.
 
-- Non-sequitur technical questions are just awkward. Good candidates
+- Non sequitur technical questions are just awkward. Good candidates
   experience brain freeze, and others wing it.
 
 - Be wary of hyper-confidence by the candidate. You're looking to hire
@@ -322,13 +322,13 @@ If you haven't used these tools, here's an outline:
   it, with a countdown timer running, to complete the challenge.
 
 - The screening tool tests correctness of the implementation using a
-  variety of datasets and edge cases - an array with no elements, an
+  variety of data sets and edge cases - an array with no elements, an
   array with one element, an array with all zeros, an array with large
   values that could overflow a accumulator variable....you get the
   picture.
 
 - The screening tool assesses the efficiency of the implementation by
-  pushing through datasets of increasing size in succession, timing
+  pushing through data sets of increasing size in succession, timing
   these, and calculating the Big-O complexity of the candidate's
   solution.
 
@@ -444,13 +444,13 @@ nerves and pressure.
 If you need to scale up your technical screening, this will be a
 better way than the online route.
 
-The basic idea is this - you set a small programming assigment along
+The basic idea is this - you set a small programming assignment along
 with a specification, and give to the candidate. They work on it at a
 time that suits them. You give them up to a week to get it back to you
 on GitHub (now) or an emailed zip file (back in Ye Olden Dayes).
 
 There are many benefits. For one thing, you can set a challenge that's
-a better fit for the core skillset of the role you're recruiting
+a better fit for the core skill-set of the role you're recruiting
 for. A small website for web developers. A simple library with tests
 for a C++ developer. A single-screen mobile application for iOS or
 Android developers. A RESTful service for back-end Java developers.
@@ -459,7 +459,7 @@ The key is to construct a challenge that:
 
 - **Can be completed in around 2 hours for an experienced developer,
   up to 4 hours max** for someone with experience (although remember
-  that if you're hiring people right at the startout of a career in
+  that if you're hiring people right at the start of a career in
   development, this same challenge could take two or three times as
   long for them : scale it back.
 
