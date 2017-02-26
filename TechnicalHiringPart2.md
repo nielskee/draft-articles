@@ -53,12 +53,12 @@ knowledge of other disciplines - the cross of the T.
 
 ![T&#8209;Shaped Techies](T-shaped.png)
 
-Now, it's just a model, and shouldn't be taken literally, but it does
-ring true for me. Before I even knew this existed, whenever I was
-asked what the difference was between a beginner developer and a
-proficient, experienced developer, someone who worked really
-effectively in a team, I'd always reply "breadth and depth", and I'll
-be returning to that phrase in a minute.
+Now, it's just a model, and a way of thinking about professional
+development, but it does ring true for me. Before I even knew this
+existed, whenever I was asked what the difference was between a
+beginner developer and a proficient, experienced developer, someone
+who worked really effectively in a team, I'd always reply "breadth and
+depth", and I'll be returning to that phrase in a minute.
 
 **You want T-shaped people**. Even if they don't always exercise that
 breadth, the knowledge they have of other disciplines means they can
