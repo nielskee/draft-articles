@@ -1,8 +1,8 @@
 ## Why screen candidates
 
 We'd love to see all candidates face to face. We'd love to have a
-complete view of their background, character and abilities before
-making a hiring decision. In practice, it's almost impossible for
+complete view of their background, character and ability before making
+a hiring decision. In practice, it's almost impossible for
 organisations to commit this sort of time.
 
 More importantly, we don't want to take up the candidate's time if we
@@ -52,7 +52,7 @@ and professional development is often used to illustrate the
 point. The thinking behind this is that you have a set of core skills
 forming the stem of the T. The idea is that you continue to develop
 those deep, core skills, but you also develop broad skills and
-knowledge of other discplines - the cross of the T.
+knowledge of other disciplines - the cross of the T.
 
 ![T-Shaped Techies](T-shaped.png)
 
@@ -64,17 +64,16 @@ effectively in a team, I'd always reply "breadth and depth", and I'll
 be returning to that phrase in a minute.
 
 **You want T-shaped people**. Even if they don't always exercise that
-breath, the knowledge they have of other discplines means they can
+breadth, the knowledge they have of other disciplines means they can
 empathise and communicate well with a wide range of people.
 
 That said, I understand how specific your requirements might be, and
 how complex a technical domain some of you might be working in. It's
-possible that you are hiring specific tech skills that can't easily be
+possible that you're hiring specific tech skills that can't easily be
 picked up, or you're looking for a depth of experience to help mentor
-newer developers. I can't really generalise about these fixed,
-specific requirements.
+newer developers.
 
-So, for most of the next two posts, I'm going to have to make some
+For most of the next two posts, I'm going to have to make some
 assumptions. With the infinite variety of technical backgrounds that
 might be important to you, I don't want to be constantly issuing
 caveats.
@@ -91,7 +90,7 @@ If you're not hands-on with development, you need to be hands-off with
 developer hiring. Non-developers just aren't in a position to assess
 developer skills, and their uncertainty and lack of confidence in code
 will mean they'll focus on other traits. Most likely they'll focus on
-the **wrong** traits.
+the *wrong* traits.
 
 This isn't about elitism, it's about engagement : the way we hire
 people now needs participation from the interviewer, not just
@@ -103,8 +102,11 @@ interview challenge yourself.
 If it's a struggle for you, it's time to take a step back and let
 others participate, and make the call when it comes to the hiring
 decision. Hopefully you've heeded my advice and got as many people in
-your team involved in technical interviewing as you can. If you
-haven't, then start.
+your team involved in technical interviewing as you can.
+
+This isn't to say that non-coding managers are *completely*
+uninvolved, just not running the technical parts of the process. More
+in Part 3 about the live interview.
 
 ## CV and cover letter
 
@@ -117,16 +119,13 @@ single candidate.
 If the answer is "yes", or "maybe", I'll have a phone conversation. If
 the answer is "no", or "it's really unlikely" then the best thing for
 the candidate is to give them as much feedback as you can, and let
-them concentrate on their other job applications. I'll talk much more
-about feedback in the third and final post.
+them concentrate on their other job applications.
 
 If you have hard requirements on experience level, depth, or breadth
 of technical experience, you should be able to judge this quite easily
-if you're working in the same technical domain.
-
-Putting aside the technical specifics, here are some things I view as
-strong positives in a CV, that would make me want to know more about a
-candidate:
+if you're working in the same technical domain. Putting aside your
+technical specifics, here are some things I view as strong positives
+in a CV, that would make me want to know more about a candidate:
 
 - **Breadth and depth** : breadth is a multiplier - people with
   breadth add capability to teams far beyond their core skills. If
@@ -152,19 +151,17 @@ candidate:
   their users, customers, and colleagues. If I see some indications
   that developers are motivated by making things better for people,
   this makes me happy. This could be adoption of better test-driven
-  approaches to get the product right, more secure code to protect
-  users, more efficient code to improve battery life on a user's
-  device, improving readability and clarity of code for their
-  colleagues.
+  approaches to get the product right for users or more secure code to
+  protect them, more efficient code to improve battery life on a
+  user's device, or improving readability and clarity of code for
+  their colleagues.
 
-- **Bias for action** : it's something of a Silicon Valley term, but
+- **Action-oriented** : it's something of a Silicon Valley term, but
   it's widely applicable in tech as a desirable trait. You want people
-  who are going to try things, measure how they work, learn, and
-  adapt. Look for evidence that people run spikes, experiments and
-  proofs-of-concept, and that they change their approach depending on
-  results. Software development is full of uncertainty, but analysis,
-  whiteboarding sessions and endless discussions do little to reduce
-  the uncertainty. Build, measure, learn.
+  who are going to do things, measure how they work, learn, and
+  adapt. Some of this will be shaped by the way their organisation
+  works, but still look for evidence that people run spikes,
+  experiments and proofs-of-concept, and adapt their approach.
 
 ## Personal projects and meetups : a note of caution
 
@@ -245,8 +242,8 @@ get a better feel for the candidate.
   other, and to make sure the candidate is OK with the process. Be
   human. Be informal. Chat. Don't try to play a role.
 
-- Focus on what candidates say they know in their CV or cover letter,
-  rather than what you think you need.
+- Focus on what candidates **say they know** in their CV or cover
+  letter, rather than what you **think you need**.
 
 - Use a conversational style based around the experience on their
   CV. Follow the trail, and improvise. Get in some technical questions
@@ -306,22 +303,23 @@ co-interviewer, talk around these points:
 
 And make your decision : "Based on what we now know about this
 candidate, do we now think it's more likely or less likely that we'd
-hire them ?"
+hire them?"
 
 ## Online technical test platforms
 
-Online technical assessment tools like HackerRank and Codility are
-becoming more widespread in hiring. I understand why companies are
-using them, although I think they're used either wrongly or
-excessively more often than not.
+Online technical assessment tools like
+[HackerRank](https://www.hackerrank.com/) and
+[Codility](https://codility.com/) are becoming more widespread in
+hiring. I understand why companies are using them, although I think
+they're used either wrongly or excessively more often than not.
 
 If you haven't used these tools, here's an outline:
 
 - The technical interviewer designs the test by picking from a list of
   coding challenges and questions
 
-- The candidate is sent a link to the online test, and works though it
-  - with a countdown timer running - to complete the challenge.
+- The candidate is sent a link to the online test, and works though
+  it, with a countdown timer running, to complete the challenge.
 
 - The screening tool tests correctness of the implementation using a
   variety of datasets and edge cases - an array with no elements, an
@@ -330,10 +328,11 @@ If you haven't used these tools, here's an outline:
   picture.
 
 - The screening tool assesses the efficiency of the implementation by
-  pushing through datasets of increasing size in succession, and
-  calculating a Big-O complexity of the candidate's solution.
+  pushing through datasets of increasing size in succession, timing
+  these, and calculating the Big-O complexity of the candidate's
+  solution.
 
-- Candidates lose marks down for missing edge cases, or for
+- Candidates lose marks down for missing edge cases, and for
   implementing with less efficiency than is possible.
 
 These platforms seem to provide an objective measure of capability, to
@@ -343,7 +342,8 @@ is to Rank your Hackers, is it not?
 I see this all the time in software development - and not just in
 hiring - this urge to reduce something complex, nuanced and difficult
 to understand down to a dashboard metric. Numbers and measures are
-seductive - they promise simple answers and absolute truths. 
+seductive, especially to non-technical managers. They promise simple
+answers and absolute truths.
 
 Often, though, the way these tools are used is an example of the
 Streetlight Effect [Source -
@@ -391,8 +391,10 @@ machine run this part of your recruitment for you.
   parts of your tech selection.
 
 - If you need to run a coding assessment online, consider using the
-  excellent CyberDojo instead : a platform that emphasises test-driven
-  development, working in small increments.
+  excellent
+  [CyberDojo](http://blog.cyber-dojo.org/2014/09/interviewing-and-cyber-dojo.html)
+  instead : a platform that emphasises test-driven development,
+  working in small increments.
 
 - If algorithmic problem solving is a core skill for the sort of work
   you do, sure, I understand why these tools might be attractive. But
@@ -549,24 +551,24 @@ There's no ideal approach, but a good generic approach for me would
 look something like:
 
 * Have a daily hiring standup to maintain the cadence. At this
-  standup, do a group review amount your tech interviewers of CV and
+  standup, do a group review with your tech interviewers of CV and
   cover letters that came in the previous day. Aim for no more than a
   24&#8209;hour lead time from arrival. There will be some early exits
   here where the experience clearly doesn't match your
   requirements. Give feedback.
 
 * Have a very quick turnaround to phone screen for those candidates
-  you want to go forward with. If there are multiple roles, fan out to
-  multiple phone screen pairs. These pairs both make the call, and
-  make the call (see what I did there?). Give feedback.
+  you want to go forward with. If there are multiple roles you're
+  hiring for, fan out to multiple phone screen pairs. These pairs both
+  make the call, and make the call (see what I did there?). Give
+  feedback.
 
 * Have one form of technical screen only, with a preference for a
   technical assignment that's related to the tech domain.
 
-* Get it reviewed, timebox this at 30 minutes. Give feedback to both
-  successful and unsuccessful candidates. Use a checklist, but also
-  leverage GitHub as a review platform if that's possible for your
-  organisation.
+* Get it reviewed. Give feedback to both successful and unsuccessful
+  candidates. Use a checklist, but also leverage GitHub as a review
+  platform if that's possible for your organisation.
 
 * Make a decision for a live interview based on a balanced view of the
   CV, phone and tech assignment, but always weighting towards the most
@@ -582,14 +584,3 @@ the team. They'll get it, trust me.
 In the next part we're going to cover live technical interviews. Don't
 worry - it's much shorter than this part, because there's only one
 approach that I think is worth a damn.
-
-## Links
-
-TODO - many resources
-
-CyberDojo
-
-http://blog.cyber-dojo.org/2014/09/interviewing-and-cyber-dojo.html
-
-whiteboard
-
