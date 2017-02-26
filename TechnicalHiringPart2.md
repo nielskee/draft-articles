@@ -552,37 +552,36 @@ TODO: standup
 There's no ideal approach, but a good generic approach for me would
 look something like:
 
-* Have a daily hiring standup. Do a group review of CV and cover
-  letters that came in the previous day. Aim for no more than a
-  24&#8209;hour lead time from arrival. There will be Some early exits
+* Have a daily hiring standup to maintain the cadence. At this
+  standup, do a group review amount your tech interviewers of CV and
+  cover letters that came in the previous day. Aim for no more than a
+  24&#8209;hour lead time from arrival. There will be some early exits
   here where the experience clearly doesn't match your
   requirements. Give feedback.
 
-* Have a very quick turnaround to phone screen for those candidates we
-  want to forward with. If there are multiple roles, fan out to
+* Have a very quick turnaround to phone screen for those candidates
+  you want to go forward with. If there are multiple roles, fan out to
   multiple phone screen pairs. These pairs both make the call, and
   make the call (see what I did there?). Give feedback.
 
-* Have one form of technical screen only, with a preference for an
+* Have one form of technical screen only, with a preference for a
   technical assignment that's related to the tech domain.
 
-* Get it reviewed by the right developers - timebox this at 30
-  minutes. Give feedback to both successful and unsuccessful
-  candidates. Use a checklist, but also leverage GitHub as a review
-  platform if it's possible for your organisation.
+* Get it reviewed, timebox this at 30 minutes. Give feedback to both
+  successful and unsuccessful candidates. Use a checklist, but also
+  leverage GitHub as a review platform if that's possible for your
+  organisation.
 
 * Make a decision for a live interview based on a balanced view of the
   CV, phone and tech assignment, but always weighting towards the most
-  recent contact CV < phone < tech assignment.
+  recent contact, so ```CV < phone < tech assignment```.
 
 The key to making this work is to devolve the process, and stop making
 hiring managers a bottleneck. Explain to people why broad involvement
 in tech hiring is important for diversity, and the future health of
 the team. They'll get it, trust me.
 
-Have a daily standup to maintain the cadence, use a kanban board to
-track where people are in the process, and give the candidate feedback
-at every stage.
+## Coming next
 
 In the next part we're going to cover live technical interviews. Don't
 worry - it's much shorter than this part, because there's only one
