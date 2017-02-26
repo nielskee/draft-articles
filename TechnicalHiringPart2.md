@@ -545,10 +545,6 @@ be. But still, hard pass.
 
 ## A better pipeline
 
-TODO: diagram showing balance assessment
-
-TODO: standup
-
 There's no ideal approach, but a good generic approach for me would
 look something like:
 
