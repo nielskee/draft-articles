@@ -42,7 +42,7 @@ A theme that's going to be running through this and the next article
 is that we should look for breadth. This "T-shaped" model of personal
 and professional development is often used to illustrate the point.
 
-TODO: diagram
+![T-Shaped Techies](T-shaped.png)
 
 The thinking behind this is that you have a set of core skills - the
 stem of the T. The ideas is that you continue to develop those deep,
@@ -413,8 +413,13 @@ nerves and pressure.
 
 ## Coding assignments
 
-If you need to scale up your technical screening, for most
-organisations this will be a better way than the online route.
+If you need to scale up your technical screening, this will be a
+better way than the online route.
+
+The basic idea is this - you set a small programming assigment along
+with a specification, and give to the candidate. They work on it at a
+time that suits them. You give them up to a week to get it back to you
+on GitHub (now) or an emailed zip file (back in Ye Olden Dayes).
 
 There are many benefits. For one thing, you can set a challenge that's
 a better fit for the core skillset of the role you're recruiting
@@ -422,16 +427,29 @@ for. A small website for web developers. A simple library with tests
 for a C++ developer. A single-screen mobile application for iOS or
 Android developers. A RESTful service for back-end Java developers.
 
-You can communicate with candidates. While they're doing this too.
+The key is to construct a challenge that:
 
-TODO GH reviews
+- **Can be completed in 2-4 hours** for someone with experience
+  (although remember that if you're hiring people starting out in
+  development, this same challenge could take two or three times as
+  long for them : scale it back.
 
-TODO comms with candidate
+- **Requires the candidate to do the things you want to assess** : for
+  example, something they would need to write unit tests for, or
+  something with just enough complexity to see their OO design skills.
 
-TODO how to run
+- **Emphasises code rather than configuration** : it's fine to have
+  technology-specific challenges that need candidates to do
+  configuration and use the tools properly, but don't make it *just*
+  about that.
 
-You construct a challenge that could be completed in 2-4 hours, and
-send to the candidate.
+You can communicate with candidates while they're doing this too,
+unlike online technical tests. GitHub has social and communication
+features, so you can review code, make comments, raise issues and also
+see the solution evolving - you can do this privately too, if you want
+to add the candidate as a collaborator to a one-off repository that
+you create for them in your organisation.
+
 
 - I talked in the first post about proportionality. Bear in mind that
   less experienced graduates will take far, far longer to complete a
