@@ -23,19 +23,19 @@ advert was, you're back to sending a signal that this is really just
 about your company and its requirements.
 
 Also remember that screening is supposed to be quick, focused, and
-relatively low-investment. I talk to experienced developers who find
-the process that companies put in place time-consuming and and
-burdensome. In some cases they'll make a choice to go with companies
-who have a simpler and faster selection process.
+relatively low&#8209;investment. I talk to experienced developers who
+find the process that companies put in place time&#8209;consuming and
+and burdensome. In some cases they'll make a choice to go with
+companies who have a simpler and faster selection process.
 
 This is not because they're lazy people, but because they're *busy*
-people. In-demand developers will simply not have the time for your
-6-stage interview process spread over three months. You need to keep
-it efficient - hire people with confidence, but don't test their
-patience and make them look elsewhere. You can keep loading on more
-tests and assessments, but you'll just have fewer people engaged. You
-won't get to the finish line with the best candidates, you get there
-*with the ones that are left*.
+people. In&#8209;demand developers will simply not have the time for
+your 6&#8209;stage interview process spread over three months. You
+need to keep it efficient - hire people with confidence, but don't
+test their patience and make them look elsewhere. You can keep loading
+on more tests and assessments, but you'll just have fewer people
+engaged. You won't get to the finish line with the best candidates,
+you get there *with the ones that are left*.
 
 - You have a finite amount of time with a candidate, so make it
   count. Use the **right** screening and interviewing approaches, not
@@ -44,17 +44,17 @@ won't get to the finish line with the best candidates, you get there
 - This is about your organisation and the candidate in equal measure,
   and your process needs to reflect that.
 
-## T-shapes and technical specifics
+## T&#8209;shapes and technical specifics
 
 A theme that's going to be running through this and the next article
-is that we should look for breadth. This "T-shaped" model of personal
-and professional development is often used to illustrate the
+is that we should look for breadth. This "T&#8209;shaped" model of
+personal and professional development is often used to illustrate the
 point. The thinking behind this is that you have a set of core skills
 forming the stem of the T. The idea is that you continue to develop
 those deep, core skills, but you also develop broad skills and
 knowledge of other disciplines - the cross of the T.
 
-![T-Shaped Techies](T-shaped.png)
+![T&#8209;Shaped Techies](T-shaped.png)
 
 Now, it's just a model, and shouldn't be taken literally, but it does
 ring true for me. Before I even knew this existed, whenever I was
@@ -79,18 +79,18 @@ might be important to you, I don't want to be constantly issuing
 caveats.
 
 So, here's my assumption : if you're hiring experienced developers
-with a specific skill-set, I'll assume you're smart people, that you
-know about the technical domain you're hiring for, and that you can
-apply good judgement as to whether the candidate has the right
+with a specific skill&#8209;set, I'll assume you're smart people, that
+you know about the technical domain you're hiring for, and that you
+can apply good judgement as to whether the candidate has the right
 experience or not. We'll look at the broader picture in these posts.
 
 ## And you, Technical Manager...do you code?
 
-If you're not hands-on with development, you need to be hands-off with
-developer hiring. Non-developers just aren't in a position to assess
-developer skills, and their uncertainty and lack of confidence in code
-will mean they'll focus on other traits. Most likely they'll focus on
-the *wrong* traits.
+If you're not hands&#8209;on with development, you need to be
+hands&#8209;off with developer hiring. Non&#8209;developers just
+aren't in a position to assess developer skills, and their uncertainty
+and lack of confidence in code will mean they'll focus on other
+traits. Most likely they'll focus on the *wrong* traits.
 
 This isn't about elitism, it's about engagement : the way we hire
 people now needs participation from the interviewer, not just
@@ -104,9 +104,9 @@ others participate, and make the call when it comes to the hiring
 decision. Hopefully you've heeded my advice and got as many people in
 your team involved in technical interviewing as you can.
 
-This isn't to say that non-coding managers are *completely* excluded,
-just not running the technical parts of the process. More in Part 3
-about the live interview.
+This isn't to say that non&#8209;coding managers are *completely*
+excluded, just not running the technical parts of the process. More in
+Part 3 about the live interview.
 
 ## CV and cover letter
 
@@ -133,12 +133,12 @@ in a CV, that would make me want to know more about a candidate:
   disciplines - test automation, product design, accessibility, broad
   industry knowledge - anything.
 
-- **Self-improving** : evidence of personal or open-source projects is
-  great, as well as attendance at any local meetups or conferences. I
-  like to see people who are engaged in a wider technical community,
-  although I have some important caveats on this later. Initiatives,
-  experiments and innovation that people do on the job are things I
-  always see as signs of self-improvement too.
+- **Self&#8209;improving** : evidence of personal or open&#8209;source
+  projects is great, as well as attendance at any local meetups or
+  conferences. I like to see people who are engaged in a wider
+  technical community, although I have some important caveats on this
+  later. Initiatives, experiments and innovation that people do on the
+  job are things I always see as signs of self&#8209;improvement too.
 
 - **Coaches** : I'm reassured when I see some signs that this person
   helps other people, because it gives me a good sense of how someone
@@ -150,18 +150,19 @@ in a CV, that would make me want to know more about a candidate:
 - **Ethical developers** : you want to hire developers who care about
   their users, customers, and colleagues. If I see some indications
   that developers are motivated by making things better for people,
-  this makes me happy. This could be adoption of better test-driven
-  approaches to get the product right for users or more secure code to
-  protect them, more efficient code to improve battery life on a
-  user's device, or improving readability and clarity of code for
-  their colleagues.
+  this makes me happy. This could be adoption of better
+  test&#8209;driven approaches to get the product right for users or
+  more secure code to protect them, more efficient code to improve
+  battery life on a user's device, or improving readability and
+  clarity of code for their colleagues.
 
-- **Action-oriented** : it's something of a Silicon Valley term, but
-  it's widely applicable in tech as a desirable trait. You want people
-  who are going to do things, measure how they work, learn, and
+- **Action&#8209;oriented** : it's something of a Silicon Valley term,
+  but it's widely applicable in tech as a desirable trait. You want
+  people who are going to do things, measure how they work, learn, and
   adapt. Some of this will be shaped by the way their organisation
   works, but still look for evidence that people run spikes,
-  experiments and proofs-of-concept, and adapt their approach.
+  experiments and proofs&#8209;of&#8209;concept, and adapt their
+  approach.
 
 ## Personal projects and meetups : a note of caution
 
@@ -185,8 +186,8 @@ circumstances play a part.
 And if you're a male, white, middle-class technical manager,
 understand that your experience and perception of tech communities are
 very likely to be different - perhaps wildly different - from the
-experience of women, LGBTQ+ and non-binary folk, and people of colour
-who work in that same technical field.
+experience of women, LGBTQ+ and non&#8209;binary folk, and people of
+colour who work in that same technical field.
 
 - Treat personal projects and tech community involvement as "more
   information about candidate \<a>", and not "this makes candidate
@@ -337,7 +338,7 @@ If you haven't used these tools, here's an outline:
 
 These platforms seem to provide an objective measure of capability, to
 differentiate between candidates. After all, the intent of HackerRank
-is to Rank your Hackers, is it not? 
+is to Rank your Hackers, is it not?
 
 I see this all the time in software development - and not just in
 hiring - this urge to reduce something complex, nuanced and difficult
