@@ -6,10 +6,10 @@ making a hiring decision. In practice, it's almost impossible for
 organisations to commit this sort of time.
 
 More importantly, we don't want to take up the candidate's time if we
-think there's a low probability we're going to hire them. They're busy
-people too. They're generally in employment, and if they're in Job
-Hunt Mode then they'll often have multiple job applications live at
-any given time.
+think it's unlikely we're going to hire them. They're busy people
+too. They're generally in employment, and if they're in Job Hunt Mode
+then they'll often have multiple job applications live at any given
+time.
 
 Done right, screening gives you and the candidate a way of building
 confidence in each other - as your investment in each other grows, so
@@ -22,10 +22,11 @@ unbalanced, then trust is eroded, and however appealing your job
 advert was, you're back to sending a signal that this is really just
 about your company and its requirements.
 
-Also remember that screens are just that. I talk to experienced
-developers who find the process that companies put in place
-time-consuming and and burdensome. In some cases they'll make a choice
-to go with companies who have a simpler and faster selection process.
+Also remember that screening is supposed to be quick, focused, and
+relatively low-investment. I talk to experienced developers who find
+the process that companies put in place time-consuming and and
+burdensome. In some cases they'll make a choice to go with companies
+who have a simpler and faster selection process.
 
 This is not because they're lazy people, but because they're *busy*
 people. In-demand developers will simply not have the time for your
@@ -35,6 +36,13 @@ patience and make them look elsewhere. You can keep loading on more
 tests and assessments, but you'll just have fewer people engaged. You
 won't get to the finish line with the best candidates, you get there
 *with the ones that are left*.
+
+- You have a finite amount of time with a candidate, so make it
+  count. Use the **right** screening and interviewing approaches, not
+  just **more**.
+
+- This is about your organisation and the candidate in equal measure,
+  and your process needs to reflect that.
 
 ## T-shapes and technical specifics
 
@@ -447,8 +455,9 @@ Android developers. A RESTful service for back-end Java developers.
 
 The key is to construct a challenge that:
 
-- **Can be completed in 2-4 hours** for someone with experience
-  (although remember that if you're hiring people starting out in
+- **Can be completed in around 2 hours for an experienced developer,
+  up to 4 hours max** for someone with experience (although remember
+  that if you're hiring people right at the startout of a career in
   development, this same challenge could take two or three times as
   long for them : scale it back.
 
@@ -573,6 +582,8 @@ better efficiency, but they all come at a high cost, and it's not
 financial, it's human.
 
 ## Links
+
+TODO - many resources
 
 CyberDojo
 
