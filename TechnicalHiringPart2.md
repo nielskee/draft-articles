@@ -67,9 +67,9 @@ newer developers. I can't really generalise about these fixed,
 specific requirements.
 
 So, for most of the next two posts, I'm going to have to make some
-assumptions. There's an almost infinite variety of technical
-backgrounds that might be important to you, and I don't want to be
-constantly issuing caveats.
+assumptions. With the infinite variety of technical backgrounds that
+might be important to you, I don't want to be constantly issuing
+caveats.
 
 So, here's my assumption : if you're hiring experienced developers
 with a specific skillset, I'll assume you're smart people, that you
@@ -307,7 +307,26 @@ becoming more widespread in hiring. I understand why companies are
 using them, although I think they're used either wrongly or
 excessively more often than not.
 
-TODO: mechanisms and measures
+If you haven't used these tools, here's an outline:
+
+- The technical interviewer designs the test by picking from a list of
+  coding challenges and questions
+
+- The candidate is sent a link to the online test, and works though it
+  - with a countdown timer running - to complete the challenge.
+
+- The screening tool tests correctness of the implementation using a
+  variety of datasets and edge cases - an array with no elements, an
+  array with one element, an array with all zeros, an array with large
+  values that could overflow a accumulator variable....you get the
+  picture.
+
+- The screening tool assesses the efficiency of the implementation by
+  pushing through datasets of increasing size in succession, and
+  calculating a Big-O complexity of the candidate's solution.
+
+- Candidates lose marks down for missing edge cases, or for
+  implementing with less efficiency than is possible.
 
 These platforms seem to provide an objective measure of capability, to
 differentiate between candidates. After all, the intent of HackerRank
