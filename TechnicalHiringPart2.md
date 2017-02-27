@@ -504,7 +504,12 @@ academic attainment, so I still find this puzzling.
 I don't get it. Perhaps my inductive reasoning isn't all it should
 be. But still, hard pass.
 
-## A better pipeline
+## A better funnel
+
+In Part 1, we looked the "funnel" model that many organisations use. I
+recommend you work continuously rather than running stages in
+lock-step, especially when screening - respond to applications as they
+arrive rather than batching.
 
 There's no universal ideal, but a good generic approach for me would
 look something like this:
