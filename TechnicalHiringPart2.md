@@ -465,11 +465,11 @@ colleagues. Look for good tests, good names and simple design.
 
 Ask the candidate to commit early and often, then you can see the
 solution evolve. Ask them to add a README.md too, with informal
-working notes - this isn't something you review, it's just a way of
-them communicating back to you. I always advise students to do this
-for tech assignments even if they aren't asked, noting down the
-decisions they made, things they think worked out well, things they
-would do differently. It's great insight.
+working notes - this isn't something you review as part of their
+solution, it's just a way of them communicating back to you. I always
+advise students to do this for tech assignments even if they aren't
+asked, noting down the decisions they made, things they think worked
+out well, things they would do differently. It's great insight.
 
 Agree in your team a set of points to cover in code reviews, so that
 it's applied fairly and consistently across candidates. A lot of
