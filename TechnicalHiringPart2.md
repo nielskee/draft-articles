@@ -377,7 +377,7 @@ structure fundamentals. And really, if that's the main focus in the
 role, should it not be the centrepiece of the live interview? More in
 the next post on that.
 
-But if this extensive and slightly ranty effort to dissuade you has
+But if this lengthy and slightly ranty effort to dissuade you has
 failed, and you feel you absolutely must use a tool like HackerRank,
 at least build your challenge sensibly. Rather than off-the-shelf
 coding challenges, consider creating your own. Use a (small!) mix of
@@ -386,13 +386,13 @@ simpler end of the spectrum. There's a temptation to "add to basket"
 when building the tests, but you're not doing your organisation any
 favours by making tests excessive. Also be **very generous indeed** on
 the time allowance - creating a false sense of urgency for the
-candidate is unrealistic, pointless, stressful and ultimately
-counterproductive.
+candidate is unrealistic, pointless, stressful and counterproductive.
 
 Assessment of results should always be done by practicing developers
-who understand the type of good code you're looking for. Review in
-pairs again, and discuss what you're seeing. Make allowances for
-nerves and pressure.
+who understand the type of good code you're looking for. Arrive at a
+view of how the candidate did by looking at the code, not just the
+results. Review in pairs again, and discuss what you're seeing. Make
+allowances for nerves and pressure.
 
 And one final point - if beat-the-clock coding challenges are
 appealing to you because you want people "working quickly" to meet
@@ -435,14 +435,14 @@ You can communicate with candidates while they're doing this too,
 unlike online technical tests. GitHub has social and communication
 features, so you can review code, make comments, raise issues and also
 see the solution evolving - you can do this privately too, if you want
-to add the candidate as a collaborator to a one-off repository that
-you create for them in your organisation.
+to add the candidate as a collaborator to a one-off private repository
+that you create for them in your organisation.
 
 In my view, this is a better format than an online tech test, more
 realistic and gives a better chance for the candidate to show what
 they can do. They can work with their own, familiar tools, in their
-own time. They can Google, they can Stack Overflow...**just like real
-life.**
+own time. They can Google, they can Stack Overflow...just like real
+life.
 
 Used well, this format meets one of the principles I talked about
 earlier - you match the candidate's investment:
@@ -462,8 +462,7 @@ earlier - you match the candidate's investment:
 
 You should look for evidence that you have an ethical developer, as I
 talked about earlier : someone who cares about code, users, and
-colleagues. Look for good tests, good names and simple design. Some
-tips:
+colleagues. Look for good tests, good names and simple design.
 
 Ask the candidate to commit early and often, then you can see the
 solution evolve. Ask them to add a README.md too, with informal
@@ -474,8 +473,10 @@ decisions they made, things they think worked out well, things they
 would do differently. It's great insight.
 
 Agree in your team a set of points to cover in code reviews, so that
-it's applied fairly and consistently across candidates. A simple
-checklist is a good way to capture this.
+it's applied fairly and consistently across candidates. A lot of
+people find checklists to be an old-fashioned notion, but I think
+they're useful - a simple checklist is a good way to capture the areas
+to focus on in the reviews.
 
 When you've made your decision, feed the candidate's solution forward
 into the live technical interview - it can make a great discussion
@@ -505,38 +506,41 @@ be. But still, hard pass.
 
 ## A better pipeline
 
-There's no ideal approach, but a good generic approach for me would
-look something like:
+There's no universal ideal, but a good generic approach for me would
+look something like this:
 
-* Have a daily hiring standup to maintain the cadence. At this
-  standup, do a group review with your tech interviewers of CV and
-  cover letters that came in the previous day. Aim for no more than a
-  24&#8209;hour lead time from arrival. There will be some early exits
-  here where the experience clearly doesn't match your
-  requirements. Give feedback.
+* **Have a daily hiring standup** in your team to maintain the
+  cadence. At this standup, do a group review with your tech
+  interviewers of CV and cover letters that came in the previous
+  day. Aim for no more than a 24&#8209;hour lead time from
+  arrival. There will be some early exits here where the experience
+  clearly doesn't match your requirements. Give feedback.
 
-* Have a very quick turnaround to phone screen for those candidates
-  you want to go forward with. If there are multiple candidates you're
-  talking to, fan out to multiple phone screen pairs. These pairs both
-  make the call, and make the call (see what I did there?). Give
-  feedback.
+* Aim for a **very quick turnaround to phone screen** for those
+  candidates you want to go forward with. If there are multiple
+  candidates you're talking to, fan out to multiple phone screen
+  pairs. These pairs both make the call, and make the call (see what I
+  did there?). Give feedback.
 
-* Have one form of technical screen only, with a preference for a
+* Have **one form of technical screen only**, with a preference for a
   technical assignment that's related to the tech domain.
 
-* Get it reviewed promptly when the solution comes back - the daily
-  standup helps coordinate this. Give feedback to both successful and
-  unsuccessful candidates. Use a checklist, but also leverage GitHub
-  as a review platform if that's possible for your organisation.
+* Get it **reviewed promptly** when the solution comes back - the
+  daily standup helps coordinate this. Give feedback to both
+  successful and unsuccessful candidates. Use a checklist, but also
+  leverage GitHub as a review platform if that's possible for your
+  organisation.
 
-* Make a decision for a live interview based on a balanced view of the
-  CV, phone and tech assignment, but always weighting towards the most
-  recent contact, so ```CV < phone < tech assignment```.
+* **Make a decision for a live interview** based on a balanced view of
+  the CV, phone and tech assignment, but always weighting towards the
+  most recent contact, so ```CV < phone < tech assignment```.
 
-The key to making this work is to devolve the process, and stop making
-hiring managers a bottleneck. Explain to people why broad involvement
-in tech hiring is important for diversity, and the future health of
-the team. They'll get it, trust me.
+The key to making this work is to keep the rhythm and devolve the
+process, removing managers as (a) sole decision-makers and (b) a
+process bottleneck. Explain to people why broad involvement in tech
+hiring is important for diversity, and the future health of the
+team. They'll get it, trust me, and they'll see the benefits of
+working next to colleagues they were instrumental in hiring.
 
 ## Coming next
 
