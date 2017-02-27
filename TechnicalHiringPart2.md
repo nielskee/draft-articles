@@ -496,10 +496,10 @@ and their screening and technical interview shows they can write good
 code, I'd say their grey matter is working pretty well for them.
 
 They're used also in assessing the potential of graduate entrants to
-companies, the rationale being that recent graduates don't have a work
-history or easily demonstrable skills to draw on. What graduates do
-have, though, is a very recent and detailed record of academic
-attainment, so I still find this puzzling.
+companies, the rationale sometimes given that recent graduates don't
+have a work history or easily demonstrable skills to draw on. What
+graduates do have, though, is a very recent and detailed record of
+academic attainment, so I still find this puzzling.
 
 I don't get it. Perhaps my inductive reasoning isn't all it should
 be. But still, hard pass.
