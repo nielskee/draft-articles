@@ -298,17 +298,17 @@ haven't used these tools, here's a potted summary:
   it, with a countdown timer running, to complete the challenge.
 
 - The screening tool tests correctness of the implementation using a
-  variety of inputs and edge cases - an array with no elements, an
-  array with one element, an array with all zeros, an array with large
-  values that could overflow a accumulator variable....you get the
-  picture.
+  variety of inputs and edge cases - empty input data, input data with
+  one element, input data with all zero elements, input data with
+  large values that could overflow a accumulator variable....you get
+  the picture.
 
 - The screening tool assesses the efficiency of the implementation by
   pushing through inputs of increasing size in succession, timing
   these, and calculating the Big-O complexity of the candidate's
   solution.
 
-- Candidates lose marks down for missing edge cases, and for
+- Candidates lose marks for incorrectness, missing edge cases, and for
   implementing with less efficiency than is possible.
 
 These platforms seem to provide an objective measure of capability, to
@@ -388,9 +388,9 @@ favours by making tests excessive. Also be **very generous indeed** on
 the time allowance - creating a false sense of urgency for the
 candidate is unrealistic, pointless, stressful and counterproductive.
 
-Assessment of results should always be done by practicing developers
-who understand the type of good code you're looking for. Arrive at a
-view of how the candidate did by looking at the code, not just the
+Assessment of results should always be done by developers who
+understand the type of good code you're looking for. Arrive at a view
+of how the candidate did by looking at the code, not just the
 results. Review in pairs again, and discuss what you're seeing. Make
 allowances for nerves and pressure.
 
@@ -416,11 +416,10 @@ Android developers. A RESTful service for back-end Java developers.
 
 The key is to construct a challenge that:
 
-- **Can be completed in around 2 hours for an experienced developer,
-  up to 4 hours max** for someone with experience (although remember
-  that if you're hiring people right at the start of a career in
-  development, this same challenge could take two or three times as
-  long for them : scale it back.
+- **Can be completed in a few hours for an experienced developer** -
+  but remember that if you're hiring people right at the start of a
+  career in development, this same challenge could take two or three
+  times as long for them : scale it back.
 
 - **Requires the candidate to do the things you want to assess** : for
   example, something they would need to write unit tests for, or
@@ -479,8 +478,9 @@ they're useful - a simple checklist is a good way to capture the areas
 to focus on in the reviews.
 
 When you've made your decision, feed the candidate's solution forward
-into the live technical interview - it can make a great discussion
-point.
+into the live technical interview - it can make a very useful
+discussion point, and gives the candidate a sense that their efforts
+were valued.
 
 ## "Aptitude" tests
 
