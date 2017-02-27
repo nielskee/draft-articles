@@ -1,4 +1,4 @@
-## Why screen candidates
++## Why screen candidates
 
 We'd love to see all candidates face to face. We'd love to have a
 complete view of their background, character and ability before making
@@ -174,9 +174,9 @@ exclusionary behaviour of others.
 
 In those cases where candidates do have these projects and activities,
 sure, view them as positives, but always remember that personal
-circumstances play a part. And if you're a male, white, middle-class
-technical manager, understand that your experience and perception of
-tech communities are very likely to be different from those of women,
+circumstances play a part. And if you're a cisgender, straight, white,
+male technical manager, understand that your experience and perception
+of tech communities are likely to be different from those of women,
 LGBTQ+ and non&#8209;binary folk, and people of colour who work in
 that same technical field.
 
@@ -400,7 +400,7 @@ a better way for you than the online test route. The basic idea is
 this - you set a small programming assignment along with a
 specification, and give to the candidate. They work on it at a time
 that suits them. You give them up to a week to get it back to you on
-GitHub (now) or an emailed zip file (back in Ye Olden Dayes).
+GitHub (2017) or an emailed zip file (Ye Olden Days).
 
 There are many benefits. For one thing, you can set a challenge that's
 a better fit for the core skill-set of the role you're recruiting
