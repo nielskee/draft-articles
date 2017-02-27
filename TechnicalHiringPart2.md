@@ -532,8 +532,8 @@ look something like this:
   organisation.
 
 * **Make a decision for a live interview** based on a balanced view of
-  the CV, phone and tech assignment, but always weighting towards the
-  most recent contact, so ```CV < phone < tech assignment```.
+  the CV, phone and tech assignment, but weighting towards the most
+  recent contact, so CV < phone < code assignment.
 
 The key to making this work is to keep the rhythm and devolve the
 process, removing managers as (a) sole decision-makers and (b) a
@@ -546,4 +546,4 @@ working next to colleagues they were instrumental in hiring.
 
 In the next part we're going to cover live technical interviews. Don't
 worry - it's much shorter than this part, because there's only one
-approach that I think is worth a damn.
+approach that I think is worth using.
