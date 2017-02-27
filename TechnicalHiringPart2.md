@@ -242,10 +242,11 @@ listen.
 One specific behaviour to be a little wary of is hyper-confidence by
 the candidate. You're looking to hire self-aware, reflective people
 who learn as they go. A career presented by the candidate as an
-unbroken series of ever more glorious successes makes me very nervous,
+unbroken series of ever more glorious successes makes me nervous,
 because I work in software development too and have a decent
-understanding of what the reality looks like. It may be nerves on
-their part, or it may be something else entirely.
+understanding of what the reality looks like. It may just be an
+adrenaline rush on their part because of the call, or it may be
+something else entirely.
 
 These calls can take as little as 20 minutes, although if the
 candidate has a whole bunch of questions, don't cut the call short
@@ -297,13 +298,13 @@ haven't used these tools, here's a potted summary:
   it, with a countdown timer running, to complete the challenge.
 
 - The screening tool tests correctness of the implementation using a
-  variety of data sets and edge cases - an array with no elements, an
+  variety of inputs and edge cases - an array with no elements, an
   array with one element, an array with all zeros, an array with large
   values that could overflow a accumulator variable....you get the
   picture.
 
 - The screening tool assesses the efficiency of the implementation by
-  pushing through data sets of increasing size in succession, timing
+  pushing through inputs of increasing size in succession, timing
   these, and calculating the Big-O complexity of the candidate's
   solution.
 
