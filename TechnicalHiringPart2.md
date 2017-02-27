@@ -12,7 +12,7 @@ then they'll often have multiple job applications live at any given
 time.
 
 Done right, screening gives you and the candidate a way of building
-confidence in each other - as your investment in each other grows, so
+confidence in each other. As your investment in each other grows, so
 does your confidence.
 
 I want to emphasise that this needs to be a **matched investment**. At
@@ -123,7 +123,7 @@ in a CV, that would make me want to know more about a candidate:
   breadth add capability to teams far beyond their core skills. If
   you're hiring developers, look for signs of interest in other
   disciplines - test automation, product design, accessibility, broad
-  industry knowledge - anything.
+  industry knowledge, anything.
 
 - **Self&#8209;improving** : evidence of personal or open&#8209;source
   projects is great, as well as attendance at any local meetups or
@@ -239,7 +239,7 @@ process where diversity of opinion matters, and give thought to who
 should primarily lead the conversation, and who should primarily
 listen.
 
-One specific behaviour to be a little wary of is hyper-confidence by
+One specific behaviour to be a little wary of is hyperconfidence by
 the candidate. You're looking to hire self-aware, reflective people
 who learn as they go. A career presented by the candidate as an
 unbroken series of ever more glorious successes makes me nervous,
@@ -543,7 +543,7 @@ look something like this:
   recent contact, so CV < phone < code assignment.
 
 The key to making this work is to keep the rhythm and devolve the
-process, removing managers as (a) sole decision-makers and (b) a
+process, removing managers as (a) sole decision makers and (b) a
 process bottleneck. Explain to people why broad involvement in tech
 hiring is important for diversity, and the future health of the
 team. They'll get it, trust me, and they'll see the benefits of
