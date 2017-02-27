@@ -23,10 +23,11 @@ advert was, you're back to sending a signal that this is really just
 about your company and its requirements.
 
 Also remember that screening is supposed to be quick, focused, and
-relatively low&#8209;investment. I talk to experienced developers who
-find the process that companies put in place time&#8209;consuming and
-and burdensome. In some cases they'll make a choice to go with
-companies who have a simpler and faster selection process.
+relatively low&#8209;investment for both sides. I talk to experienced
+developers who find the process that companies put in place
+time&#8209;consuming and and burdensome. In some cases they'll make a
+choice to go with companies who have a simpler and faster selection
+process.
 
 This is not because they're lazy people, but because they're *busy*
 people. In&#8209;demand developers will simply not have the time for
@@ -35,11 +36,9 @@ need to keep it efficient - hire people with confidence, but don't
 test their patience and make them look elsewhere. You can keep loading
 on more tests and assessments, but you'll just have fewer people
 engaged. You won't get to the finish line with the best candidates,
-you get there *with the ones that are left*.
+you'll get there *with the ones that are left*.
 
-You have a finite amount of time with a candidate, so make it
-count. Use the *right* screening and interviewing approaches, not
-just *more*.
+You have a finite amount of time with a candidate. Make it count.
 
 ## T&#8209;shapes and technical specifics
 
