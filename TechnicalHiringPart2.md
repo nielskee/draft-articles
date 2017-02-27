@@ -523,7 +523,9 @@ look something like this:
   did there?). Give feedback.
 
 * Have **one form of technical screen only**, with a preference for a
-  technical assignment that's related to the tech domain.
+  technical assignment that's related to the tech domain (phone
+  doesn't count here, it's a consistency check and not a technical
+  assessment).
 
 * Get it **reviewed promptly** when the solution comes back - the
   daily standup helps coordinate this. Give feedback to both
