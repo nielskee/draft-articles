@@ -174,13 +174,11 @@ exclusionary behaviour of others.
 
 In those cases where candidates do have these projects and activities,
 sure, view them as positives, but always remember that personal
-circumstances play a part.
-
-And if you're a male, white, middle-class technical manager,
-understand that your experience and perception of tech communities are
-very likely to be different - perhaps wildly different - from the
-experience of women, LGBTQ+ and non&#8209;binary folk, and people of
-colour who work in that same technical field.
+circumstances play a part. And if you're a male, white, middle-class
+technical manager, understand that your experience and perception of
+tech communities are very likely to be different from those of women,
+LGBTQ+ and non&#8209;binary folk, and people of colour who work in
+that same technical field.
 
 Treat personal projects and tech community involvement as "more
 information about candidate \<a>", and not "this makes candidate \<a>
@@ -211,9 +209,10 @@ and teams. _A matched investment_.
 
 Although I still value phone screens, I do these very differently
 now. I use a much more conversational style, and tend to base
-questions around a candidate's *stated* experience rather than a list
-of *requirements* for a role. The main focus is a consistency check,
-looking at experience, and sense-checking against technical knowledge.
+questions around a candidate's experience, on what they *say they
+know* rather than what we *think we need*. The value in these is a
+consistency check, looking at experience and sense-checking against
+what technical knowledge we can assess non-awkwardly over a phone.
 
 With this approach, you follow the trail of the discussion, and spot
 opportunities to ask some technical questions along the way. It's more
@@ -231,7 +230,7 @@ conversational skills yourself, and you also need to be able to show
 the same genuine enthusiasm and interest you're expecting the
 candidate to show. It needs you to think on your feet, but I think you
 get a better feel for the candidate, and non sequitur technical
-questions are just awkward.
+questions are just plain awkward.
 
 Do these calls in pairs to give a balanced view. Remember from the
 first post the point about diversity in your pool of interviewers?
@@ -372,15 +371,17 @@ structure fundamentals. And really, if that's the main focus in the
 role, should it not be the centrepiece of the live interview? More in
 the next post on that.
 
-If you absolutely must use a tool like HackerRank, at least build your
-challenge sensibly. Rather than off-the-shelf coding challenges,
-consider creating your own. Use a (small!) mix of multiple choice,
-subjective questions and a coding challenge at the simpler end of the
-spectrum. There's a temptation to "add to basket" when building the
-tests, but you're not doing your organisation any favours by making
-tests excessive. Also be **very generous indeed** on the time
-allowance - creating a false sense of urgency for the candidate is
-unrealistic, pointless, stressful and ultimately counterproductive.
+But if this extensive and slightly ranty effort to dissuade you has
+failed, and you feel you absolutely must use a tool like HackerRank,
+at least build your challenge sensibly. Rather than off-the-shelf
+coding challenges, consider creating your own. Use a (small!) mix of
+multiple choice, subjective questions and a coding challenge at the
+simpler end of the spectrum. There's a temptation to "add to basket"
+when building the tests, but you're not doing your organisation any
+favours by making tests excessive. Also be **very generous indeed** on
+the time allowance - creating a false sense of urgency for the
+candidate is unrealistic, pointless, stressful and ultimately
+counterproductive.
 
 Assessment of results should always be done by practicing developers
 who understand the type of good code you're looking for. Review in
@@ -518,7 +519,7 @@ look something like:
   technical assignment that's related to the tech domain.
 
 * Get it reviewed promptly when the solution comes back - the daily
-  standup helps coordinated this. Give feedback to both successful and
+  standup helps coordinate this. Give feedback to both successful and
   unsuccessful candidates. Use a checklist, but also leverage GitHub
   as a review platform if that's possible for your organisation.
 
