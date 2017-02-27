@@ -1,4 +1,4 @@
-+## Why screen candidates
+## Why screen candidates
 
 We'd love to see all candidates face to face. We'd love to have a
 complete view of their background, character and ability before making
