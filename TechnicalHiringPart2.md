@@ -191,13 +191,14 @@ armed with a set of technical questions. These questions were supposed
 to be sure-fire ways of choosing the best candidates to go forward to
 the next stage.
 
-I've used them that way in the past, in Q&A mode, but always found
-them stilted, awkward and ineffective, and I think candidates did
-too. It's a strange sort of conversation, barking questions into a
-mouthpiece apropos of nothing. Good candidates blank and stumble over
-answers when they don't have context. Other candidates will have
-memorised every Google search result for "technical interview phone
-screen questions", and wing it, sometimes convincingly.
+I've used them that way in the past, in rapid-fire Q&A mode, but
+always found them stilted, awkward and ineffective, and I think
+candidates did too. It's a strange sort of conversation, barking
+questions into a mouthpiece apropos of nothing. Good candidates blank
+and stumble over answers when they don't have context. Other
+candidates will have memorised every Google search result for
+"technical interview phone screen questions", and wing it, sometimes
+convincingly.
 
 I still think there are merits to phone, Skype or Hangouts contact
 though. It's a chance to check in with the candidate, let them know
@@ -211,7 +212,8 @@ now. I use a much more conversational style, and tend to base
 questions around a candidate's experience, on what they *say they
 know* rather than what we *think we need*. The value in these is a
 consistency check, looking at experience and sense-checking against
-what technical knowledge we can assess non-awkwardly over a phone.
+what technical knowledge we can assess non-awkwardly over a
+phone.
 
 With this approach, you follow the trail of the discussion, and spot
 opportunities to ask some technical questions along the way. It's more
@@ -228,8 +230,7 @@ set question list - for one thing, you need to have good
 conversational skills yourself, and you also need to be able to show
 the same genuine enthusiasm and interest you're expecting the
 candidate to show. It needs you to think on your feet, but I think you
-get a better feel for the candidate, and non sequitur technical
-questions are just plain awkward.
+get a better feel for the candidate.
 
 Do these calls in pairs to give a balanced view. Remember from the
 first post the point about diversity in your pool of interviewers?
@@ -245,6 +246,11 @@ unbroken series of ever more glorious successes makes me very nervous,
 because I work in software development too and have a decent
 understanding of what the reality looks like. It may be nerves on
 their part, or it may be something else entirely.
+
+These calls can take as little as 20 minutes, although if the
+candidate has a whole bunch of questions, don't cut the call short
+with questions unanswered. Set more time aside for the call than you
+think it'll need, and use any spare to write up informal feedback.
 
 ## Assessing the phone screen
 
